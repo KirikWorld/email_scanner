@@ -1,0 +1,260 @@
+Return-Path: <postmaster@kanem.ru>
+Received: by mail.moscow.stalker.com (CommuniGate Pro PIPE 6.1.11d)
+  with PIPE id 48313081; Tue, 24 May 2016 00:42:28 +0300
+Received: from [72.20.112.40] (HELO stalker.com)
+  by mail.moscow.stalker.com (CommuniGate Pro SMTP 6.1.11d)
+  with ESMTP id 48313079 for support@moscow.stalker.com; Tue, 24 May 2016 00:42:18 +0300
+Received: from mail.kanem.ru ([109.120.189.76] verified)
+  by mail.stalker.com (CommuniGate Pro SMTP 6.1.10)
+  with SMTP id 80685158 for support@communigate.com; Mon, 23 May 2016 14:42:16 -0700
+Received-SPF: pass
+ receiver=mail.stalker.com; client-ip=109.120.189.76; envelope-from=postmaster@kanem.ru
+Message-ID: <E21850A02AFEC5A67A7F368034E6ECF5@kanem.ru>
+Reply-To: =?windows-1251?B?weDt6vDu8vHy4u4=?= <uljana.shemanaeva@rambler.ru>
+From: =?windows-1251?B?weDt6vDu8vHy4u4=?= <postmaster@kanem.ru>
+To: <support@communigate.com>
+Subject: =?windows-1251?B?weDt6vDu8vHy4u4sIOzt5SDt8+bt7iD38u7h?=
+	=?windows-1251?B?+yDw/+Tu7CDt5SDh++vuIOru7erz8OXt8u7i?= - Case[5DGM0524-92367]
+Date: Tue, 24 May 2016 03:41:52 +0600
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="4e257e935b679732a027c35013d8"
+DKIM-Signature: v=1; a=rsa-sha256; d=kanem.ru; s=mail;
+	c=relaxed/relaxed; t=1464039712;
+	h=message-id:from:to:subject:date:mime-version;
+	bh=r/WjrVJnggoMt/3T4D4cwAfOH/H8U675BfeVPjY0TkE=;
+	b=rNWrolmya7Cs3074JvkjfjMcv+t1yzNsYcOeOqFVDvan2TjCIOULQR2aj7nH4a
+	AadXiKeEXzcQ0MdS2FhCosfUI4PZXFKEV0kv7VzN3wWVX+ECWV18VJvSINtiOpBL
+	SgAzk80auIO4Gbls96Hd4HPvdAB1hChPIqzSSzL+CX/EE=
+X-Antivirus: avast! (VPS 160628-1, 28.06.2016), Inbound message
+X-Antivirus-Status: Clean
+
+This is a multi-part message in MIME format.
+
+--4e257e935b679732a027c35013d8
+Content-Type: text/plain; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+=C1=FB=F2=FC =E1=E0=ED=EA=F0=EE=F2=EE=EC =F5=EE=F0=EE=F8=EE =E8=EB=E8 =EF=
+=EB=EE=F5=EE?
+
+=C1=C0=CD=CA=D0=CE=D2=D1=D2=C2=CE =DE=F0=E8=E4=E8=F7=E5=F1=EA=E8=F5=A0 =E8=
+ =F4=E8=E7=E8=F7=E5=F1=EA=E8=F5 =EB=E8=F6.=20
+
+=C0=F0=E1=E8=F2=F0=E0=E6=ED=FB=E9 =F3=EF=F0=E0=E2=EB=FF=FE=F9=E8=E9.
+
+=D1=EF=E8=F1=E0=ED=E8=E5 =E2=F1=E5=F5 =E4=EE=EB=E3=EE=E2 =E3=F0=E0=E6=E4=E0=
+=ED =F7=E5=F0=E5=E7 =EF=F0=EE=F6=E5=E4=F3=F0=F3 =E1=E0=ED=EA=F0=EE=F2=F1=F2=
+=E2=E0 =F4=E8=E7=E8=F7=E5=F1=EA=E8=F5 =EB=E8=F6.
+
+=C7=E0=F2=FF=E3=E8=E2=E0=ED=E8=E5 =F0=E5=F8=E5=ED=E8=E5 =EF=F0=EE=E1=EB=E5=
+=EC =F1 =EA=F0=E5=E4=E8=F2=E0=EC=E8 =EC=EE=E6=E5=F2 =EF=F0=E8=E2=E5=F1=F2=
+=E8 =EA =F1=E5=F0=FC=E5=E7=ED=FB=EC =EF=EE=F1=EB=E5=E4=F1=F2=E2=E8=FF=EC:
+
+=97 =EA=EE=ED=F4=E8=F1=EA=E0=F6=E8=FF =E8=EC=F3=F9=E5=F1=F2=E2=E0
+
+=97 =E0=F0=E5=F1=F2 =ED=E5=E4=E2=E8=E6=E8=EC=EE=F1=F2=E8
+
+=97 =F1=F3=E4=E8=EC=EE=F1=F2=FC
+
+=D2=E5=EF=E5=F0=FC =E3=F0=E0=E6=E4=E0=ED=E5 =D0=EE=F1=F1=E8=E8 =EC=EE=E3=F3=
+=F2=A0 =EE=F1=E2=EE=E1=EE=E4=E8=F2=FC=F1=FF=A0 =EE=F2 =E4=EE=EB=E3=EE=E2=EE=
+=E3=EE =F0=E0=E1=F1=F2=E2=E0.
+
+=CF=F0=E8 =EE=E1=F0=E0=F9=E5=ED=E8=E8 =EA =ED=E0=EC =EC=FB =EF=F0=E5=E4=EE=
+=F1=F2=E0=E2=EB=FF=E5=EC =E8=ED=E4=E8=E2=E8=E4=F3=E0=EB=FC=ED=FB=E9 =EF=EB=
+=E0=ED =F0=E5=F8=E5=ED=E8=FF=A0 =EF=F0=EE=E1=EB=E5=EC =F1 =E4=EE=EB=E3=E0=
+=EC=E8 =E3=F0=E0=E6=E4=E0=ED=E8=ED=E0 =E8 =EE=F0=E3=E0=ED=E8=E7=E0=F6=E8=E8=
+.
+
+=CC=FB =ED=E5 =E4=E0=E5=EC =EF=EB=EE=F5=E8=F5 =F1=EE=E2=E5=F2=EE=E2!
+
+=CF=F0=E8=E3=EB=E0=F8=E0=E5=EC =ED=E0 =E1=E5=F1=EF=EB=E0=F2=ED=F3=FE =EA=EE=
+=ED=F1=F3=EB=FC=F2=E0=F6=E8=FE!
+
+=C7=E0=EF=E8=F1=FC =EF=EE =F2=E5=EB=E5=F4=EE=ED=F3:
+
+=C0=F0=E1=E8=F2=F0=E0=E6=ED=FB=E9 =F3=EF=F0=E0=E2=EB=FF=FE=F9=E8=E9 8(383=
+)219-51-20; 8-913-951-66-42
+
+=CC=FB =F2=E0=EA =E6=E5 =EF=F0=E5=E4=EB=E0=E3=E0=E5=EC: =C0=F0=E1=E8=F2=F0=
+=E0=E6, =E2=E5=E4=E5=ED=E8=E5 =E3=F0=E0=E6=E4=E0=ED=F1=EA=E8=F5 =E4=E5=EB=
+ =E2 =F1=F3=E4=E0=F5 (=E1=F0=E0=EA=EE=F0=E0=E7=E2=EE=E4=ED=FB=E5 =EF=F0=EE=
+=F6=E5=F1=F1=FB, =ED=E0=F1=EB=E5=E4=F1=F2=E2=E5=ED=ED=FB=E5 =F1=EF=EE=F0=FB=
+) , =F1=EE=F1=F2=E0=E2=EB=E5=ED=E8=E5 =E8=F1=EA=EE=E2=FB=F5 =E7=E0=FF=E2=EB=
+=E5=ED=E8=E9, =E4=EE=E3=EE=E2=EE=F0=EE=E2, =EF=F0=E5=F2=E5=ED=E7=E8=E9=20
+
+=D2=E5=EB. =FE=F0=E8=E4=E8=F7=E5=F1=EA=EE=E3=EE =EE=F2=E4=E5=EB=E0 8-960-=
+779-79-70
+
+--4e257e935b679732a027c35013d8
+Content-Type: text/html; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML xmlns:o =3D "urn:schemas-microsoft-com:office:office"><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows=
+-1251">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><=
+B=20
+style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; COLOR: #c00000; FONT-SIZ=
+E: 16pt; mso-bidi-font-size: 14.0pt">=C1=FB=F2=FC=20
+=E1=E0=ED=EA=F0=EE=F2=EE=EC =F5=EE=F0=EE=F8=EE =E8=EB=E8 =EF=EB=EE=F5=EE?=
+<o:p></o:p></SPAN></B></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><=
+B=20
+style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; BACKGROUND: yellow; COLO=
+R: #0070c0; FONT-SIZE: 16pt; mso-bidi-font-size: 14.0pt; mso-highlight: y=
+ellow">=C1=C0=CD=CA=D0=CE=D2=D1=D2=C2=CE=20
+=DE=F0=E8=E4=E8=F7=E5=F1=EA=E8=F5<SPAN style=3D"mso-spacerun: yes">&nbsp;=
+ </SPAN>=E8 =F4=E8=E7=E8=F7=E5=F1=EA=E8=F5=20
+=EB=E8=F6.</SPAN></B><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; COLOR: #0070c0; FONT-SIZ=
+E: 16pt; mso-bidi-font-size: 14.0pt">=20
+<o:p></o:p></SPAN></B></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><=
+B=20
+style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; COLOR: #c00000; FONT-SIZ=
+E: 16pt; mso-bidi-font-size: 14.0pt">=C0=F0=E1=E8=F2=F0=E0=E6=ED=FB=E9=20
+=F3=EF=F0=E0=E2=EB=FF=FE=F9=E8=E9.<o:p></o:p></SPAN></B></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><=
+SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 10pt"><o:p>&n=
+bsp;</o:p></SPAN></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><=
+SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 14pt">=D1=EF=E8=
+=F1=E0=ED=E8=E5 =E2=F1=E5=F5=20
+=E4=EE=EB=E3=EE=E2 =E3=F0=E0=E6=E4=E0=ED =F7=E5=F0=E5=E7 =EF=F0=EE=F6=E5=E4=
+=F3=F0=F3 =E1=E0=ED=EA=F0=EE=F2=F1=F2=E2=E0 =F4=E8=E7=E8=F7=E5=F1=EA=E8=F5=
+ =EB=E8=F6.<o:p></o:p></SPAN></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><=
+SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 14pt">=C7=E0=F2=
+=FF=E3=E8=E2=E0=ED=E8=E5=20
+=F0=E5=F8=E5=ED=E8=E5 =EF=F0=EE=E1=EB=E5=EC =F1 =EA=F0=E5=E4=E8=F2=E0=EC=E8=
+ =EC=EE=E6=E5=F2 =EF=F0=E8=E2=E5=F1=F2=E8 =EA =F1=E5=F0=FC=E5=E7=ED=FB=EC=
+=20
+=EF=EE=F1=EB=E5=E4=F1=F2=E2=E8=FF=EC:<o:p></o:p></SPAN></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><=
+SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 14pt">=97 =EA=
+=EE=ED=F4=E8=F1=EA=E0=F6=E8=FF=20
+=E8=EC=F3=F9=E5=F1=F2=E2=E0<o:p></o:p></SPAN></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><=
+SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 14pt">=97 =E0=
+=F0=E5=F1=F2=20
+=ED=E5=E4=E2=E8=E6=E8=EC=EE=F1=F2=E8<o:p></o:p></SPAN></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><=
+SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 14pt">=97=20
+=F1=F3=E4=E8=EC=EE=F1=F2=FC<o:p></o:p></SPAN></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><=
+SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 10pt"><o:p>&n=
+bsp;</o:p></SPAN></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><=
+SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 14pt">=D2=E5=EF=
+=E5=F0=FC =E3=F0=E0=E6=E4=E0=ED=E5=20
+=D0=EE=F1=F1=E8=E8 =EC=EE=E3=F3=F2<SPAN style=3D"mso-spacerun: yes">&nbsp=
+; </SPAN>=EE=F1=E2=EE=E1=EE=E4=E8=F2=FC=F1=FF<SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; </SPAN>=EE=F2 =E4=EE=EB=E3=EE=E2=EE=E3=
+=EE =F0=E0=E1=F1=F2=E2=E0.=20
+<o:p></o:p></SPAN></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><=
+SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 10pt"><o:p>&n=
+bsp;</o:p></SPAN></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><=
+SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 14pt">=CF=F0=E8=
+ =EE=E1=F0=E0=F9=E5=ED=E8=E8 =EA=20
+=ED=E0=EC =EC=FB =EF=F0=E5=E4=EE=F1=F2=E0=E2=EB=FF=E5=EC =E8=ED=E4=E8=E2=E8=
+=E4=F3=E0=EB=FC=ED=FB=E9 =EF=EB=E0=ED =F0=E5=F8=E5=ED=E8=FF<SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; </SPAN>=EF=F0=EE=E1=EB=E5=EC =F1 =E4=EE=
+=EB=E3=E0=EC=E8 =E3=F0=E0=E6=E4=E0=ED=E8=ED=E0 =E8=20
+=EE=F0=E3=E0=ED=E8=E7=E0=F6=E8=E8.<o:p></o:p></SPAN></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><=
+SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; COLOR: #0070c0; FONT-SIZ=
+E: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><=
+SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; COLOR: #000099; FONT-SIZ=
+E: 14pt">=CC=FB=20
+=ED=E5 =E4=E0=E5=EC =EF=EB=EE=F5=E8=F5 =F1=EE=E2=E5=F2=EE=E2!<o:p></o:p><=
+/SPAN></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><=
+SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; COLOR: black; FONT-SIZE:=
+ 10pt; mso-themecolor: text1"><o:p>&nbsp;</o:p></SPAN></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><=
+B=20
+style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; COLOR: black; FONT-SIZE:=
+ 14pt; mso-themecolor: text1">=CF=F0=E8=E3=EB=E0=F8=E0=E5=EC=20
+=ED=E0 =E1=E5=F1=EF=EB=E0=F2=ED=F3=FE =EA=EE=ED=F1=F3=EB=FC=F2=E0=F6=E8=FE=
+!<o:p></o:p></SPAN></B></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><=
+SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 10pt"><o:p>&n=
+bsp;</o:p></SPAN></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><=
+SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 14pt">=C7=E0=EF=
+=E8=F1=FC =EF=EE=20
+=F2=E5=EB=E5=F4=EE=ED=F3:<o:p></o:p></SPAN></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt; tab-stops: 155.95pt=
+"=20
+class=3DMsoNormal><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; COLOR: #c00000; FONT-SIZ=
+E: 14pt">=C0=F0=E1=E8=F2=F0=E0=E6=ED=FB=E9=20
+=F3=EF=F0=E0=E2=EB=FF=FE=F9=E8=E9 8(383)219-51-20; </SPAN></B><B=20
+style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; BACKGROUND: red; FONT-SI=
+ZE: 14pt; mso-highlight: red">8-913-951-66-42</SPAN></B><B=20
+style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; COLOR: #c00000; FONT-SIZ=
+E: 14pt"><o:p></o:p></SPAN></B></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt; tab-stops: 155.95pt=
+"=20
+class=3DMsoNormal><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; BACKGROUND: lime; FONT-S=
+IZE: 10pt; mso-highlight: lime"><o:p></o:p></SPAN></B>&nbsp;</P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt; tab-stops: 155.95pt=
+"=20
+class=3DMsoNormal><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; BACKGROUND: lime; FONT-S=
+IZE: 14pt; mso-highlight: lime">=CC=FB=20
+=F2=E0=EA =E6=E5 =EF=F0=E5=E4=EB=E0=E3=E0=E5=EC:<SPAN style=3D"mso-tab-co=
+unt: 1"> </SPAN>=C0=F0=E1=E8=F2=F0=E0=E6, =E2=E5=E4=E5=ED=E8=E5=20
+=E3=F0=E0=E6=E4=E0=ED=F1=EA=E8=F5 =E4=E5=EB =E2 =F1=F3=E4=E0=F5 (=E1=F0=E0=
+=EA=EE=F0=E0=E7=E2=EE=E4=ED=FB=E5 =EF=F0=EE=F6=E5=F1=F1=FB, =ED=E0=F1=EB=E5=
+=E4=F1=F2=E2=E5=ED=ED=FB=E5 =F1=EF=EE=F0=FB) ,=20
+=F1=EE=F1=F2=E0=E2=EB=E5=ED=E8=E5 =E8=F1=EA=EE=E2=FB=F5 =E7=E0=FF=E2=EB=E5=
+=ED=E8=E9, =E4=EE=E3=EE=E2=EE=F0=EE=E2, =EF=F0=E5=F2=E5=ED=E7=E8=E9</SPAN=
+></B><B=20
+style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 14pt">=20
+<o:p></o:p></SPAN></B></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt; tab-stops: 155.95pt=
+"=20
+class=3DMsoNormal><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 10pt"><o:p>&n=
+bsp;</o:p></SPAN></B></P>
+<P style=3D"LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt; tab-stops: 155.95pt=
+"=20
+class=3DMsoNormal><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 14pt">=D2=E5=EB=
+.=20
+=FE=F0=E8=E4=E8=F7=E5=F1=EA=EE=E3=EE =EE=F2=E4=E5=EB=E0 <SPAN=20
+style=3D"BACKGROUND: red; mso-highlight: red">8-960-779-79-70</SPAN><o:p>=
+</o:p></SPAN></B></P></DIV></BODY></HTML>
+
+--4e257e935b679732a027c35013d8--

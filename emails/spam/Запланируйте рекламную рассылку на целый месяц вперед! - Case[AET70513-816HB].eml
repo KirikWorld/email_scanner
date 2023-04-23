@@ -1,0 +1,130 @@
+Return-Path: <postmaster@retym.ru>
+Received: by mail.moscow.stalker.com (CommuniGate Pro PIPE 6.1.11c)
+  with PIPE id 48186161; Fri, 13 May 2016 17:25:27 +0300
+Received: from [72.20.112.40] (HELO stalker.com)
+  by mail.moscow.stalker.com (CommuniGate Pro SMTP 6.1.11c)
+  with ESMTP id 48186173 for support@moscow.stalker.com; Fri, 13 May 2016 17:25:03 +0300
+Received: from mail.retym.ru ([81.177.23.9] verified)
+  by mail.stalker.com (CommuniGate Pro SMTP 6.1.10)
+  with SMTP id 80607534 for cgp-support@stalker.com; Fri, 13 May 2016 07:25:02 -0700
+Received-SPF: pass
+ receiver=mail.stalker.com; client-ip=81.177.23.9; envelope-from=postmaster@retym.ru
+Message-ID: <8B713E8FBE6A4E2DF1F4BD0D29DEC59F@retym.ru>
+Reply-To: =?windows-1251?B?z+jx/Ozu?= <malyshevakristina@myrambler.ru>
+From: =?windows-1251?B?z+jx/Ozu?= <postmaster@retym.ru>
+To: <cgp-support@stalker.com>
+Subject: =?windows-1251?B?x+Dv6+Dt6PDz6fLlIPDl6uvg7O3z/iDw4PHx?=
+	=?windows-1251?B?++vq8yDt4CD25ev76SDs5fH/9iDi7+Xw5eQh?= - Case[AET70513-816HB]
+Date: Fri, 13 May 2016 19:24:34 +0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="b70163b00473b9f0a041c08be286"
+DKIM-Signature: v=1; a=rsa-sha256; d=retym.ru; s=mail;
+	c=relaxed/relaxed; t=1463149474;
+	h=message-id:from:to:subject:date:mime-version;
+	bh=JcD+eCIZZNRIZ/Ya7l841XRCZ55QwthuyLz7d4haeOU=;
+	b=sQZgLky8l9VsnoiI8+PM6UT61Wy94XNQOWQ6rJyhzQxmPSipazNSDmOv4GzFZV
+	CDUaYyp8nCIa892Vfa0vrLZ520IwYfK4pbXPoBlBin58w/rl4xKjyynpFjlGg0wz
+	8UUR2gWh7+iNXvmPvKq2YHq0Q32CSKuZSMu74euZa6Oyc=
+X-Antivirus: avast! (VPS 160628-1, 28.06.2016), Inbound message
+X-Antivirus-Status: Clean
+
+This is a multi-part message in MIME format.
+
+--b70163b00473b9f0a041c08be286
+Content-Type: text/plain; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+=D2=E5=EF=E5=F0=FC =FD=F2=EE =E2=EE=E7=EC=EE=E6=ED=EE =E5=F9=E5 =E8 =F1 =F5=
+=EE=F0=EE=F8=E5=E9 =F1=EA=E8=E4=EA=EE=E9!=20
+
+=CD=E0 =FD=F2=EE=E9 =ED=E5=E4=E5=EB=E5 =EC=FB =EF=F0=E5=E4=EB=E0=E3=E0=E5=
+=EC =C2=E0=EC =E1=EE=ED=F3=F1:=A010 =F0=E0=F1=F1=FB=EB=EE=EA =E7=E0 16000=
+ 13=A0000 =F0=F3=E1=EB=E5=E9,=20
+
+=F2.=E5. =EA=E0=E6=E4=E0=FF =F0=E0=F1=F1=FB=EB=EA=E0, =ED=E0 1 =EB=FE=E1=EE=
+=E9 =E2=FB=E1=F0=E0=ED=ED=FB=E9 =C2=E0=EC=E8 =E3=EE=F0=EE=E4, =E1=F3=E4=E5=
+=F2 =F1=F2=EE=E8=F2=FC =E2=F1=E5=E3=EE 1 300 =F0=F3=E1=EB=E5=E9!
+
+=D0=E5=EA=EB=E0=EC=E0 =ED=E0 =F1=EE=F2=ED=E8 =F2=FB=F1=FF=F7 =C2=E0=F8=E8=
+=F5 =EF=EE=F2=E5=ED=F6=E8=E0=EB=FC=ED=FB=F5 =EA=EB=E8=E5=ED=F2=EE=E2 =E7=E0=
+ 1=A0300 =F0=F3=E1=EB=E5=E9!
+
+=CF=EE=E4=E3=EE=F2=EE=E2=EA=E0 =E7=E0=E9=EC=E5=F2 =ED=E5 =E1=EE=EB=E5=E5 =
+=E4=E2=F3=F5 =E4=ED=E5=E9, =E0 =EF=EE=E6=E8=ED=E0=F2=FC =EF=EB=EE=E4=FB =C2=
+=FB =E1=F3=E4=E5=F2=E5 =F6=E5=EB=FB=E9 =EC=E5=F1=FF=F6!
+
+=CE=E1=F0=E0=F2=E8=F2=E5=F1=FC =EA =ED=E0=EC, =E8 =EF=EE=EB=F3=F7=E8=F2=E5=
+ =EA=E0=F7=E5=F1=F2=E2=E5=ED=ED=F3=FE =F0=E5=EA=EB=E0=EC=F3 =E8 =E2=E5=F1=
+=EE=EC=F3=FE =F1=EA=E8=E4=EA=F3 =ED=E0 =ED=E5=E5!
+
+=C4=EE=E2=EE=EB=FC=ED=EE =F7=E0=F1=F2=EE, =E2 =F1=F3=EC=E0=F2=EE=F5=E5, =EC=
+=EE=E6=ED=EE =E7=E0=E1=FB=F2=FC =EE =F1=E0=EC=EE=EC =E3=EB=E0=E2=ED=EE=EC=
+ =E4=EB=FF =EF=F0=EE=F6=E2=E5=F2=E0=ED=E8=FF =C2=E0=F8=E5=E3=EE =E1=E8=E7=
+=ED=E5=F1=E0=85 =CD=EE =F1 =ED=E0=EC=E8 =F0=E5=EA=EB=E0=EC=E0 =E1=F3=E4=E5=
+=F2 =F1=E4=E5=EB=E0=ED=E0 =EA=E0=F7=E5=F1=F2=E2=E5=ED=ED=EE =E8 =E2 =F1=F0=
+=EE=EA!
+
+=C4=EE=EF=EE=EB=ED=E8=F2=E5=EB=FC=ED=FB=E5 =E2=EE=EF=F0=EE=F1=FB =EF=EE=F1=
+=FB=EB=E0=E9=F2=E5 =EE=F2=E2=E5=F2=EE=EC =ED=E0 =FD=F2=EE =EF=E8=F1=FC=EC=
+=EE!
+
+=C8=EB=E8 =EF=EE =F2=E5=EB=E5=F4=EE=ED=F3 =C2=EE=F1=E5=EC=FC =E2=EE=F1=FC=
+=EC=FC=F1=EE=F2-700-23-51, =C2=E0=F8 =EF=E5=F0=F1=EE=ED=E0=EB=FC=ED=FB=E9=
+ =EC=E5=ED=E5=E4=E6=E5=F0 =CA=F0=E8=F1=F2=E8=ED=E0!
+
+--b70163b00473b9f0a041c08be286
+Content-Type: text/html; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows=
+-1251">
+</HEAD>
+<BODY bgColor=3D#ffffff><EM><FONT style=3D"BACKGROUND-COLOR: #e6e6fa"=20
+face=3DGeorgia>=D2=E5=EF=E5=F0=FC =FD=F2=EE =E2=EE=E7=EC=EE=E6=ED=EE =E5=F9=
+=E5 =E8 =F1 =F5=EE=F0=EE=F8=E5=E9 =F1=EA=E8=E4=EA=EE=E9!</FONT></EM>
+<P><FONT color=3D#800000><FONT size=3D3 face=3DGeorgia><FONT color=3D#000=
+000>=CD=E0 =FD=F2=EE=E9=20
+=ED=E5=E4=E5=EB=E5 =EC=FB =EF=F0=E5=E4=EB=E0=E3=E0=E5=EC =C2=E0=EC =E1=EE=
+=ED=F3=F1:</FONT>&nbsp;<FONT color=3D#ff0000><B>10 =F0=E0=F1=F1=FB=EB=EE=EA=
+=20
+=E7=E0 <STRIKE>16000</STRIKE> 13&nbsp;000 <FONT color=3D#000000>=F0=F3=E1=
+=EB=E5=E9</FONT></B><FONT=20
+color=3D#000000>,</FONT></FONT> </FONT></FONT></P>
+<P><FONT size=3D3><FONT face=3D"Georgia, serif">=F2.=E5. <B>=EA=E0=E6=E4=E0=
+=FF =F0=E0=F1=F1=FB=EB=EA=E0, =ED=E0 1 =EB=FE=E1=EE=E9=20
+=E2=FB=E1=F0=E0=ED=ED=FB=E9 =C2=E0=EC=E8 =E3=EE=F0=EE=E4, =E1=F3=E4=E5=F2=
+<FONT color=3D#000000> </FONT><FONT color=3D#0000cd><FONT=20
+color=3D#000000>=F1=F2=EE=E8=F2=FC =E2=F1=E5=E3=EE 1 300 =F0=F3=E1=EB=E5=E9=
+!</FONT></FONT></B></FONT></FONT></P>
+<P><FONT size=3D3><FONT face=3D"Georgia, serif">=D0=E5=EA=EB=E0=EC=E0 =ED=
+=E0 =F1=EE=F2=ED=E8 =F2=FB=F1=FF=F7 =C2=E0=F8=E8=F5=20
+=EF=EE=F2=E5=ED=F6=E8=E0=EB=FC=ED=FB=F5 =EA=EB=E8=E5=ED=F2=EE=E2 =E7=E0 1=
+&nbsp;300 =F0=F3=E1=EB=E5=E9!</FONT></FONT></P>
+<P><FONT size=3D3><FONT face=3D"Georgia, serif"><I><FONT=20
+style=3D"BACKGROUND-COLOR: #ffa07a">=CF=EE=E4=E3=EE=F2=EE=E2=EA=E0 =E7=E0=
+=E9=EC=E5=F2 =ED=E5 =E1=EE=EB=E5=E5 =E4=E2=F3=F5 =E4=ED=E5=E9, =E0=20
+=EF=EE=E6=E8=ED=E0=F2=FC =EF=EB=EE=E4=FB =C2=FB =E1=F3=E4=E5=F2=E5 =F6=E5=
+=EB=FB=E9 =EC=E5=F1=FF=F6!</FONT></I></FONT></FONT></P>
+<P><FONT size=3D3><FONT face=3D"Georgia, serif">=CE=E1=F0=E0=F2=E8=F2=E5=F1=
+=FC =EA =ED=E0=EC, =E8 =EF=EE=EB=F3=F7=E8=F2=E5=20
+=EA=E0=F7=E5=F1=F2=E2=E5=ED=ED=F3=FE =F0=E5=EA=EB=E0=EC=F3 =E8 =E2=E5=F1=EE=
+=EC=F3=FE =F1=EA=E8=E4=EA=F3 =ED=E0 =ED=E5=E5!</FONT></FONT></P>
+<P><FONT size=3D3><FONT face=3D"Georgia, serif">=C4=EE=E2=EE=EB=FC=ED=EE =
+=F7=E0=F1=F2=EE, =E2 =F1=F3=EC=E0=F2=EE=F5=E5, =EC=EE=E6=ED=EE=20
+=E7=E0=E1=FB=F2=FC =EE =F1=E0=EC=EE=EC =E3=EB=E0=E2=ED=EE=EC =E4=EB=FF =EF=
+=F0=EE=F6=E2=E5=F2=E0=ED=E8=FF =C2=E0=F8=E5=E3=EE =E1=E8=E7=ED=E5=F1=E0=85=
+ =CD=EE =F1 =ED=E0=EC=E8 =F0=E5=EA=EB=E0=EC=E0 =E1=F3=E4=E5=F2=20
+=F1=E4=E5=EB=E0=ED=E0 =EA=E0=F7=E5=F1=F2=E2=E5=ED=ED=EE =E8 =E2 =F1=F0=EE=
+=EA!</FONT></FONT></P>
+<P><FONT size=3D3><FONT face=3D"Georgia, serif">=C4=EE=EF=EE=EB=ED=E8=F2=E5=
+=EB=FC=ED=FB=E5 =E2=EE=EF=F0=EE=F1=FB =EF=EE=F1=FB=EB=E0=E9=F2=E5=20
+=EE=F2=E2=E5=F2=EE=EC =ED=E0 =FD=F2=EE =EF=E8=F1=FC=EC=EE!</FONT></FONT><=
+/P>
+<P><FONT size=3D3><FONT face=3D"Georgia, serif">=C8=EB=E8 =EF=EE =F2=E5=EB=
+=E5=F4=EE=ED=F3 <B>=C2=EE=F1=E5=EC=FC=20
+=E2=EE=F1=FC=EC=FC=F1=EE=F2-700-23-51</B>, =C2=E0=F8 =EF=E5=F0=F1=EE=ED=E0=
+=EB=FC=ED=FB=E9 =EC=E5=ED=E5=E4=E6=E5=F0=20
+=CA=F0=E8=F1=F2=E8=ED=E0!</FONT></FONT></P></BODY></HTML>
+
+--b70163b00473b9f0a041c08be286--

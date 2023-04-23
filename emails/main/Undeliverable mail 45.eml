@@ -1,0 +1,57 @@
+X-Junk-Score:   0 []
+X-KAS-Score:   0 []
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=communigate.ru; s=test1;
+	bh=t9DnhQB7u0KBU/Gi0HocJkCXROwXbD6tolx0OGfK7fc=;
+	h=Content-Type:MIME-Version:Message-ID:Date:To:From:Subject; b=aw03moUYObx39i
+	XHUDlJVh9AUEEx0mH/ZUqUJFuspyFYGD71WF5ezeDXAFJQTwFGvkWZa3Rw635XnsUYXtxyW17WNGN
+	WB7OwkVzq5prmOChYS4sfHlE8nhRNN8QJl6/De0MjcmMiC06KduWkSEzvX0Hqnyq5ImQo8GfkGas4
+	mRc=
+Return-Path: <>
+Subject: Undeliverable mail: 45
+From: "Mail Delivery Subsystem" <MAILER-DAEMON@mail.communigate.ru>
+To: <testufa@mail.communigate.ru>
+Date: Tue, 18 Feb 2020 16:22:19 +0300
+Message-ID: <receipt-57153617@mail.communigate.ru>
+X-MAPI-Message-Class: REPORT.IPM.Note.NDR
+MIME-Version: 1.0
+Content-Type: multipart/report;boundary="_===57153617====mail.communigate.ru===_"; report-type="delivery-status"
+
+
+--_===57153617====mail.communigate.ru===_
+Content-Type: text/plain; charset="utf-8"
+
+Failed to deliver to 'lukoilo@communigate.com'
+SMTP module(domain @mail.communigate.ru|communigate.com) reports:
+ host mx10.cmailpro.net says:
+ 550 lukoilo@communigate.com unknown user account
+
+
+--_===57153617====mail.communigate.ru===_
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mail.communigate.ru
+
+Original-Recipient: rfc822;<lukoilo@communigate.com>
+Final-Recipient: rfc822;<lukoilo@communigate.com>
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; @mail.communigate.ru|communigate.com
+Diagnostic-Code: smtp;host mx10.cmailpro.net says:
+ 550 lukoilo@communigate.com unknown user account
+
+--_===57153617====mail.communigate.ru===_
+Content-Type: text/rfc822-headers
+
+Received: from [89.175.185.228] (account testufa@mail.communigate.ru)
+  by mail.communigate.ru (CommuniGate Pro XIMSS 6.2.15)
+  with HTTPU id 57153627 for lukoilo@communigate.com; Tue, 18 Feb 2020 16:22:13 +0300
+Subject: 45
+Message-ID: {b93592d5-3151-4619-8a68-9005424508f7}@mail.communigate.ru
+X-Mailer: SamowareQt 3.3.1
+From:  "XIMSS tests" <testufa@mail.communigate.ru>
+To:  "lukoilo@communigate.com" <lukoilo@communigate.com>
+Date: Tue, 18 Feb 2020 16:22:13 +0300
+MIME-Version: 1.0
+Content-Type: multipart/mixed;boundary="_===57153627====mail.communigate.ru===_"
+
+--_===57153617====mail.communigate.ru===_--

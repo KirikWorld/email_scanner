@@ -1,0 +1,114 @@
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=communigate.ru; s=test1;
+	bh=8zbvS7XMvgVgYR57TsCyvDfxZgxAR1f3bmxwnDHXSUU=;
+	h=Content-Transfer-Encoding:Content-Type:MIME-Version:content-class:
+	Message-ID:Date:To:Subject:From; b=nzVAEMhKAqwo7t494pJkC8gjGWziNR6WXctld0ioAE
+	dwDjCcGk+WeXYGWq4FlYDkgyCa/TvkwHkee3Ttm05dMYJSKWZwb5SWDAydrnQZzl5Yl7VSeMWktux
+	BLYCa+EQnWueTHkeoTGJRtPjHXRHAgBy38pRvXv91OR1LPC2WOV0=
+Return-Path: <burgov@mail.communigate.ru>
+Received: from [81.23.1.252] (account burgov@mail.communigate.ru)
+  by mail.communigate.ru (CommuniGate Pro HTTP 6.3c2b)
+  with AIRSYNC id 57290343; Mon, 20 Apr 2020 18:28:14 +0300
+From: "burgov@communigate.ru" <burgov@communigate.ru>
+Subject: =?utf-8?B?0KDQtdC70LjQt9C90YvQuSDQv9C70LDQvSDQntChINCQ0LI=?=
+ =?utf-8?B?0YDQvtGA0LA=?=
+To: "Oleg Lukyanchikov" <lukoilo@communigate.ru>,
+ "Andrei Khutsishvili" <akh@communigate.ru>,
+ "Dmitry Akindinov" <dimak@communigate.ru>,
+ "Alexander Malyshev" <apm@communigate.ru>
+Date: Mon, 20 Apr 2020 18:17:42 +0300
+Message-ID: <REQUEST-0-040000008200E00074C5B7101A82E00800000000F0B9FD694017D6010000000000000000100000002F2E2F6A253DBC4782BFB6E99444561D>
+content-class: urn:content-classes:calendarmessage
+X-MAPI-Message-Class: IPM.Schedule.Meeting.Request
+MIME-Version: 1.0
+Content-Type: text/calendar;charset=utf-8; method="REQUEST"; name="meeting.ics"
+Content-Transfer-Encoding: 8bit
+
+BEGIN:VCALENDAR
+PRODID:CommuniGate Pro 6.3c2b
+VERSION:2.0
+METHOD:REQUEST
+BEGIN:VEVENT
+ORGANIZER;CN="burgov@communigate.ru":MAILTO:burgov@communigate.ru
+DTSTAMP:20200420T152814Z
+UID:040000008200E00074C5B7101A82E00800000000F0B9FD694017D6010000000000000000100000002F2E2F6A253DBC4782BFB6E99444561D
+SEQUENCE:0
+SUMMARY:Релизный план ОС Аврора
+LOCATION:https://10.2.0.201/c/600
+DTSTART:20200421T070000Z
+DTEND:20200421T080000Z
+ATTENDEE;RSVP=TRUE;CN="Oleg Lukyanchikov":MAILTO:lukoilo@communigate.ru
+ATTENDEE;RSVP=TRUE;CN="Andrei Khutsishvili":MAILTO:akh@communigate.ru
+ATTENDEE;RSVP=TRUE;CN="Dmitry Akindinov":MAILTO:dimak@communigate.ru
+ATTENDEE;RSVP=TRUE;CN="Alexander Malyshev":MAILTO:apm@communigate.ru
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+DESCRIPTION:Коллеги\, давайте обсудим дальне
+ йшую возможную жизнь и развитие ветки
+  Samoware для Аврора.\N \NМесто сбора – ConfRoom
+  600.\NВход:\NВариант 1: через Samoware-Web/hPronto н
+ абираете 600.\NВариант 2: Для тех\, кто в о
+ фисе или через VPN - https://10.2.0.201/c/600 <https://10
+ .2.0.201/c/600>  Рекомендую заранее установи
+ ть клиент труконфа (доступен по указан
+ ному адресу <https://10.2.0.201/c/600> ) – качеств
+ о видео лучше (надеюсь\, это лишь пока 😉
+ ) и буфер позволяет невелировать пики 
+ и проседания в канале.\N \N \N_____________________
+ ________________________\NFrom: Vladimir A. Burgov [mailto:burgov@com
+ munigate.ru] \NSent: Monday\, April 20\, 2020 3:33 PM\NTo: Oleg Lukya
+ nchikov <lukoilo@communigate.ru>\; 'Andrei Khutsishvili' <akh@communi
+ gate.ru>\NCc: Dmitry Akindinov <dimak@communigate.ru>\NSubject: FW: Р
+ елизный план ОС Аврора\N \NКоллеги\, при
+ вет!\NНаши друзья из Ростелека и ОМП (Ав
+ роры) просят до середины недели присла
+ ть наше вИдение развития Samoware под ОС А
+ врора в виде RoadMap. Есть ли у вас какие-л
+ ибо мысли или даже может быть наработк
+ и по данному поводу? Последние планы\, 
+ которые мы обсудили с Олегом – для соз
+ дания какого-то прототипа Samoware для ОС 
+ Аврора\, нужны библиотеки\, которых нет
+  сейчас в составе ОС и они появятся тол
+ ько в конце года. Решение было принято
+  следующее – не педалировать сейчас р
+ азработку под ОС Аврора до момента вых
+ ода обновленной ОС с необходимыми биб
+ лиотеками.\N \N \N \N \NС уважением\,\NВладим
+ ир А. Бургов\NКоммерческий директор\NCom
+ muniGate Systems <http://www.communigate.com/ru> \NBurgov@communigate
+ .ru <mailto:burgov@communigate.ru> \NТел: +7 (499) 271 31 54 <tel:
+ +74992713154> \NМоб.:  +7 (903) 798 69 61 <tel:+79037986961> \NIM:
+  Skype <skype:gensec-rus?add> \, WhatsApp <https://api.whatsapp.com/s
+ end?phone=79037986961> \, Telegram <https://telegram.me/Burgov> \NНа
+ ши каналы на YouTube <https://www.youtube.com/c/CommuniGate
+ Systems> \, Facebook <https://www.facebook.com/CommuniGatePro/> \N \N
+ From: Шафранович Эллина Борисовна [mailto:El
+ lina.Shafranovich@rt.ru <mailto:Ellina.Shafranovich@rt.ru> ] \NSent: 
+ Monday\, April 20\, 2020 10:52 AM\NTo: Vladimir A. Burgov <burgov@com
+ munigate.ru <mailto:burgov@communigate.ru> >\NCc: Kirill Mescheryakov
+  <k.mescheryakov@omprussia.ru <mailto:k.mescheryakov@omprussia.ru> >\N
+ Subject: Релизный план ОС Аврора\N \NВладим
+ ир\, добрый день! \N \NВ рамках сотруднич
+ ества по проекту Доверенная мобильная
+  среда\, направляем на ознакомление ре
+ лизный план ОС Аврора с указанием обно
+ влений\, которые будут доступны к выхо
+ ду новых версий ОС.\NОбращаем Ваше вним
+ ание\, что документ носит исключительн
+ о конфиденциальный характер.\NВ свою о
+ чередь\, мы бы также хотели получить До
+ рожную карту развития Вашего приложен
+ ия на ОС Аврора. Во вложении Вы найдете
+  шаблон\, который можно использовать д
+ ля формирования Дорожной карты.\NЭто п
+ оможет нам информировать Заказчиков о
+  том\, когда в приложении появится та и
+ ли иная функция\, или обновление.\N\NГот
+ овы ответить на любые вопросы.\N\NСпаси
+ бо!\N \NС уважением\,\NШафранович Эллина\N
+ Проектный офис «Доверенная среда»\NПА
+ О «Ростелеком» \N+7 967 032 4748\N \N\N
+LAST-MODIFIED:20200420T152814Z
+CREATED:20200420T152814Z
+PRIORITY:5
+END:VEVENT
+END:VCALENDAR

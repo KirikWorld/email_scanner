@@ -1,0 +1,34 @@
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=communigate.ru; s=test1;
+	bh=s6aoSk7Etd+5PlIiI56A2IrA44n1MaOO/g2ebT3SMwQ=;
+	h=Content-Transfer-Encoding:Content-Type:MIME-Version:content-class:
+	Message-ID:Date:Subject:To:From; b=XqyLuQ/uklZIBam0RSvHoeKNek0/+LTSk6H+0h0fL+
+	eVM5Di2tN2yEKxZM4QJb2LyXOaH7obT5IT9XwPMAeyLoggPU9YUpTd1v1q1r7lHwVVp+24Tcn97fS
+	ewnjC4rUf58QQcNjp9A8Xy04D0jUgotqcugYqT2qgkk5Dnbetj0U=
+Return-Path: <markthomas@mail.communigate.ru>
+From: "Dmitry Melnikov" <markthomas@mail.communigate.ru>
+To: "XIMSS(j) tests" <testufa@mail.communigate.ru>
+Subject: ACCEPTED: =?utf-8?B?0KLQtdGB0YIg0L/QsNC00LXQvdC40Y8=?=
+Date: Tue, 26 May 2020 13:54:41 +0300
+Message-ID: <calendar-57600792@mail.communigate.ru>
+content-class: urn:content-classes:calendarmessage
+X-MAPI-Message-Class: IPM.Schedule.Meeting.Resp.Pos
+MIME-Version: 1.0
+Content-Type: text/calendar; charset="utf-8";
+ method="REPLY"; name="meeting.ics"
+Content-Transfer-Encoding: 8bit
+
+BEGIN:VCALENDAR
+PRODID:CommuniGate Pro 6.3.1c
+VERSION:2.0
+METHOD:REPLY
+BEGIN:VEVENT
+ORGANIZER;CN="XIMSS(j) tests":MAILTO:testufa@mail.communigate.ru
+DTSTAMP:20200526T105441Z
+UID:795245199.1.testufa
+SEQUENCE:0
+SUMMARY:Тест падения
+DTSTART:20200526T133000Z
+DTEND:20200526T134500Z
+ATTENDEE;PARTSTAT=ACCEPTED;CN="Dmitry Melnikov":MAILTO:markthomas@mail.communigate.ru
+END:VEVENT
+END:VCALENDAR

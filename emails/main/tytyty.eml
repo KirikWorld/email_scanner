@@ -1,0 +1,48 @@
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=communigate.ru; s=test1;
+	bh=UemZ/uaexJG3Oq1btb9WeyWe6r3Lk5lpufAOFrjgA7c=;
+	h=Content-Transfer-Encoding:Content-Type:MIME-Version:content-class:
+	Message-ID:Date:To:Subject:From; b=vROEEo0vlgdSA45kh0nMTtogmHfST/8VNGikaX02Si
+	RRgxruvW3NrCi5NimSeXs/iTqJRBpIJTs8dYlJ9Bv2Upbsyfyi4jRotS3tYkW6u4H8iUbXesW8ttn
+	1/6kLubFuoYDThMw/SYjkNxZopkMpjuosTTjlRh9HHOP9fzDnM5c=
+Return-Path: <lukoilo@mail.communigate.ru>
+Received: from [89.175.185.228] (account lukoilo@mail.communigate.ru)
+  by mail.communigate.ru (CommuniGate Pro XIMSS 6.2.15)
+  with HTTPU id 57121603 for testufa@mail.communigate.ru; Tue, 14 Jan 2020 12:03:08 +0300
+From: "Oleg Lukyanchikov" <lukoilo@mail.communigate.ru>
+Subject: tytyty
+To: "XIMSS tests" <testufa@mail.communigate.ru>
+Date: Tue, 14 Jan 2020 12:03:08 +0300
+Message-ID: <789496294.2.lukoilo>
+content-class: urn:content-classes:calendarmessage
+X-MAPI-Message-Class: IPM.Schedule.Meeting.Request
+MIME-Version: 1.0
+Content-Type: text/calendar;charset=utf-8; method="REQUEST"; name="meeting.ics"
+Content-Transfer-Encoding: 8bit
+
+BEGIN:VCALENDAR
+PRODID:CommuniGate Pro 6.2.15
+VERSION:2.0
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19710101T030000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN="Oleg Lukyanchikov":MAILTO:lukoilo@mail.communigate.ru
+DTSTAMP:20200114T090308Z
+UID:789496294.2.lukoilo
+SEQUENCE:0
+SUMMARY:tytyty
+LOCATION:tytyty
+DTSTART;TZID=Europe/Moscow:20200114T113000
+DTEND;TZID=Europe/Moscow:20200114T113500
+ATTENDEE;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=true;CN="XIMSS tests":MAILTO:testufa@mail.communigate.ru
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+LAST-MODIFIED:20200114T090308Z
+CREATED:20200114T090308Z
+END:VEVENT
+END:VCALENDAR

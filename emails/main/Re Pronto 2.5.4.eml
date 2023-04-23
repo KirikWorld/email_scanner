@@ -1,0 +1,86 @@
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=communigate.com; s=test1;
+	bh=Y341swcqC8p2m9emBmpHXIdud1fkE//a5+X5ZQ2/G54=;
+	h=Content-Transfer-Encoding:Content-Language:Content-Type:In-Reply-To:
+	MIME-Version:Date:Message-ID:Organization:From:References:Cc:To:Subject; b=Av
+	qSvoQCY0d7dYqG8dCRdy5CJztyIdIWdSix85O+yHE0JzQwNX0+9E+9Xs5yenCJTsMYE5rCHAuNcNI
+	XJexyrE8SorxC7m9xFUg8XJ2L037BsoqKpcZ0ECAStHZhPK+ftrDiwiYaxkqFjnYHV8MlJFqRi9l1
+	BRc2ksiaq9UaWhk=
+Return-Path: <dimak@communigate.com>
+Received: from [10.1.1.103] (account dimak@mail.moscow.stalker.com HELO [10.1.1.103])
+  by mail.moscow.stalker.com (CommuniGate Pro SMTP 6.2.14f)
+  with ESMTPSA id 56495912; Mon, 22 Jul 2019 15:27:01 +0300
+Subject: Re: Pronto 2.5.4
+To: =?UTF-8?B?0J7Qu9C10LMg0JvRg9C60YzRj9C90YfQuNC60L7Qsg==?=
+ <lukoilo@communigate.com>, Alexander Malyshev <apm@communigate.com>
+Cc: Vladimir Burgov <burgov@communigate.com>, m.trishina@communigate.ru,
+ =?UTF-8?B?0KHQsNC00YfQuNC60L7QsiDQkNC70LXQutGB0LXQuSDQk9C10L7RgNCz0LjQtdCy?=
+ =?UTF-8?B?0LjRhw==?= <A.Sad@incoma.ru>, A.Gla@incoma.ru, m.pav@incoma.ru
+References: <03b90cfa-121b-2c76-ce36-49c2c7f091ce@communigate.com>
+ <9ea014c6-9ebe-a538-b527-eac78e245876@communigate.com>
+ <00c4b7b2-c4b3-bcb1-a91f-38c663983ab8@communigate.com>
+ <24f6901d-0c8a-d3e8-bff9-1bc1f99b579c@communigate.com>
+ <79814b32-dd0a-18aa-0f7f-7bb6c47fb3dc@communigate.com>
+ <b830686f-5c30-ed7e-b934-65301fffb861@communigate.com>
+From: Dmitry Akindinov <dimak@communigate.com>
+Organization: Stalker Labs
+Message-ID: <4a6463e9-2550-a36f-c3da-9202df83d56e@communigate.com>
+Date: Mon, 22 Jul 2019 15:27:07 +0300
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:60.0) Gecko/20100101
+ Thunderbird/60.7.1
+MIME-Version: 1.0
+In-Reply-To: <b830686f-5c30-ed7e-b934-65301fffb861@communigate.com>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Language: en-US
+Content-Transfer-Encoding: 8bit
+
+Здравствуйте.
+
+On 2019-07-21 17:40, Олег Лукьянчиков wrote:
+> Новая версия Pronto! ftp://devbox.stalker.com/install_pronto/Windows/2.5.4/
+
+Настоятельная рекомендация: переходите на использование домена 
+communigate.ru, гитлаб тоже можно перенастроить, сертификат для 
+*.communigate.ru у нас есть.
+
+> Pronto 2.5.4
+> 
+> - Fixed calendar view update
+> - New calendar list view
+> - Added buttons for begin new chats
+> - Added functions for select buddies groups
+> - Added functions for notify about reading emails
+> 
+> 
+> 12.07.2019 14:58, Олег Лукьянчиков пишет:
+>> Новая версия Pronto! 
+>> ftp://devbox.stalker.com/install_pronto/Windows/2.5.3/
+>>
+>> Pronto 2.5.3
+>>
+>> - Fixed remote port when connected for upload or download files
+>> - Fixed setting sender when editing draft email
+>>
+>> 08.07.2019 14:12, Олег Лукьянчиков пишет:
+>>> Новая версия Pronto! 
+>>> ftp://devbox.stalker.com/install_pronto/Windows/2.5.2/
+>>>
+>>> Pronto 2.5.2
+>>>
+>>> - New core contact module
+>>> - Changed buddies contacts groups view
+>>> - Added adress book groups
+>>> - Fixed email attachment loading
+>>> - Added view status of loading contacts from server
+>>> - Optimized loading of letters from a local database
+>>> - Added in the list of letters indicator of the letter with a 
+>>> calendar event and attachments
+>>> - New view notifications and alert
+>>>
+>>> Как всегда нужно почистить локальную БД
+>>>
+>>> Следующие итерации занимается исправление только БАГОВ, новый 
+>>> функционал практически добавлять не будем
+
+-- 
+Best regards,
+Dmitry Akindinov

@@ -1,0 +1,407 @@
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=communigate.com; s=test1;
+	bh=R+T47n8Q/ThB1kuMOC0ZpLVBXxNfPqZAFjgj3NjNBnI=;
+	h=Content-Language:Content-Type:In-Reply-To:MIME-Version:Date:Message-ID:From
+	:References:Cc:To:Subject:Reply-To; b=sxuyx65CcX0DMLd4G9LW9FBNknMgXnT07WEdBye
+	e0hZGHCcWfZGSQ8Z/HJDcZhPDbFAcuieoEnEhrdEYw9fDN6TMko5gqhlZiAPvgz8HzejE6j3PeJ9L
+	y4OjQlSN78XcWzlmFvEdCbVz2d41eEAGbdZo2/uvQx+KEu589HLv0wY=
+Return-Path: <support@communigate.com>
+Received: from [10.1.1.211] (account support@mail.moscow.stalker.com [10.1.1.211] verified)
+  by mail.moscow.stalker.com (CommuniGate Pro SMTP 6.2.14f)
+  with ESMTPSA id 56488634; Fri, 19 Jul 2019 12:03:22 +0300
+Reply-To: support@communigate.com
+Subject: Re: AW: Pronto Beta 2.5.4 and 6.3 crashes - Case[YTUX0719-166ST]
+To: "juergenp [core]" <juergenp@core.at>
+Cc: "kef@mail.moscow.stalker.com" <kef@mail.moscow.stalker.com>,
+ "lukoilo@mail.moscow.stalker.com" <lukoilo@mail.moscow.stalker.com>
+References: <!&!AAAAAAAAAAAgAAAAAAAAAPTpCwYqlJtJqtPvYUu/GVIAAAAATCWxBQDwBAAQAAAAfFyYKeLZckilphoCCgBe4AEAAAAA@core.at>
+From: "support@communigate.com" <support@communigate.com>
+Message-ID: <a87e19bd-c6db-005c-773c-a683b179d943@communigate.com>
+Date: Fri, 19 Jul 2019 12:03:21 +0300
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101
+ Thunderbird/60.7.2
+MIME-Version: 1.0
+In-Reply-To: <!&!AAAAAAAAAAAgAAAAAAAAAPTpCwYqlJtJqtPvYUu/GVIAAAAATCWxBQDwBAAQAAAAfFyYKeLZckilphoCCgBe4AEAAAAA@core.at>
+Content-Type: multipart/alternative;
+ boundary="------------F1AD2917DD96CB3CB9B454B2"
+Content-Language: en-US
+
+This is a multi-part message in MIME format.
+--------------F1AD2917DD96CB3CB9B454B2
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Our developers suggest that you probably have a previous Pronto 
+installation and you setup a new version over the old one. That led to 
+such erroneous behavior.
+
+To resolve the issue go to the location: %HOMEDIR%\.Pronto.Shell and 
+delete any files inside it.
+
+Than try to start the Pronto application once more.
+
+As for the cleartext passwords in the log - that will be resolved later.
+
+On 7/19/19 11:48 AM, juergenp [core] wrote:
+>
+> Hello,
+>
+> Attached the log file and a short movie what happens when starting.
+>
+> I tried also on 6.2.12 Server - there pronto starts.
+>
+> BTW - I have seen that the passwords are in cleartext in the log == 
+> not a good idea 😊
+>
+> Nothing special in the windows logs.
+>
+> Kr
+>
+> **
+>
+> Best Regards
+>
+> Jürgen Paulhart
+>
+> E-Mail / SIP / XMPP : juergenp@core.at
+>
+> VoIP / Mobil: +43 676 30 59 244
+>
+> *** Information Technologies & Hosted Unified Communications ***
+>
+> <** Diese Nachricht is signiert. Der Inhalt wurde während des Transfers
+>
+> nicht verändert **>
+>
+> <*** .. and if you don't know, now you know, ... ***>
+>
+> -----Ursprüngliche Nachricht-----
+> Von: support@communigate.com <support@communigate.com>
+> Gesendet: Freitag, 19. Juli 2019 10:14
+> An: juergenp [core] <juergenp@core.at>
+> Cc: Egor Krugletsov <kef@mail.moscow.stalker.com>; Oleg Lukyanchikov 
+> <lukoilo@mail.moscow.stalker.com>
+> Betreff: Re: Pronto Beta 2.5.4 and 6.3 crashes - Case[YTUX0719-166ST]
+>
+> Please send also log file which is placed in user's home directory 
+> %HOMEDIR%\.Pronto.Shell (this directory can be hidden). Search for the 
+> files with name like log*.txt
+>
+> On 7/19/19 10:48 AM, support@communigate.com 
+> <mailto:support@communigate.com> wrote:
+>
+> > Hello,
+>
+> >
+>
+> > Please, give us some more information
+>
+> >
+>
+> > - Are there any steps that you are doing before Pronto crashes?
+>
+> >
+>
+> > - Could you also try to investigate windows event log if there are any
+>
+> > error messages?
+>
+> >
+>
+> > Send us a screenshot when Pronto crashes.
+>
+> >
+>
+> > On 7/19/19 1:40 AM, juergenp [core] wrote:
+>
+> >>
+>
+> >> Hi,
+>
+> >>
+>
+> >> pronto beta crashes immediately on my windows pc.
+>
+> >>
+>
+> >> attached server log output - seems to be a session issue.
+>
+> >>
+>
+> >> are there any logs for client-side also ? like we had on flash with
+>
+> >> ctrl+alt+shift+F12 ?
+>
+> >>
+>
+> >> kr
+>
+> >>
+>
+> >> **
+>
+> >>
+>
+> >> Best Regards
+>
+> >>
+>
+> >> Jürgen Paulhart
+>
+> >>
+>
+> >> E-Mail / SIP / XMPP : juergenp@core.at <mailto:juergenp@core.at>
+>
+> >>
+>
+> >> VoIP / Mobil: +43 676 30 59 244
+>
+> >>
+>
+> >> *** Information Technologies & Hosted Unified Communications ***
+>
+> >>
+>
+> >> <** Diese Nachricht is signiert. Der Inhalt wurde während des
+>
+> >> Transfers nicht verändert **>
+>
+> >>
+>
+> >> <*** .. and if you don't know, now you know, ... ***>
+>
+> >>
+>
+> --
+>
+> Best regards,
+>
+> Alexandra Kuznetsova
+>
+> =======================================================================
+>
+> When answering to letters sent to you by the tech.support staff, make 
+> sure the original message you have received is included into your reply.
+>
+-- 
+Best regards,
+Alexandra Kuznetsova
+  
+=======================================================================
+When answering to letters sent to you by the tech.support staff, make
+sure the original message you have received is included into your
+reply.
+
+
+--------------F1AD2917DD96CB3CB9B454B2
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  </head>
+  <body bgcolor="#FFFFFF" text="#000000">
+    <p>Our developers suggest that you probably have a previous Pronto
+      installation and you setup a new version over the old one. That
+      led to such erroneous behavior.</p>
+    <p>To resolve the issue go to the location: %HOMEDIR%\.Pronto.Shell
+      and delete any files inside it.</p>
+    <p>Than try to start the Pronto application once more.</p>
+    <p>As for the cleartext passwords in the log - that will be resolved
+      later.<br>
+    </p>
+    <div class="moz-cite-prefix">On 7/19/19 11:48 AM, juergenp [core]
+      wrote:<br>
+    </div>
+    <blockquote type="cite"
+cite="mid:!&amp;!AAAAAAAAAAAgAAAAAAAAAPTpCwYqlJtJqtPvYUu%2FGVIAAAAATCWxBQDwBAAQAAAAfFyYKeLZckilphoCCgBe4AEAAAAA@core.at">
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta name="Generator" content="Microsoft Word 15 (filtered
+        medium)">
+      <style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{mso-style-priority:99;
+	mso-style-link:"Nur Text Zchn";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+span.NurTextZchn
+	{mso-style-name:"Nur Text Zchn";
+	mso-style-priority:99;
+	mso-style-link:"Nur Text";
+	font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+      <div class="WordSection1">
+        <p class="MsoPlainText"><span lang="EN-US">Hello,<o:p></o:p></span></p>
+        <p class="MsoPlainText"><span lang="EN-US"><o:p> </o:p></span></p>
+        <p class="MsoPlainText"><span lang="EN-US">Attached the log file
+            and a short movie what happens when starting.<o:p></o:p></span></p>
+        <p class="MsoPlainText"><span lang="EN-US">I tried also on
+            6.2.12 Server - there pronto starts.<o:p></o:p></span></p>
+        <p class="MsoPlainText"><span lang="EN-US"><o:p> </o:p></span></p>
+        <p class="MsoPlainText"><span lang="EN-US">BTW - I have seen
+            that the passwords are in cleartext in the log == not a good
+            idea </span><span style="font-family:&quot;Segoe UI
+            Emoji&quot;,sans-serif" lang="EN-US">😊</span><span
+            lang="EN-US"><o:p></o:p></span></p>
+        <p class="MsoPlainText"><span lang="EN-US"><o:p> </o:p></span></p>
+        <p class="MsoPlainText"><span lang="EN-US">Nothing special in
+            the windows logs.<o:p></o:p></span></p>
+        <p class="MsoPlainText"><span lang="EN-US"><o:p> </o:p></span></p>
+        <p class="MsoPlainText"><span lang="EN-US">Kr<o:p></o:p></span></p>
+        <p class="MsoPlainText"><span lang="EN-US">**<o:p></o:p></span></p>
+        <p class="MsoPlainText"><span lang="EN-US">Best Regards<o:p></o:p></span></p>
+        <p class="MsoPlainText"><span lang="EN-US"><o:p> </o:p></span></p>
+        <p class="MsoPlainText"><span lang="EN-US">Jürgen Paulhart<o:p></o:p></span></p>
+        <p class="MsoPlainText"><span lang="EN-US"><o:p> </o:p></span></p>
+        <p class="MsoPlainText"><span lang="EN-US">E-Mail / SIP / XMPP :
+            <a class="moz-txt-link-abbreviated" href="mailto:juergenp@core.at">juergenp@core.at</a><o:p></o:p></span></p>
+        <p class="MsoPlainText"><span lang="EN-US">VoIP / Mobil: +43 676
+            30 59 244<o:p></o:p></span></p>
+        <p class="MsoPlainText"><span lang="EN-US"><o:p> </o:p></span></p>
+        <p class="MsoPlainText"><span lang="EN-US">*** Information
+            Technologies &amp; Hosted Unified Communications ***<o:p></o:p></span></p>
+        <p class="MsoPlainText"><span lang="EN-US"><o:p> </o:p></span></p>
+        <p class="MsoPlainText">&lt;** Diese Nachricht is signiert. Der
+          Inhalt wurde während des Transfers <o:p></o:p></p>
+        <p class="MsoPlainText"><span lang="EN-US">nicht verändert
+            **&gt;<o:p></o:p></span></p>
+        <p class="MsoPlainText"><span lang="EN-US">&lt;*** .. and if you
+            don't know, now you know, ... </span>***&gt;<o:p></o:p></p>
+        <p class="MsoPlainText"><o:p> </o:p></p>
+        <p class="MsoPlainText"><span style="mso-fareast-language:DE-AT"
+            lang="DE">-----Ursprüngliche Nachricht-----<br>
+            Von: <a class="moz-txt-link-abbreviated" href="mailto:support@communigate.com">support@communigate.com</a> <a class="moz-txt-link-rfc2396E" href="mailto:support@communigate.com">&lt;support@communigate.com&gt;</a>
+            <br>
+            Gesendet: Freitag, 19. Juli 2019 10:14<br>
+            An: juergenp [core] <a class="moz-txt-link-rfc2396E" href="mailto:juergenp@core.at">&lt;juergenp@core.at&gt;</a><br>
+            Cc: Egor Krugletsov <a class="moz-txt-link-rfc2396E" href="mailto:kef@mail.moscow.stalker.com">&lt;kef@mail.moscow.stalker.com&gt;</a>;
+            Oleg Lukyanchikov <a class="moz-txt-link-rfc2396E" href="mailto:lukoilo@mail.moscow.stalker.com">&lt;lukoilo@mail.moscow.stalker.com&gt;</a><br>
+            Betreff: Re: Pronto Beta 2.5.4 and 6.3 crashes -
+            Case[YTUX0719-166ST]</span></p>
+        <p class="MsoPlainText"><o:p> </o:p></p>
+        <p class="MsoPlainText">Please send also log file which is
+          placed in user's home directory %HOMEDIR%\.Pronto.Shell (this
+          directory can be hidden). Search for the files with name like
+          log*.txt<o:p></o:p></p>
+        <p class="MsoPlainText"><o:p> </o:p></p>
+        <p class="MsoPlainText">On 7/19/19 10:48 AM, <a
+            href="mailto:support@communigate.com" moz-do-not-send="true"><span
+              style="color:windowtext;text-decoration:none">support@communigate.com</span></a>
+          wrote:<o:p></o:p></p>
+        <p class="MsoPlainText">&gt; Hello,<o:p></o:p></p>
+        <p class="MsoPlainText">&gt;<o:p> </o:p></p>
+        <p class="MsoPlainText">&gt; Please, give us some more
+          information<o:p></o:p></p>
+        <p class="MsoPlainText">&gt;<o:p> </o:p></p>
+        <p class="MsoPlainText">&gt; - Are there any steps that you are
+          doing before Pronto crashes?<o:p></o:p></p>
+        <p class="MsoPlainText">&gt;<o:p> </o:p></p>
+        <p class="MsoPlainText">&gt; - Could you also try to investigate
+          windows event log if there are any <o:p></o:p></p>
+        <p class="MsoPlainText">&gt; error messages?<o:p></o:p></p>
+        <p class="MsoPlainText">&gt;<o:p> </o:p></p>
+        <p class="MsoPlainText">&gt; Send us a screenshot when Pronto
+          crashes.<o:p></o:p></p>
+        <p class="MsoPlainText">&gt;<o:p> </o:p></p>
+        <p class="MsoPlainText">&gt; On 7/19/19 1:40 AM, juergenp [core]
+          wrote:<o:p></o:p></p>
+        <p class="MsoPlainText">&gt;&gt;<o:p> </o:p></p>
+        <p class="MsoPlainText">&gt;&gt; Hi,<o:p></o:p></p>
+        <p class="MsoPlainText">&gt;&gt;<o:p> </o:p></p>
+        <p class="MsoPlainText">&gt;&gt; pronto beta crashes immediately
+          on my windows pc.<o:p></o:p></p>
+        <p class="MsoPlainText">&gt;&gt;<o:p> </o:p></p>
+        <p class="MsoPlainText">&gt;&gt; attached server log output -
+          seems to be a session issue.<o:p></o:p></p>
+        <p class="MsoPlainText">&gt;&gt;<o:p> </o:p></p>
+        <p class="MsoPlainText">&gt;&gt; are there any logs for
+          client-side also ? like we had on flash with<o:p></o:p></p>
+        <p class="MsoPlainText">&gt;&gt; ctrl+alt+shift+F12 ?<o:p></o:p></p>
+        <p class="MsoPlainText">&gt;&gt;<o:p> </o:p></p>
+        <p class="MsoPlainText">&gt;&gt; kr<o:p></o:p></p>
+        <p class="MsoPlainText">&gt;&gt;<o:p> </o:p></p>
+        <p class="MsoPlainText">&gt;&gt; **<o:p></o:p></p>
+        <p class="MsoPlainText">&gt;&gt;<o:p> </o:p></p>
+        <p class="MsoPlainText">&gt;&gt; Best Regards<o:p></o:p></p>
+        <p class="MsoPlainText">&gt;&gt;<o:p> </o:p></p>
+        <p class="MsoPlainText">&gt;&gt; Jürgen Paulhart<o:p></o:p></p>
+        <p class="MsoPlainText">&gt;&gt;<o:p> </o:p></p>
+        <p class="MsoPlainText">&gt;&gt; E-Mail / SIP / XMPP : <a
+            href="mailto:juergenp@core.at" moz-do-not-send="true"><span
+              style="color:windowtext;text-decoration:none">juergenp@core.at</span></a><o:p></o:p></p>
+        <p class="MsoPlainText">&gt;&gt;<o:p> </o:p></p>
+        <p class="MsoPlainText">&gt;&gt; VoIP / Mobil: +43 676 30 59 244<o:p></o:p></p>
+        <p class="MsoPlainText">&gt;&gt;<o:p> </o:p></p>
+        <p class="MsoPlainText">&gt;&gt; *** Information Technologies
+          &amp; Hosted Unified Communications ***<o:p></o:p></p>
+        <p class="MsoPlainText">&gt;&gt;<o:p> </o:p></p>
+        <p class="MsoPlainText">&gt;&gt; &lt;** Diese Nachricht is
+          signiert. Der Inhalt wurde während des <o:p></o:p></p>
+        <p class="MsoPlainText">&gt;&gt; Transfers nicht verändert
+          **&gt;<o:p></o:p></p>
+        <p class="MsoPlainText">&gt;&gt;<o:p> </o:p></p>
+        <p class="MsoPlainText">&gt;&gt; &lt;*** .. and if you don't
+          know, now you know, ... ***&gt;<o:p></o:p></p>
+        <p class="MsoPlainText">&gt;&gt;<o:p> </o:p></p>
+        <p class="MsoPlainText">--<o:p></o:p></p>
+        <p class="MsoPlainText">Best regards,<o:p></o:p></p>
+        <p class="MsoPlainText">Alexandra Kuznetsova<o:p></o:p></p>
+        <p class="MsoPlainText">  <o:p></o:p></p>
+        <p class="MsoPlainText">=======================================================================<o:p></o:p></p>
+        <p class="MsoPlainText">When answering to letters sent to you by
+          the tech.support staff, make sure the original message you
+          have received is included into your reply.<o:p></o:p></p>
+        <p class="MsoPlainText"><o:p> </o:p></p>
+      </div>
+    </blockquote>
+    <pre class="moz-signature" cols="72">-- 
+Best regards,
+Alexandra Kuznetsova
+ 
+=======================================================================
+When answering to letters sent to you by the tech.support staff, make
+sure the original message you have received is included into your
+reply.</pre>
+  </body>
+</html>
+
+--------------F1AD2917DD96CB3CB9B454B2--

@@ -1,0 +1,513 @@
+X-Junk-Score:  10 [X]
+X-KAS-Score:  10 [X]
+Return-Path: <postman4154869@justeml.com>
+Received: from smtp326.emlone.com ([195.122.27.132] verified)
+  by mail.communigate.ru (CommuniGate Pro SMTP 6.3.10c)
+  with ESMTPS id 60257426 for lukoilo@mail.communigate.ru; Thu, 24 Feb 2022 18:07:01 +0300
+Received-SPF: pass
+ receiver=mail.communigate.ru; client-ip=195.122.27.132; envelope-from=postman4154869@justeml.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=jan2010; d=usndr.com;
+ h=From:Sender:Reply-To:To:Message-Id:Subject:MIME-Version:Content-Type:
+ List-Help:List-Id:List-Unsubscribe:Date:no;
+ bh=AztROBGrmHZwr5nPrxZaDN7zBPQdR2EDOlnM9tTIwOo=;
+ b=bN9aKzxIJKFMnytwC7NRooaeHooozvB4SadHVsgDm1r01K9tiJZ/hnPXlG1qkjwuY8nURN/c4pbN
+   UglRyh21kuExXr+a4YOHobwsrI/XnNOL6sBKj7Z++wgfFtbDWIbQ2EsHPuUVwkRNOM+RtI4HGfiD
+   KbthA0wu3DV9UpRI8EI=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=jul2015; d=topeml.com;
+ h=From:Sender:Reply-To:To:Message-Id:Subject:MIME-Version:Content-Type:
+ List-Help:List-Id:List-Unsubscribe:Date;
+ bh=AztROBGrmHZwr5nPrxZaDN7zBPQdR2EDOlnM9tTIwOo=;
+ b=bjhYf/3LXB/rnUyeNCj94CaZlkq3Jjhw//0HvQufcqGDYVwO8q7UCFpLBWFzkuOC+TYkvKdk2GRv
+   JIcZGZ+95A/Ag49iO2xWOqE2/+h09QtPTX32C592SAEvJmEznTUHajdgQE6A9pGYqIa9rNVRWP2h
+   aPS/3jl6DLxLSwIFDgU=
+Received: by smtp368.emlone.com id h2ufha2erpk3 for <lukoilo@mail.communigate.ru>; Thu, 24 Feb 2022 15:06:50 +0000 (envelope-from <postman4154869@justeml.com>)
+Return-Path: postman4154869@justeml.com
+From: =?UTF-8?B?0J7RgtC60YDRi9GC0LDRjyDQvNC+0LHQuNC7?= =?UTF-8?B?0YzQvdCw0Y8g0L/Qu9Cw0YLRhNC+0YDQvNCw?= <omp-news@omprussia.ru>
+Sender: =?UTF-8?B?0J7RgtC60YDRi9GC0LDRjyDQvNC+0LHQuNC7?= =?UTF-8?B?0YzQvdCw0Y8g0L/Qu9Cw0YLRhNC+0YDQvNCw?= <omp-news@omprussia.ru>
+Reply-To: i.zerenkova@omp.ru
+To: lukoilo@mail.communigate.ru
+Message-Id: <E1nNFhh-crIDhk-N1@ucs201-ucs-2.msgpanel.com>
+Subject: =?UTF-8?B?0JLQtdCx0LjQvdCw0YAgwqvQrdGE0YTQtdC60YLQuNCy0L3Riw==?=
+ =?UTF-8?B?0Lkg0YLRgNCw0L3RgdC/0L7RgNGCINC00LDQvdC90YvRhSA=?=
+ =?UTF-8?B?0L7RgiDQuNGB0YLQvtGH0L3QuNC60LAg0LTQviDQv9GA0Lg=?=
+ =?UTF-8?B?0LvQvtC20LXQvdC40Y8g0L3QsCDCq9CQ0LLRgNC+0YDQtcK7?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="MW5ORmhoLWNySURoay1OMQ=="
+List-Help: <https://geteml.com/ru/help/forsubscribers>
+List-Id: 20775108
+List-Unsubscribe: <https://geteml.com/ru/v5/unsubscribe/immediately?hash=6ba4dhjmtuwjqe63wtz3kbbjmoj64qcz7tgkij9pp9n5684euq3zrraqsuwpx6h3di67r5btay7cw49ztqomc6cdmxw>
+Precedence: bulk
+X-Complaints-To: abuse@justeml.com
+X-EnvId: usproduction.b_4154869_266717995_20822648746_25046996504
+X-Feedback-ID: 266717995:4154869:campaign:US
+Date: Thu, 24 Feb 2022 15:06:50 +0000
+
+--MW5ORmhoLWNySURoay1OMQ==
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_59591693_1316241383.1645715210142"
+
+------=_Part_59591693_1316241383.1645715210142
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+CgrQn9Cg0JjQk9Cb0JDQqNCV0J3QmNCVCtCe0LvQtdCzLCDQtNC+0LHRgNGL0Lkg0LTQtdC90Ywh
+CgrQn9GA0LjQs9C70LDRiNCw0LXQvCDQktCw0YEg0L3QsCDQstC10LHQuNC90LDRgCDQvtCxINGN
+0YTRhNC10LrRgtC40LLQvdC+0Lkg0YLRgNCw0L3RgdC/0L7RgNGC0LjRgNC+0LLQutC1INC00LDQ
+vdC90YvRhSDQtNC70Y8g0LzQvtCx0LjQu9GM0L3Ri9GFINC/0YDQuNC70L7QttC10L3QuNC5CtC9
+0LAg0J7QoSDCq9CQ0LLRgNC+0YDQsMK7INGBINC/0L7QvNC+0YnRjNGOINGC0LXRhdC90L7Qu9C+
+0LPQuNC5IMKr0KTQvtGA0YHQsNC50YLCuy4g0JzQtdGA0L7Qv9GA0LjRj9GC0LjQtSDQv9GA0L7Q
+stC+0LTQuNGC0YHRjyDRgdC+0LLQvNC10YHRgtC90L4g0YEg0L/QsNGA0YLQvdGR0YDQvtC8IOKA
+kyDQutC+0LzQv9Cw0L3QuNC10LkgwqvQpNC+0YDRgdCw0LnRgiAoaHR0cHM6Ly93d3cuZnNpZ2h0
+LnJ1LynCuywg0YDQsNC30YDQsNCx0L7RgtGH0LjQutC+0Lwg0LzQvtCx0LjQu9GM0L3QvtC5INC/
+0LvQsNGC0YTQvtGA0LzRiyDQtNC70Y8g0YHQvtC30LTQsNC90LjRjyDQt9Cw0YnQuNGJ0ZHQvdC9
+0YvRhSDQvNC+0LHQuNC70YzQvdGL0YUg0LHQuNC30L3QtdGBLdC/0YDQuNC70L7QttC10L3QuNC5
+LgoK0K3QutGB0L/QtdGA0YLRiyDQutC+0LzQv9Cw0L3QuNC5INGA0LDRgdGB0LrQsNC20YPRgiDQ
+viDQv9C10YDRgdC/0LXQutGC0LjQstCw0YUg0L/QsNGA0YLQvdGR0YDRgdGC0LLQsCDQuCDQstC+
+0LfQvNC+0LbQvdC+0YHRgtGP0YUg0L/QvtGB0YLRgNC+0LXQvdC40Y8g0LrQvtC80L/Qu9C10LrR
+gdC90L7QuSDQvNC+0LHQuNC70YzQvdC+0Lkg0LjQvdGE0YDQsNGB0YLRgNGD0LrRgtGD0YDRiyDQ
+vdCwINCx0LDQt9C1INGA0LXRiNC10L3QuNC5INC60L7QvNC/0LDQvdC40LkgwqvQntGC0LrRgNGL
+0YLQsNGPINC80L7QsdC40LvRjNC90LDRjyDQv9C70LDRgtGE0L7RgNC80LDCuyDQuCDCq9Ck0L7R
+gNGB0LDQudGCwrsuCgrQmtC+0LzQv9Cw0L3QuNGPIMKr0KTQvtGA0YHQsNC50YLCuyDQv9GA0LXQ
+tNGB0YLQsNCy0LjRgiDQstC+0LfQvNC+0LbQvdC+0YHRgtC4INGB0LLQvtC10LPQviDQv9GA0L7Q
+s9GA0LDQvNC80L3QvtCz0L4g0LrQvtC80L/Qu9C10LrRgdCwINC00LvRjyDQsdGL0YHRgtGA0L7Q
+uSDQuCDRjdGE0YTQtdC60YLQuNCy0L3QvtC5INGA0LDQt9GA0LDQsdC+0YLQutC4INC60L7RgNC/
+0L7RgNCw0YLQuNCy0L3Ri9GFINC80L7QsdC40LvRjNC90YvRhSDRgdC10YDQstC40YHQvtCyIOKA
+kyDCq9Ck0L7RgNGB0LDQudGCLiDQnNC+0LHQuNC70YzQvdCw0Y8g0L/Qu9Cw0YLRhNC+0YDQvNCw
+wrsgKNCk0JzQnykuINCf0L7QstGL0YjQtdC90LjQtSDRgdC60L7RgNC+0YHRgtC4INGA0LDQt9GA
+0LDQsdC+0YLQutC4INC4INGB0L3QuNC20LXQvdC40LUg0YDQsNGB0YXQvtC00L7QsiDQtNC+0YHR
+gtC40LPQsNC10YLRgdGPINCx0LvQsNCz0L7QtNCw0YDRjyDQv9C+0YHRgtGA0L7QtdC90LjRjiDQ
+siDQvtGA0LPQsNC90LjQt9Cw0YbQuNC4INC10LTQuNC90L7QuSDRiNC40L3RiyDQtNCw0L3QvdGL
+0YUg0LTQu9GPINGD0L3QuNGE0LjRhtC40YDQvtCy0LDQvdC90L7Qs9C+INCy0LfQsNC40LzQvtC0
+0LXQudGB0YLQstC40Y8g0YDQsNC30LvQuNGH0L3Ri9GFINCY0KEg0LzQtdC20LTRgyDRgdC+0LHQ
+vtC5INC4INC80L7QsdC40LvRjNC90YvQvNC4INC60LvQuNC10L3RgtCw0LzQuCDQtNC70Y8g0J7Q
+oSDCq9CQ0LLRgNC+0YDQsMK7LiDQpNCc0J8g0YHQvtC00LXRgNC20LjRgiDQutC+0L3QvdC10LrR
+gtC+0YDRiywg0LrQvtGC0L7RgNGL0LUg0L/QvtC30LLQvtC70Y/RjtGCINC70LXQs9C60L4g0LjQ
+vdGC0LXQs9GA0LjRgNC+0LLQsNGC0YzRgdGPINGBINC70Y7QsdC+0Lkg0YHQuNGB0YLQtdC80L7Q
+uSwg0LrQvtGC0L7RgNCw0Y8g0LXRgdGC0Ywg0YMg0LfQsNC60LDQt9GH0LjQutCwLCDQsiDRgtC+
+0Lwg0YfQuNGB0LvQtSDRgSAx0KEsIFNBUCwg0YDQtdGI0LXQvdC40Y/QvNC4INCh0K3QlCwgQ1JN
+LCBFUlAsINCh0KPQkdCUINC90LAg0LHQsNC30LUgTVMgU1FMIFNlcnZlciwgT3JhY2xlLCBQb3N0
+Z3JlU1FMLgoK0JIg0LfQsNC60LvRjtGH0LXQvdC40LUg0LzQvtC20L3QviDQsdGD0LTQtdGCINC/
+0L7Qt9C90LDQutC+0LzQuNGC0YzRgdGPIMKr0LLQttC40LLRg9GOwrsg0YEg0L/RgNC+0LPRgNCw
+0LzQvNC90YvQvCDQutC+0LzQv9C70LXQutGB0L7QvCDCq9Ck0L7RgNGB0LDQudGCLiDQnNC+0LHQ
+uNC70YzQvdCw0Y8g0L/Qu9Cw0YLRhNC+0YDQvNCwwrsg0Lgg0YPQt9C90LDRgtGMOgoK0LrQsNC6
+INGB0L7Qt9C00LDRgtGMINC4INC90LDRgdGC0YDQvtC40YLRjCDQuNC90YTQvtGA0LzQsNGG0LjQ
+vtC90L3Ri9C1INGA0LXRgdGD0YDRgdGLLCDQutCw0Log0YPQv9GA0LDQstC70Y/RgtGMINC40YUg
+0YHQstC+0LnRgdGC0LLQsNC80Lg7CtC60LDQuiDQs9C+0YLQvtCy0LjRgtGMINC40L3RhNGA0LDR
+gdGC0YDRg9C60YLRg9GA0YMg0LTQu9GPINGB0L7Qt9C00LDQvdC40Y8g0LzQvtCx0LjQu9GM0L3R
+i9GFINC/0YDQuNC70L7QttC10L3QuNC5INC/0L7QtCDQntChIMKr0JDQstGA0L7RgNCwwrs7CtC6
+0LDQuiDQvtCx0LXRgdC/0LXRh9C40LLQsNC10YLRgdGPINGC0YDQsNC90YHQv9C+0YDRgiDQtNCw
+0L3QvdGL0YUg0L7RgiDQsdC40LfQvdC10YEt0LjRgdGC0L7Rh9C90LjQutCwINC00L4g0LzQvtCx
+0LjQu9GM0L3QvtCz0L4g0L/RgNC40LvQvtC20LXQvdC40Y8K0L3QsCDQntChIMKr0JDQstGA0L7R
+gNCwwrsuCgrQlNCw0YLQsCDQuCDQstGA0LXQvNGPOiA0INC80LDRgNGC0LAsIDExOjAwINCc0KHQ
+mgoK0KPRh9Cw0YHRgtC40LUg0LHQtdGB0L/Qu9Cw0YLQvdC+0LUsINGA0LXQs9C40YHRgtGA0LDR
+htC40Y8g0L7QsdGP0LfQsNGC0LXQu9GM0L3QsC4g0JTQviDQstGB0YLRgNC10YfQuCDQvdCwINCy
+0LXQsdC40L3QsNGA0LUhCgrigIoKCtCf0YDQuNC90Y/RgtGMINGD0YfQsNGB0YLQuNC1CgrigIoK
+CtCm0LXQvdGC0YAg0LrQvtC80L/QtdGC0LXQvdGG0LjQuAoK0JrQvtC90YLQsNC60YLRizog0JjR
+gNC40L3QsCDQl9C10YDQtdC90LrQvtCy0LAsIGkuemVyZW5rb3ZhQG9tcC5ydQoK0KfRgtC+0LHR
+iyDQvtGC0L/QuNGB0LDRgtGM0YHRjyDQvtGCINGN0YLQvtC5INGA0LDRgdGB0YvQu9C60LgsINC/
+0LXRgNC10LnQtNC40YLQtSDQv9C+INGB0YHRi9C70LrQtSAoaHR0cHM6Ly9nZXRlbWwuY29tL3J1
+L3Vuc3Vic2NyaWJlP2hhc2g9NmJhNGRoam10dXdqcWU2M3d0ejNrYmJqbW9qNjRxY3o3dGdraWo5
+cHA5bjU2ODRldXEzenJyYXFzdXdweDZoM2RpNjdyNWJ0YXk3Y3c0OXp0cW9tYzZjZG14dyNub190
+cmFja2luZykKCg==
+------=_Part_59591693_1316241383.1645715210142
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"u=
+rn:schemas-microsoft-com:office:office" lang=3D"en"><head><title></title><m=
+eta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><met=
+a name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D1"><!--=
+[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInc=
+h><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]--><!--[if !mso]><=
+!--><!--<![endif]--><style>
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{c=
+olor:inherit!important;text-decoration:inherit!important}#MessageViewBody a=
+{color:inherit;text-decoration:none}p{line-height:inherit}@media (max-width=
+:765px){.row-content{width:100%!important}.image_block img.big{width:auto!i=
+mportant}.column .border{display:none}.stack .column{width:100%;display:blo=
+ck}}</style></head><body=20
+style=3D"background-color:#fff;margin:0;padding:0;-webkit-text-size-adjust:=
+none;text-size-adjust:none"><table class=3D"nl-container" width=3D"100%" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=
+=3D"mso-table-lspace:0;mso-table-rspace:0;background-color:#fff"><tbody><tr=
+><td><table class=3D"row row-1" align=3D"center" width=3D"100%" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-ta=
+ble-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class=3D"row-content=
+ stack"=20
+align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"p=
+resentation" style=3D"mso-table-lspace:0;mso-table-rspace:0;color:#000;widt=
+h:745px" width=3D"745"><tbody><tr><td class=3D"column column-1" width=3D"10=
+0%" style=3D"mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-ali=
+gn:left;vertical-align:top;padding-top:5px;padding-bottom:5px;border-top:0;=
+border-right:0;border-bottom:0;border-left:0"><table class=3D"image_block" =
+width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=20
+role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><=
+td style=3D"width:100%;padding-right:0;padding-left:0"><div align=3D"center=
+" style=3D"line-height:10px"><a href=3D"https://geteml.com/ru/mail_link_tra=
+cker?hash=3D6q173bu3fj548c38uaxo74p1sob64qcz7tgkij9pp9n5684euq3zpprcbqn6trw=
+h71yrmtw5bqcimrwrtuxq1wadneyye849igb8mjeep1dce8djknjko&url=3DaHR0cHM6Ly9vbX=
+BydXNzaWEudGltZXBhZC5ydS9ldmVudC8xOTQ1NDI1Lw~~&uid=3DNDE1NDg2OQ~~&ucs=3Dc98=
+f66c3327aac23d75c8db6cb8a8e2d" target=3D"_blank" style=3D"outline:none" tab=
+index=3D"-1"><img class=3D"big" src=3D"https://img.hiteml.com/en/v5/user-fi=
+les?userId=3D4154869&amp;resource=3Dhimg&amp;disposition=3Dinline&amp;name=
+=3D6iusb7k9xaysg5c3ihxad77yswfbicn878a91s34dad7pbnm6z11o539981n8b1ry"=20
+style=3D"display:block;height:auto;border:0;width:745px;max-width:100%" wid=
+th=3D"745" alt=3D"=D0=90=D0=BA=D1=82=D1=83=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D0=
+=B5 =D1=82=D0=B5=D0=BD=D0=B4=D0=B5=D0=BD=D1=86=D0=B8=D0=B8 =D1=80=D0=BE=D1=
+=81=D1=81=D0=B8=D0=B9=D1=81=D0=BA=D0=BE=D0=B3=D0=BE =D1=80=D1=8B=D0=BD=D0=
+=BA=D0=B0 =D0=BA=D0=BE=D1=80=D0=BF=D0=BE=D1=80=D0=B0=D1=82=D0=B8=D0=B2=D0=
+=BD=D0=BE=D0=B9 =D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=D0=BE=D1=81=D1=
+=82=D0=B8" title=3D"=D0=90=D0=BA=D1=82=D1=83=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=
+=D0=B5 =D1=82=D0=B5=D0=BD=D0=B4=D0=B5=D0=BD=D1=86=D0=B8=D0=B8 =D1=80=D0=BE=
+=D1=81=D1=81=D0=B8=D0=B9=D1=81=D0=BA=D0=BE=D0=B3=D0=BE =D1=80=D1=8B=D0=BD=
+=D0=BA=D0=B0 =D0=BA=D0=BE=D1=80=D0=BF=D0=BE=D1=80=D0=B0=D1=82=D0=B8=D0=B2=
+=D0=BD=D0=BE=D0=B9 =D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=D0=BE=D1=81=
+=D1=82=D0=B8"></a></div></td></tr></table></td></tr></tbody></table></td></=
+tr></tbody></table><table class=3D"row row-2" align=3D"center" width=3D"100=
+%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" s=
+tyle=3D"mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td><table=20
+class=3D"row-content stack" align=3D"center" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-ta=
+ble-rspace:0;color:#000;width:745px" width=3D"745"><tbody><tr><td class=3D"=
+column column-1" width=3D"100%" style=3D"mso-table-lspace:0;mso-table-rspac=
+e:0;font-weight:400;text-align:left;vertical-align:top;padding-top:5px;padd=
+ing-bottom:0;border-top:0;border-right:0;border-bottom:0;border-left:0"><ta=
+ble class=3D"text_block" width=3D"100%" border=3D"0" cellpadding=3D"0"=20
+cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-tab=
+le-rspace:0;word-break:break-word"><tr><td style=3D"padding-bottom:10px;pad=
+ding-left:15px;padding-right:5px;padding-top:10px"><div style=3D"font-famil=
+y:Arial,sans-serif"><div style=3D"font-size:12px;mso-line-height-alt:18px;c=
+olor:#555;line-height:1.5;font-family:Arial,'Helvetica Neue',Helvetica,sans=
+-serif"><p style=3D"margin:0;font-size:14px;text-align:center"><strong>=D0=
+=9F=D0=A0=D0=98=D0=93=D0=9B=D0=90=D0=A8=D0=95=D0=9D=D0=98=D0=95</strong></p=
+><p=20
+style=3D"margin:0;font-size:14px">=D0=9E=D0=BB=D0=B5=D0=B3, =D0=B4=D0=BE=D0=
+=B1=D1=80=D1=8B=D0=B9 =D0=B4=D0=B5=D0=BD=D1=8C!</p><p style=3D"margin:0;fon=
+t-size:14px;mso-line-height-alt:21px"><span style=3D"font-size:8px;">&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"font-size:14px;">&nbsp;=
+&nbsp;<br></span></p><p style=3D"margin:0;font-size:14px;mso-line-height-al=
+t:21px"><span style=3D"font-size:14px;">=D0=9F=D1=80=D0=B8=D0=B3=D0=BB=D0=
+=B0=D1=88=D0=B0=D0=B5=D0=BC =D0=92=D0=B0=D1=81 =D0=BD=D0=B0 =D0=B2=D0=B5=D0=
+=B1=D0=B8=D0=BD=D0=B0=D1=80<strong> </strong>=D0=BE=D0=B1 =D1=8D=D1=84=D1=
+=84=D0=B5=D0=BA=D1=82=D0=B8=D0=B2=D0=BD=D0=BE=D0=B9 =D1=82=D1=80=D0=B0=D0=
+=BD=D1=81=D0=BF=D0=BE=D1=80=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=BA=D0=B5 =D0=
+=B4=D0=B0=D0=BD=D0=BD=D1=8B=D1=85 =D0=B4=D0=BB=D1=8F =D0=BC=D0=BE=D0=B1=D0=
+=B8=D0=BB=D1=8C=D0=BD=D1=8B=D1=85 =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=
+=B5=D0=BD=D0=B8=D0=B9<br>
+=D0=BD=D0=B0 =D0=9E=D0=A1 =C2=AB=D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0=C2=BB =
+=D1=81 =D0=BF=D0=BE=D0=BC=D0=BE=D1=89=D1=8C=D1=8E =D1=82=D0=B5=D1=85=D0=BD=
+=D0=BE=D0=BB=D0=BE=D0=B3=D0=B8=D0=B9 =C2=AB=D0=A4=D0=BE=D1=80=D1=81=D0=B0=
+=D0=B9=D1=82=C2=BB. =D0=9C=D0=B5=D1=80=D0=BE=D0=BF=D1=80=D0=B8=D1=8F=D1=82=
+=D0=B8=D0=B5 =D0=BF=D1=80=D0=BE=D0=B2=D0=BE=D0=B4=D0=B8=D1=82=D1=81=D1=8F =
+=D1=81=D0=BE=D0=B2=D0=BC=D0=B5=D1=81=D1=82=D0=BD=D0=BE =D1=81 =D0=BF=D0=B0=
+=D1=80=D1=82=D0=BD=D1=91=D1=80=D0=BE=D0=BC =E2=80=93 =D0=BA=D0=BE=D0=BC=D0=
+=BF=D0=B0=D0=BD=D0=B8=D0=B5=D0=B9 =C2=AB<a href=3D"https://geteml.com/ru/ma=
+il_link_tracker?hash=3D6g1y119n983dao38uaxo74p1sob64qcz7tgkij9pp9n5684euq3z=
+e5r3fqb87a3ayq4bku6qdh4ny5as48t8zhz99kok3to9q3omccecnp5encmz7qady&url=3DaHR=
+0cHM6Ly93d3cuZnNpZ2h0LnJ1Lw~~&uid=3DNDE1NDg2OQ~~&ucs=3D0bd3af35b21c0c949a9a=
+eab8cdd5b7c3" style=3D"color: #0068A5;">=D0=A4=D0=BE=D1=80=D1=81=D0=B0=D0=
+=B9=D1=82</a>=C2=BB, =D1=80=D0=B0=D0=B7=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D1=87=
+=D0=B8=D0=BA=D0=BE=D0=BC =D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=D0=BE=
+=D0=B9 =D0=BF=D0=BB=D0=B0=D1=82=D1=84=D0=BE=D1=80=D0=BC=D1=8B =D0=B4=D0=BB=
+=D1=8F =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F =D0=B7=D0=B0=D1=89=
+=D0=B8=D1=89=D1=91=D0=BD=D0=BD=D1=8B=D1=85 =D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=
+=D1=8C=D0=BD=D1=8B=D1=85 =D0=B1=D0=B8=D0=B7=D0=BD=D0=B5=D1=81-=D0=BF=D1=80=
+=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D0=B9.&nbsp;</span></p><p style=
+=3D"margin:0;font-size:14px;mso-line-height-alt:18px">&nbsp;</p><p style=3D=
+"margin:0;font-size:14px;mso-line-height-alt:21px">
+<span style=3D"font-size:14px;">=D0=AD=D0=BA=D1=81=D0=BF=D0=B5=D1=80=D1=82=
+=D1=8B =D0=BA=D0=BE=D0=BC=D0=BF=D0=B0=D0=BD=D0=B8=D0=B9 =D1=80=D0=B0=D1=81=
+=D1=81=D0=BA=D0=B0=D0=B6=D1=83=D1=82 =D0=BE =D0=BF=D0=B5=D1=80=D1=81=D0=BF=
+=D0=B5=D0=BA=D1=82=D0=B8=D0=B2=D0=B0=D1=85 =D0=BF=D0=B0=D1=80=D1=82=D0=BD=
+=D1=91=D1=80=D1=81=D1=82=D0=B2=D0=B0 =D0=B8 =D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=
+=D0=B6=D0=BD=D0=BE=D1=81=D1=82=D1=8F=D1=85 =D0=BF=D0=BE=D1=81=D1=82=D1=80=
+=D0=BE=D0=B5=D0=BD=D0=B8=D1=8F =D0=BA=D0=BE=D0=BC=D0=BF=D0=BB=D0=B5=D0=BA=
+=D1=81=D0=BD=D0=BE=D0=B9 =D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=D0=BE=
+=D0=B9 =D0=B8=D0=BD=D1=84=D1=80=D0=B0=D1=81=D1=82=D1=80=D1=83=D0=BA=D1=82=
+=D1=83=D1=80=D1=8B =D0=BD=D0=B0 =D0=B1=D0=B0=D0=B7=D0=B5 =D1=80=D0=B5=D1=88=
+=D0=B5=D0=BD=D0=B8=D0=B9 =D0=BA=D0=BE=D0=BC=D0=BF=D0=B0=D0=BD=D0=B8=D0=B9 =
+=C2=AB=D0=9E=D1=82=D0=BA=D1=80=D1=8B=D1=82=D0=B0=D1=8F =D0=BC=D0=BE=D0=B1=
+=D0=B8=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=BF=D0=BB=D0=B0=D1=82=D1=84=D0=BE=
+=D1=80=D0=BC=D0=B0=C2=BB =D0=B8 =C2=AB=D0=A4=D0=BE=D1=80=D1=81=D0=B0=D0=B9=
+=D1=82=C2=BB.</span></p><p style=3D"margin:0;font-size:14px;mso-line-height=
+-alt:18px">&nbsp;</p><p style=3D"margin:0;font-size:14px;mso-line-height-al=
+t:21px">
+<span style=3D"font-size:14px;">=D0=9A=D0=BE=D0=BC=D0=BF=D0=B0=D0=BD=D0=B8=
+=D1=8F =C2=AB=D0=A4=D0=BE=D1=80=D1=81=D0=B0=D0=B9=D1=82=C2=BB =D0=BF=D1=80=
+=D0=B5=D0=B4=D1=81=D1=82=D0=B0=D0=B2=D0=B8=D1=82 =D0=B2=D0=BE=D0=B7=D0=BC=
+=D0=BE=D0=B6=D0=BD=D0=BE=D1=81=D1=82=D0=B8 =D1=81=D0=B2=D0=BE=D0=B5=D0=B3=
+=D0=BE =D0=BF=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D0=BD=D0=BE=D0=B3=
+=D0=BE =D0=BA=D0=BE=D0=BC=D0=BF=D0=BB=D0=B5=D0=BA=D1=81=D0=B0 =D0=B4=D0=BB=
+=D1=8F =D0=B1=D1=8B=D1=81=D1=82=D1=80=D0=BE=D0=B9 =D0=B8 =D1=8D=D1=84=D1=84=
+=D0=B5=D0=BA=D1=82=D0=B8=D0=B2=D0=BD=D0=BE=D0=B9 =D1=80=D0=B0=D0=B7=D1=80=
+=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B8 =D0=BA=D0=BE=D1=80=D0=BF=D0=BE=D1=80=
+=D0=B0=D1=82=D0=B8=D0=B2=D0=BD=D1=8B=D1=85 =D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=
+=D1=8C=D0=BD=D1=8B=D1=85 =D1=81=D0=B5=D1=80=D0=B2=D0=B8=D1=81=D0=BE=D0=B2 =
+=E2=80=93 =C2=AB=D0=A4=D0=BE=D1=80=D1=81=D0=B0=D0=B9=D1=82. =D0=9C=D0=BE=D0=
+=B1=D0=B8=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=BF=D0=BB=D0=B0=D1=82=D1=84=D0=
+=BE=D1=80=D0=BC=D0=B0=C2=BB (=D0=A4=D0=9C=D0=9F). =D0=9F=D0=BE=D0=B2=D1=8B=
+=D1=88=D0=B5=D0=BD=D0=B8=D0=B5 =D1=81=D0=BA=D0=BE=D1=80=D0=BE=D1=81=D1=82=
+=D0=B8 =D1=80=D0=B0=D0=B7=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B8 =D0=B8 =
+=D1=81=D0=BD=D0=B8=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5 =D1=80=D0=B0=D1=81=D1=85=
+=D0=BE=D0=B4=D0=BE=D0=B2 =D0=B4=D0=BE=D1=81=D1=82=D0=B8=D0=B3=D0=B0=D0=B5=
+=D1=82=D1=81=D1=8F =D0=B1=D0=BB=D0=B0=D0=B3=D0=BE=D0=B4=D0=B0=D1=80=D1=8F =
+=D0=BF=D0=BE=D1=81=D1=82=D1=80=D0=BE=D0=B5=D0=BD=D0=B8=D1=8E =D0=B2 =D0=BE=
+=D1=80=D0=B3=D0=B0=D0=BD=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8 =D0=B5=D0=B4=
+=D0=B8=D0=BD=D0=BE=D0=B9 =D1=88=D0=B8=D0=BD=D1=8B =D0=B4=D0=B0=D0=BD=D0=BD=
+=D1=8B=D1=85 =D0=B4=D0=BB=D1=8F =D1=83=D0=BD=D0=B8=D1=84=D0=B8=D1=86=D0=B8=
+=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D0=B2=D0=B7=D0=B0=
+=D0=B8=D0=BC=D0=BE=D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D1=8F =D1=80=
+=D0=B0=D0=B7=D0=BB=D0=B8=D1=87=D0=BD=D1=8B=D1=85 =D0=98=D0=A1 =D0=BC=D0=B5=
+=D0=B6=D0=B4=D1=83 =D1=81=D0=BE=D0=B1=D0=BE=D0=B9 =D0=B8 =D0=BC=D0=BE=D0=B1=
+=D0=B8=D0=BB=D1=8C=D0=BD=D1=8B=D0=BC=D0=B8 =D0=BA=D0=BB=D0=B8=D0=B5=D0=BD=
+=D1=82=D0=B0=D0=BC=D0=B8 =D0=B4=D0=BB=D1=8F =D0=9E=D0=A1 =C2=AB=D0=90=D0=B2=
+=D1=80=D0=BE=D1=80=D0=B0=C2=BB.&nbsp; =D0=A4=D0=9C=D0=9F =D1=81=D0=BE=D0=B4=
+=D0=B5=D1=80=D0=B6=D0=B8=D1=82 =D0=BA=D0=BE=D0=BD=D0=BD=D0=B5=D0=BA=D1=82=
+=D0=BE=D1=80=D1=8B, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B5 =D0=BF=D0=BE=
+=D0=B7=D0=B2=D0=BE=D0=BB=D1=8F=D1=8E=D1=82 =D0=BB=D0=B5=D0=B3=D0=BA=D0=BE =
+=D0=B8=D0=BD=D1=82=D0=B5=D0=B3=D1=80=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D1=82=D1=
+=8C=D1=81=D1=8F =D1=81 =D0=BB=D1=8E=D0=B1=D0=BE=D0=B9 =D1=81=D0=B8=D1=81=D1=
+=82=D0=B5=D0=BC=D0=BE=D0=B9, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=B0=D1=8F =D0=
+=B5=D1=81=D1=82=D1=8C =D1=83 =D0=B7=D0=B0=D0=BA=D0=B0=D0=B7=D1=87=D0=B8=D0=
+=BA=D0=B0, =D0=B2 =D1=82=D0=BE=D0=BC =D1=87=D0=B8=D1=81=D0=BB=D0=B5&nbsp;=
+=D1=81 1=D0=A1, SAP, =D1=80=D0=B5=D1=88=D0=B5=D0=BD=D0=B8=D1=8F=D0=BC=D0=B8=
+ =D0=A1=D0=AD=D0=94, CRM, ERP, =D0=A1=D0=A3=D0=91=D0=94 =D0=BD=D0=B0 =D0=B1=
+=D0=B0=D0=B7=D0=B5 MS SQL Server, Oracle, PostgreSQL.</span>
+</p><p style=3D"margin:0;font-size:14px;mso-line-height-alt:18px">&nbsp;</p=
+><p style=3D"margin:0;font-size:14px;mso-line-height-alt:21px"><span style=
+=3D"font-size:14px;">=D0=92 =D0=B7=D0=B0=D0=BA=D0=BB=D1=8E=D1=87=D0=B5=D0=
+=BD=D0=B8=D0=B5 =D0=BC=D0=BE=D0=B6=D0=BD=D0=BE =D0=B1=D1=83=D0=B4=D0=B5=D1=
+=82 =D0=BF=D0=BE=D0=B7=D0=BD=D0=B0=D0=BA=D0=BE=D0=BC=D0=B8=D1=82=D1=8C=D1=
+=81=D1=8F =C2=AB=D0=B2=D0=B6=D0=B8=D0=B2=D1=83=D1=8E=C2=BB =D1=81 =D0=BF=D1=
+=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D0=BD=D1=8B=D0=BC =D0=BA=D0=BE=D0=
+=BC=D0=BF=D0=BB=D0=B5=D0=BA=D1=81=D0=BE=D0=BC =C2=AB=D0=A4=D0=BE=D1=80=D1=
+=81=D0=B0=D0=B9=D1=82. =D0=9C=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=D0=B0=D1=
+=8F =D0=BF=D0=BB=D0=B0=D1=82=D1=84=D0=BE=D1=80=D0=BC=D0=B0=C2=BB =D0=B8 =D1=
+=83=D0=B7=D0=BD=D0=B0=D1=82=D1=8C:</span></p><ul style=3D"line-height:1.5;m=
+so-line-height-alt:21px;font-size:14px"><li><span style=3D"font-size:14px;"=
+>=D0=BA=D0=B0=D0=BA =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D1=82=D1=8C =D0=B8 =D0=
+=BD=D0=B0=D1=81=D1=82=D1=80=D0=BE=D0=B8=D1=82=D1=8C =D0=B8=D0=BD=D1=84=D0=
+=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D0=BE=D0=BD=D0=BD=D1=8B=D0=B5 =D1=80=D0=
+=B5=D1=81=D1=83=D1=80=D1=81=D1=8B, =D0=BA=D0=B0=D0=BA =D1=83=D0=BF=D1=80=D0=
+=B0=D0=B2=D0=BB=D1=8F=D1=82=D1=8C =D0=B8=D1=85 =D1=81=D0=B2=D0=BE=D0=B9=D1=
+=81=D1=82=D0=B2=D0=B0=D0=BC=D0=B8;</span></li><li>
+<span style=3D"font-size:14px;">=D0=BA=D0=B0=D0=BA =D0=B3=D0=BE=D1=82=D0=BE=
+=D0=B2=D0=B8=D1=82=D1=8C =D0=B8=D0=BD=D1=84=D1=80=D0=B0=D1=81=D1=82=D1=80=
+=D1=83=D0=BA=D1=82=D1=83=D1=80=D1=83 =D0=B4=D0=BB=D1=8F =D1=81=D0=BE=D0=B7=
+=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F =D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=
+=D1=8B=D1=85 =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D0=B9 =
+=D0=BF=D0=BE=D0=B4 =D0=9E=D0=A1 =C2=AB=D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0=
+=C2=BB;&nbsp;</span></li><li><span style=3D"font-size:14px;">=D0=BA=D0=B0=
+=D0=BA =D0=BE=D0=B1=D0=B5=D1=81=D0=BF=D0=B5=D1=87=D0=B8=D0=B2=D0=B0=D0=B5=
+=D1=82=D1=81=D1=8F =D1=82=D1=80=D0=B0=D0=BD=D1=81=D0=BF=D0=BE=D1=80=D1=82 =
+=D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D1=85 =D0=BE=D1=82 =D0=B1=D0=B8=D0=B7=D0=BD=
+=D0=B5=D1=81-=D0=B8=D1=81=D1=82=D0=BE=D1=87=D0=BD=D0=B8=D0=BA=D0=B0 =D0=B4=
+=D0=BE =D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=D0=BE=D0=B3=D0=BE =D0=BF=
+=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F<br>=D0=BD=D0=B0 =D0=
+=9E=D0=A1 =C2=AB=D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0=C2=BB.</span></li></ul=
+><p style=3D"margin:0;font-size:14px;mso-line-height-alt:18px">&nbsp;</p><p=
+ style=3D"margin:0;font-size:14px;mso-line-height-alt:21px"><span style=3D"=
+font-size:14px;"><strong>=D0=94=D0=B0=D1=82=D0=B0 =D0=B8 =D0=B2=D1=80=D0=B5=
+=D0=BC=D1=8F</strong>: 4 =D0=BC=D0=B0=D1=80=D1=82=D0=B0, 11:00 =D0=9C=D0=A1=
+=D0=9A</span></p><br>
+<p style=3D"margin:0;font-size:14px;mso-line-height-alt:21px"><span style=
+=3D"font-size:14px;">=D0=A3=D1=87=D0=B0=D1=81=D1=82=D0=B8=D0=B5 =D0=B1=D0=
+=B5=D1=81=D0=BF=D0=BB=D0=B0=D1=82=D0=BD=D0=BE=D0=B5, =D1=80=D0=B5=D0=B3=D0=
+=B8=D1=81=D1=82=D1=80=D0=B0=D1=86=D0=B8=D1=8F =D0=BE=D0=B1=D1=8F=D0=B7=D0=
+=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=B0. =D0=94=D0=BE =D0=B2=D1=81=D1=82=D1=
+=80=D0=B5=D1=87=D0=B8 =D0=BD=D0=B0 =D0=B2=D0=B5=D0=B1=D0=B8=D0=BD=D0=B0=D1=
+=80=D0=B5!<br></span></p></div></div></td></tr></table></td></tr></tbody></=
+table></td></tr></tbody></table><table class=3D"row row-3" align=3D"center"=
+ width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"pr=
+esentation" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td>=
+<table class=3D"row-content stack" align=3D"center" border=3D"0"=20
+cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-tabl=
+e-lspace:0;mso-table-rspace:0;color:#000;width:745px" width=3D"745"><tbody>=
+<tr><td class=3D"column column-1" width=3D"100%" style=3D"mso-table-lspace:=
+0;mso-table-rspace:0;font-weight:400;text-align:left;vertical-align:top;pad=
+ding-top:0;padding-bottom:0;border-top:0;border-right:0;border-bottom:0;bor=
+der-left:0"><table class=3D"divider_block" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" role=3D"presentation"=20
+style=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td><div align=3D"cente=
+r"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presenta=
+tion" width=3D"100%" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><t=
+d class=3D"divider_inner" style=3D"font-size:1px;line-height:1px;border-top=
+:1px solid #bbb"><span>&#8202;</span></td></tr></table></div></td></tr></ta=
+ble></td></tr></tbody></table></td></tr></tbody></table><table class=3D"row=
+ row-4" align=3D"center" width=3D"100%" border=3D"0" cellpadding=3D"0"=20
+cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-tab=
+le-rspace:0"><tbody><tr><td><table class=3D"row-content stack" align=3D"cen=
+ter" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation"=
+ style=3D"mso-table-lspace:0;mso-table-rspace:0;color:#000;width:745px" wid=
+th=3D"745"><tbody><tr><td class=3D"column column-1" width=3D"100%"=20
+style=3D"mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:l=
+eft;vertical-align:top;padding-top:5px;padding-bottom:5px;border-top:0;bord=
+er-right:0;border-bottom:0;border-left:0"><table class=3D"button_block" wid=
+th=3D"100%" border=3D"0" cellpadding=3D"5" cellspacing=3D"0" role=3D"presen=
+tation" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td><div align=
+=3D"center">
+<!--[if mso]><v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=
+=3D"urn:schemas-microsoft-com:office:word" href=3D"https://omprussia.timepa=
+d.ru/event/1945425/" style=3D"height:43px;width:165px;v-text-anchor:middle;=
+" arcsize=3D"3%" stroke=3D"false" fillcolor=3D"#302075"><w:anchorlock/><v:t=
+extbox inset=3D"0px,1px,0px,0px"><center style=3D"color:#ffffff; font-famil=
+y:Arial, sans-serif; font-size:16px"><![endif]-->
+<a href=3D"https://geteml.com/ru/mail_link_tracker?hash=3D6bmdhn6ywrbbwe38u=
+axo74p1sob64qcz7tgkij9pp9n5684euq3zm7hj8wayhhum91yrmtw5bqcimrwrtuxq1wadneyy=
+e849igb8mjeep1dce8djknjko&url=3DaHR0cHM6Ly9vbXBydXNzaWEudGltZXBhZC5ydS9ldmV=
+udC8xOTQ1NDI1Lw~~&uid=3DNDE1NDg2OQ~~&ucs=3Dc98f66c3327aac23d75c8db6cb8a8e2d=
+" target=3D"_blank" style=3D"text-decoration:none;display:inline-block;colo=
+r:#ffffff;background-color:#302075;border-radius:1px;width:auto;border-top:=
+1px solid #302075;border-right:1px solid #302075;border-bottom:1px solid #3=
+02075;border-left:1px solid #302075;padding-top:6px;padding-bottom:5px;font=
+-family:Arial, Helvetica Neue, Helvetica, sans-serif;text-align:center;mso-=
+border-alt:none;word-break:keep-all;"><span style=3D"padding-left:20px;padd=
+ing-right:20px;font-size:16px;display:inline-block;letter-spacing:normal;">=
+<span style=3D"font-size: 16px; line-height: 2; word-break: break-word; mso=
+-line-height-alt: 32px;">=D0=9F=D1=80=D0=B8=D0=BD=D1=8F=D1=82=D1=8C =D1=83=
+=D1=87=D0=B0=D1=81=D1=82=D0=B8=D0=B5 </span></span></a>
+<!--[if mso]></center></v:textbox></v:roundrect><![endif]--></div></td></tr=
+></table><table class=3D"divider_block" width=3D"100%" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspac=
+e:0;mso-table-rspace:0"><tr><td><div align=3D"center"><table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" width=3D"100%" sty=
+le=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td class=3D"divider_inner=
+" style=3D"font-size:1px;line-height:1px;border-top:1px solid #bbb">
+<span>&#8202;</span></td></tr></table></div></td></tr></table></td></tr></t=
+body></table></td></tr></tbody></table><table class=3D"row row-5" align=3D"=
+center" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" rol=
+e=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tbody><=
+tr><td><table class=3D"row-content stack" align=3D"center" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-l=
+space:0;mso-table-rspace:0;color:#000;width:745px" width=3D"745"><tbody><tr=
+><td=20
+class=3D"column column-1" width=3D"33.333333333333336%" style=3D"mso-table-=
+lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;vertical-align:=
+top;border-top:0;border-right:0;border-bottom:0;border-left:0"><table class=
+=3D"button_block" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0=
+"><tr><td style=3D"padding-bottom:10px;padding-left:5px;padding-right:5px;p=
+adding-top:10px;text-align:center"><div align=3D"center">
+<!--[if mso]><v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=
+=3D"urn:schemas-microsoft-com:office:word" href=3D"https://mobile.cnews.ru/=
+" style=3D"height:34px;width:156px;v-text-anchor:middle;" arcsize=3D"12%" s=
+troke=3D"false" fill=3D"false"><w:anchorlock/><v:textbox inset=3D"0px,2px,0=
+px,0px"><center style=3D"color:#000000; font-family:Arial, sans-serif; font=
+-size:13px"><![endif]-->
+<a href=3D"https://geteml.com/ru/mail_link_tracker?hash=3D66uz9569tcaftn38u=
+axo74p1sob64qcz7tgkij9pp9n5684euq3zjnw9q4ceejegx49r1smazad4npr8ajt8xwishamd=
+xnaxs67f7oxaferiesywwjuuy&url=3DaHR0cHM6Ly9tb2JpbGUuY25ld3MucnUv&uid=3DNDE1=
+NDg2OQ~~&ucs=3D819b57a993c1a11b87890f2368ba0bad" target=3D"_blank" style=3D=
+"text-decoration:none;display:inline-block;color:#000000;background-color:t=
+ransparent;border-radius:4px;width:auto;border-top:1px solid transparent;bo=
+rder-right:1px solid transparent;border-bottom:1px solid transparent;border=
+-left:1px solid transparent;padding-top:2px;padding-bottom:0px;font-family:=
+Arial, Helvetica Neue, Helvetica, sans-serif;text-align:center;mso-border-a=
+lt:none;word-break:keep-all;"><span style=3D"padding-left:15px;padding-righ=
+t:15px;font-size:13px;display:inline-block;letter-spacing:normal;"><span st=
+yle=3D"font-size: 16px; line-height: 2; word-break: break-word; mso-line-he=
+ight-alt: 32px;"><strong><span style=3D"font-size: 13px; line-height: 26px;=
+" data-mce-style=3D"font-size: 13px; line-height: 26px;">=D0=A6=D0=B5=D0=BD=
+=D1=82=D1=80 =D0=BA=D0=BE=D0=BC=D0=BF=D0=B5=D1=82=D0=B5=D0=BD=D1=86=D0=B8=
+=D0=B8</span></strong></span></span></a>
+<!--[if mso]></center></v:textbox></v:roundrect><![endif]--></div></td></tr=
+></table></td><td class=3D"column column-2" width=3D"66.66666666666667%" st=
+yle=3D"mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:lef=
+t;vertical-align:top;border-top:0;border-right:0;border-bottom:0;border-lef=
+t:0"><table class=3D"text_block" width=3D"100%" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso=
+-table-rspace:0;word-break:break-word"><tr><td=20
+style=3D"padding-bottom:15px;padding-left:10px;padding-right:10px;padding-t=
+op:18px"><div style=3D"font-family:sans-serif"><div style=3D"font-size:12px=
+;mso-line-height-alt:14.399999999999999px;color:#555;line-height:1.2;font-f=
+amily:Arial,Helvetica Neue,Helvetica,sans-serif"><p style=3D"margin:0;font-=
+size:14px">
+<span style=3D"font-size:13px;"><strong>=D0=9A=D0=BE=D0=BD=D1=82=D0=B0=D0=
+=BA=D1=82=D1=8B:</strong> =D0=98=D1=80=D0=B8=D0=BD=D0=B0 =D0=97=D0=B5=D1=80=
+=D0=B5=D0=BD=D0=BA=D0=BE=D0=B2=D0=B0, <a href=3D"mailto:i.zerenkova@omp.ru"=
+ target=3D"_blank" title=3D"i.zerenkova@omp.ru" onclick=3D"return false;" r=
+el=3D"noopener" style=3D"color: #0068A5;">i.zerenkova@omp.ru</a></span></p>=
+</div></div></td></tr></table></td></tr></tbody></table></td></tr></tbody><=
+/table><table class=3D"row row-6" align=3D"center" width=3D"100%" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-=
+table-lspace:0;mso-table-rspace:0"><tbody>
+<tr><td><table class=3D"row-content stack" align=3D"center" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-=
+lspace:0;mso-table-rspace:0;color:#000;width:745px" width=3D"745"><tbody><t=
+r><td class=3D"column column-1" width=3D"100%" style=3D"mso-table-lspace:0;=
+mso-table-rspace:0;font-weight:400;text-align:left;vertical-align:top;paddi=
+ng-top:5px;padding-bottom:5px;border-top:0;border-right:0;border-bottom:0;b=
+order-left:0"><table class=3D"social_block" width=3D"100%" border=3D"0"=20
+cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-tabl=
+e-lspace:0;mso-table-rspace:0"><tr><td style=3D"text-align:center;padding-r=
+ight:0;padding-left:0"><table class=3D"social-table" width=3D"260px" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" align=3D"c=
+enter" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td style=3D"pad=
+ding:0 10px 0 10px"><a href=3D"https://geteml.com/ru/mail_link_tracker?hash=
+=3D6sszhjohqsxmsc38uaxo74p1sob64qcz7tgkij9pp9n5684euq3zy5wz1bbjncx6b139jsgp=
+phgh5fas48t8zhz99kok3to9q3omccecnp5encmz7qady&url=3DaHR0cHM6Ly93d3cuZmFjZWJ=
+vb2suY29tL29tcHJ1c3NpYS8~&uid=3DNDE1NDg2OQ~~&ucs=3D79214778e42350f381e35e8d=
+8a7ade85" target=3D"_blank"><img=20
+src=3D"https://app-rsrc.getbee.io/public/resources/social-networks-icon-set=
+s/circle-color/facebook@2x.png" width=3D"32" height=3D"32" alt=3D"Facebook"=
+ title=3D"Facebook" style=3D"display:block;height:auto;border:0"></a></td><=
+td style=3D"padding:0 10px 0 10px">
+<a href=3D"https://geteml.com/ru/mail_link_tracker?hash=3D6zjdzz4cstye1h38u=
+axo74p1sob64qcz7tgkij9pp9n5684euq3zmnuy5gk1zgotw5a7dd831mewpxas48t8zhz99kok=
+3to9q3omccecnp5encmz7qady&url=3DaHR0cHM6Ly9vYXV0aC52ay5jb20vYXV0aG9yaXplP2N=
+saWVudF9pZD0tMSZyZWRpcmVjdF91cmk9aHR0cHMlM0ElMkYlMkZ2ay5jb20lMkZzaGFyZS5waH=
+AlM0Z1cmwlM0RodHRwcyUzQSUyRiUyRm9tcHJ1c3NpYS5ydSUyRm5ld3MlMkYyMDIwJTJGd2Via=
+W5hcl9qdWx5JTJGJTI2dGl0bGUlM0QlMjVEMCUyNTlFJTI1RDAlMjU5QyUyNUQwJTI1OUYlMjUy=
+MCUyNUUyJTI1ODAlMjU5NCUyNTIwJTI1RDAlMjU5RSUyNUQxJTI1ODIlMjVEMCUyNUJBJTI1RDE=
+lMjU4MCUyNUQxJTI1OEIlMjVEMSUyNTgyJTI1RDAlMjVCMCUyNUQxJTI1OEYlMjUyMCUyNUQwJT=
+I1QkMlMjVEMCUyNUJFJTI1RDAlMjVCMSUyNUQwJTI1QjglMjVEMCUyNUJCJTI1RDElMjU4QyUyN=
+UQwJTI1QkQlMjVEMCUyNUIwJTI1RDElMjU4RiUyNTIwJTI1RDAlMjVCRiUyNUQwJTI1QkIlMjVE=
+MCUyNUIwJTI1RDElMjU4MiUyNUQxJTI1ODQlMjVEMCUyNUJFJTI1RDElMjU4MCUyNUQwJTI1QkM=
+lMjVEMCUyNUIwJTI1MjAlMjVEMCUyNTlFJTI1RDAlMjVBMSUyNTIwJTI1RDAlMjU5MCUyNUQwJT=
+I1QjIlMjVEMSUyNTgwJTI1RDAlMjVCRSUyNUQxJTI1ODAlMjVEMCUyNUIwJTI2dXRtX3NvdXJjZ=
+SUzRHNoYXJlMiZkaXNwbGF5PXdpZGdldA~~&uid=3DNDE1NDg2OQ~~&ucs=3Dcda7ceb68382b0=
+eaca0b30aed5b74851" target=3D"_blank">
+<img src=3D"https://app-rsrc.getbee.io/public/resources/social-networks-ico=
+n-sets/circle-color/vkontakte@2x.png" width=3D"32" height=3D"32" alt=3D"Vko=
+ntakte" title=3D"Vkontakte" style=3D"display:block;height:auto;border:0"></=
+a></td><td style=3D"padding:0 10px 0 10px"><a href=3D"https://geteml.com/ru=
+/mail_link_tracker?hash=3D6xzwnrinfd7qik38uaxo74p1sob64qcz7tgkij9pp9n5684eu=
+q3zrrmzqbqmk1pkmj8re8ypg5mfp5as48t8zhz99kok3to9q3omccecnp5encmz7qady&url=3D=
+aHR0cHM6Ly90Lm1lL29tcF9ydQ~~&uid=3DNDE1NDg2OQ~~&ucs=3De4a62ad29fbc364921b2f=
+96ab20cb1e0" target=3D"_blank"><img src=3D"https://app-rsrc.getbee.io/publi=
+c/resources/social-networks-icon-sets/circle-color/telegram@2x.png" width=
+=3D"32" height=3D"32" alt=3D"Telegram" title=3D"Telegram"=20
+style=3D"display:block;height:auto;border:0"></a></td><td style=3D"padding:=
+0 10px 0 10px"><a href=3D"https://geteml.com/ru/mail_link_tracker?hash=3D6u=
+ytyqztcakt5k38uaxo74p1sob64qcz7tgkij9pp9n5684euq3zmih7ufemoocixqpawzo5bnxod=
+das48t8zhz99kok3to9q3omccecnp5encmz7qady&url=3DaHR0cHM6Ly93d3cueW91dHViZS5j=
+b20vYy9BdXJvcmFPUw~~&uid=3DNDE1NDg2OQ~~&ucs=3D97f81e19325b662d33f209e8bb723=
+519" target=3D"_blank"><img src=3D"https://app-rsrc.getbee.io/public/resour=
+ces/social-networks-icon-sets/circle-color/youtube@2x.png" width=3D"32" hei=
+ght=3D"32" alt=3D"YouTube" title=3D"YouTube" style=3D"display:block;height:=
+auto;border:0"></a></td><td style=3D"padding:0 10px 0 10px"><a href=3D"http=
+s://geteml.com/ru/mail_link_tracker?hash=3D6u8wk7x4tbiaxn38uaxo74p1sob64qcz=
+7tgkij9pp9n5684euq3zfn6iigrhh134447m56mc9dkqk5as48t8zhz99kok3to9q3omccecnp5=
+encmz7qady&url=3DaHR0cHM6Ly9vbXBydXNzaWEucnUv&uid=3DNDE1NDg2OQ~~&ucs=3Ddef4=
+a8c1318e0153dd1a9d0c2b663609" target=3D"_blank"><img=20
+src=3D"https://app-rsrc.getbee.io/public/resources/social-networks-icon-set=
+s/circle-color/website@2x.png" width=3D"32" height=3D"32" alt=3D"Web Site" =
+title=3D"Web Site" style=3D"display:block;height:auto;border:0"></a></td></=
+tr></table></td></tr></table></td></tr></tbody></table></td></tr></tbody></=
+table></td></tr></tbody></table><!-- End --><table bgcolor=3D"white" align=
+=3D"left" width=3D"100%"><tr><td><span style=3D"font-family: arial,helvetic=
+a,sans-serif; color: black; font-size: 12px;"><p style=3D"text-align: cente=
+r; color: #bababa;">=D0=A7=D1=82=D0=BE=D0=B1=D1=8B =D0=BE=D1=82=D0=BF=D0=B8=
+=D1=81=D0=B0=D1=82=D1=8C=D1=81=D1=8F =D0=BE=D1=82 =D1=8D=D1=82=D0=BE=D0=B9 =
+=D1=80=D0=B0=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D0=B8, =D0=BF=D0=B5=D1=80=D0=B5=
+=D0=B9=D0=B4=D0=B8=D1=82=D0=B5 =D0=BF=D0=BE <a style=3D"color: #46a8c6;" hr=
+ef=3D"https://geteml.com/ru/unsubscribe?hash=3D6ba4dhjmtuwjqe63wtz3kbbjmoj6=
+4qcz7tgkij9pp9n5684euq3zrraqsuwpx6h3di67r5btay7cw49ztqomc6cdmxw#no_tracking=
+">=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D0=B5</a></p></span></td></tr></table><cen=
+ter><table><tr><td><img src=3D"https://geteml.com/ru/mail_read_tracker/4154=
+869?hash=3D6n6qiyswebcg8yznszwqt163y6t64qcz7tgkij9pp9n5684euq3zdqjmt5efionr=
+4boixqrmgmwzh87jncfzwtjuqfe" width=3D"1" height=3D"1" alt=3D"" title=3D"" b=
+order=3D"0"></td></tr></table></center></body></html>
+------=_Part_59591693_1316241383.1645715210142--
+
+--MW5ORmhoLWNySURoay1OMQ==--

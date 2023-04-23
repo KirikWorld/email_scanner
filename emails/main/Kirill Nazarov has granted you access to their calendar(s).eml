@@ -1,0 +1,40 @@
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=communigate.ru; s=test1;
+	bh=b0UH378tkhjtNx3nuWuaugl2G0Nnfb0rztxl2b/vnSs=;
+	h=Content-Type:MIME-Version:Date:To:From:Message-ID:Subject; b=Rc4RItsAgjbAAu
+	6wNcJjzafJPFXLu+JNEv765SujRvEPgu03kRP51ekDbjpSkLLmsGUkigwNVUv0sU1KdBwXQwJYLtc
+	ja4vYL1GNThHbwC8ap4Ej1kVxJkUEXdf6N7mfxO+u5C8fFP8PLbwAtZre6vL/hQuhnJyskn+KDbFz
+	hrU=
+Return-Path: <xobotik@mail.communigate.ru>
+Received: from [87.240.58.140] (account xobotik@mail.communigate.ru)
+  by mail.communigate.ru (CommuniGate Pro XIMSS 6.2.15q)
+  with HTTPU id 57044957 for testufa; Wed, 11 Dec 2019 15:59:08 +0300
+Subject: Kirill Nazarov has granted you access to their calendar(s)
+Message-ID: {5e2c9e2d-83c6-4d39-8132-1345d9303b4d}@mail.communigate.ru
+X-Mailer: Samoware
+From:  "Kirill Nazarov" <xobotik@mail.communigate.ru>
+To:  testufa
+Date: Wed, 11 Dec 2019 15:59:08 +0300
+MIME-Version: 1.0
+Content-Type: multipart/mixed;boundary="_===57044957====mail.communigate.ru===_"
+
+
+--_===57044957====mail.communigate.ru===_
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Kirill Nazarov has granted you access to '2222' calendar. To view the '~xobotik@mail.communigate.ru/2222' click on the '2222' button above
+
+--_===57044957====mail.communigate.ru===_
+Content-Disposition: inline; filename="attachment.dat"
+Content-Type: application/pronto+xml; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<?xml version="1.0"?>
+<syncRequest>
+  <title>Subscribe: 2222</title>
+  <titleId id="SubscribeButton">SubscribeButton : 2222</titleId>
+  <request>calendarSubscribe</request>
+  <params>~xobotik@mail.communigate.ru/2222</params>
+</syncRequest>
+
+--_===57044957====mail.communigate.ru===_--

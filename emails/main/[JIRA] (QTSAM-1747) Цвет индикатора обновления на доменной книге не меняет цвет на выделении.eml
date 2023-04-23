@@ -1,0 +1,548 @@
+X-Junk-Score:   0 []
+X-KAS-Score:   0 []
+Return-Path: <jira@mail-us.atlassian.net>
+Received: from mta-81-104.sparkpostmail.com ([192.174.81.104] verified)
+  by mail.communigate.ru (CommuniGate Pro SMTP 6.3.11b)
+  with ESMTPS id 60369331 for lukoilo@communigate.ru; Wed, 30 Mar 2022 22:04:02 +0300
+Received-SPF: pass
+ receiver=mail.communigate.ru; client-ip=192.174.81.104; envelope-from=jira@mail-us.atlassian.net
+X-MSFBL: xgo/p2kMXanXuTWlDpnNptj4E4AYTFeUBUNQuIkElpE=|eyJyIjoibHVrb2lsb0B
+	jb21tdW5pZ2F0ZS5ydSIsInRlbmFudF9pZCI6ImF0bGFzc2lhbnVzIiwic3ViYWN
+	jb3VudF9pZCI6IjQiLCJjdXN0b21lcl9pZCI6IjEiLCJtZXNzYWdlX2lkIjoiNjI
+	zZTk1YTk0NDYyMDc2NmU4NjQifQ==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=mail-us.atlassian.net; s=atl201805; t=1648667029;
+	i=@mail-us.atlassian.net;
+	bh=gEcEXLRgcl/lBq4dt3d8b2J/U84TsKGUXgCXHMteqpY=;
+	h=Date:From:To:Subject:Message-ID:Content-Type;
+	b=n5zCxHCuhXbsVwb6kGXIPvIBaEO7m1hGk1ACxz9naSl/YPK4W8hATmND+ee0WkNo6
+	 3fh+qZJqv6NLiMC983+atkjxlmgVbtS2fGn7cAjYJP7YvkzYtYRlgvvXy6rRH6x9yZ
+	 cl1nWFrH9fmWEVqwSVD7Cl8UE08ooe4QLFqwP4b0=
+Date: Wed, 30 Mar 2022 19:03:49 +0000
+From: "Egor Krugletsov (Jira)" <jira@cgs.atlassian.net>
+To: =?utf-8?q?=D0=9B=D1=83=D0=BA=D1=8C=D1=8F=D0=BD=D1=87=D0=B8=D0=BA=D0=BE?= =?utf-8?q?=D0=B2_=D0=9E=D0=BB=D0=B5=D0=B3?= <lukoilo@communigate.ru>
+Subject: =?UTF-8?b?W0pJUkFdIChRVFNBTS0xNzQ3KSDQptCy0LXRgiDQuNC90LTQuNC60LDRgtC+?=
+	=?UTF-8?b?0YDQsCDQvtCx0L3QvtCy0LvQtdC90LjRjyDQvdCwINC00L7QvNC10L3QvdC+?=
+	=?UTF-8?b?0Lkg0LrQvdC40LPQtSDQvdC1INC80LXQvdGP0LXRgiDRhtCy0LXRgiDQvdCw?=
+	=?UTF-8?b?INCy0YvQtNC10LvQtdC90LjQuA==?=
+Message-ID: <01FZE3CV8SJPDP55Q8AFV11F6S@cgs.atlassian.net>
+AtlassianMail-Meta-Transaction-ID: 01FZE3CV8SJPDP55Q8AFV11F6S
+AtlassianMail-Meta-Obsolete-ID: 01FZE3CV8SJPDP55Q8AFV11F6S
+X-Jira-Fingerprint: d66676df7564311ed8a5d2294a088dd3
+In-Reply-To: <99CazwdvzJrTvg9KHshiKZATUtpVGiPuXpBtAOz5lDI=@cgs.atlassian.net>
+References: <99CazwdvzJrTvg9KHshiKZATUtpVGiPuXpBtAOz5lDI=@cgs.atlassian.net>
+Precedence: bulk
+Atl-Sent-Via: notifications-platform
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary=enmime-01daedb7-92cf-4c45-a21d-7071f889465c
+
+--enmime-01daedb7-92cf-4c45-a21d-7071f889465c
+Content-Type: multipart/related;
+ boundary=enmime-86ab6852-457e-45fe-bd19-9bb297927836
+
+--enmime-86ab6852-457e-45fe-bd19-9bb297927836
+Content-Type: multipart/alternative;
+ boundary=enmime-f849c2fa-e842-40c4-87ce-80b51fcc17db
+
+--enmime-f849c2fa-e842-40c4-87ce-80b51fcc17db
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+
+Egor Krugletsov *made 2 updates*. QtSamoware/QTSAM-1747 =D0=A6=D0=B2=D0=B5=
+=D1=82 =D0=B8=D0=BD=D0=B4=D0=B8=D0=BA=D0=B0=D1=82=D0=BE=D1=80=D0=B0 =D0=BE=
+=D0=B1=D0=BD=D0=BE=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D1=8F =D0=BD=D0=B0 =D0=B4=
+=D0=BE=D0=BC=D0=B5=D0=BD=D0=BD=D0=BE=D0=B9 =D0=BA=D0=BD=D0=B8=D0=B3=D0=B5 =
+=D0=BD=D0=B5 =D0=BC=D0=B5=D0=BD=D1=8F=D0=B5=D1=82 =D1=86=D0=B2=D0=B5=D1=82 =
+=D0=BD=D0=B0 =D0=B2=D1=8B=D0=B4=D0=B5=D0=BB=D0=B5=D0=BD=D0=B8=D0=B8 =E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=0A=0AEgor K=
+rugletsov *made 2 updates*.=0A=0AQtSamoware ( https://cgs.atlassian.net/bro=
+wse/QTSAM=3FatlOrigin=3DeyJpIjoiMWNiMzllNTYyMDJiNDAxZjkzNTEzOGI1YjE0N2IwOGY=
+iLCJwIjoiaiJ9 )=0A=0A/=0A=0AQTSAM-1747 ( https://cgs.atlassian.net/browse/Q=
+TSAM-1747=3FatlOrigin=3DeyJpIjoiMWNiMzllNTYyMDJiNDAxZjkzNTEzOGI1YjE0N2IwOGY=
+iLCJwIjoiaiJ9 )=0A=0A=D0=A6=D0=B2=D0=B5=D1=82 =D0=B8=D0=BD=D0=B4=D0=B8=D0=
+=BA=D0=B0=D1=82=D0=BE=D1=80=D0=B0 =D0=BE=D0=B1=D0=BD=D0=BE=D0=B2=D0=BB=D0=
+=B5=D0=BD=D0=B8=D1=8F =D0=BD=D0=B0 =D0=B4=D0=BE=D0=BC=D0=B5=D0=BD=D0=BD=D0=
+=BE=D0=B9 =D0=BA=D0=BD=D0=B8=D0=B3=D0=B5 =D0=BD=D0=B5 =D0=BC=D0=B5=D0=BD=D1=
+=8F=D0=B5=D1=82 =D1=86=D0=B2=D0=B5=D1=82 =D0=BD=D0=B0 =D0=B2=D1=8B=D0=B4=D0=
+=B5=D0=BB=D0=B5=D0=BD=D0=B8=D0=B8 ( https://cgs.atlassian.net/browse/QTSAM-=
+1747=3FatlOrigin=3DeyJpIjoiMWNiMzllNTYyMDJiNDAxZjkzNTEzOGI1YjE0N2IwOGYiLCJw=
+IjoiaiJ9 )=0AEgor Krugletsov 10:00=C2=A0PM=C2=A0MSK Fix versions: 4.0.4 Sta=
+tus: Tested On Dev Done=0A=0AView issue ( https://cgs.atlassian.net/browse/=
+QTSAM-1747=3FatlOrigin=3DeyJpIjoiMWNiMzllNTYyMDJiNDAxZjkzNTEzOGI1YjE0N2IwOG=
+YiLCJwIjoiaiJ9 )=0A=0AGet Jira notifications on your phone! Download the Ji=
+ra Cloud app for Android ( https://play.google.com/store/apps/details=3Fid=
+=3Dcom.atlassian.android.jira.core&referrer=3Dutm_source%3DNotificationLink=
+%26utm_medium%3DEmail ) or iOS ( https://itunes.apple.com/app/apple-store/i=
+d1006972087=3Fpt=3D696495&ct=3DEmailNotificationLink&mt=3D8 ).=0A=0AManage =
+notifications ( https://cgs.atlassian.net/secure/ViewPersonalSettings.jspa#=
+emailpreferences ) =E2=80=A2 Give feedback ( https://surveys.atlassian.com/=
+jfe/form/SV_9X3zi1X4q1gKsqF ) =E2=80=A2 Privacy policy ( https://www.atlass=
+ian.com/legal/privacy-policy )
+--enmime-f849c2fa-e842-40c4-87ce-80b51fcc17db
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0D=0A<html lang=3D"en" xml:l=
+ang=3D"en" style=3D"font-family: Arial, sans-serif"> =0D=0A <head> =0D=0A  =
+<title></title> =0D=0A  <meta http-equiv=3D"Content-Type" content=3D"text/h=
+tml; charset=3Dutf-8"> <!--[if !mso]><!--> =0D=0A  <meta http-equiv=3D"X-UA=
+-Compatible" content=3D"IE=3Dedge"> <!--<![endif]--> =0D=0A  <meta name=3D"=
+viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.0"> <!--[if (g=
+te mso 9)|(IE)]>=0D=0A        <style type=3D"text/css">=0D=0A            ta=
+ble {border-collapse: collapse;}=0D=0A        </style>=0D=0A        <![endi=
+f]--> <!--[if mso]>=0D=0A        <style type=3D"text/css">=0D=0A           =
+ body, table, td {=0D=0A                font-family: -apple-system, BlinkMa=
+cSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Fira Sans', 'Droid =
+Sans', 'Helvetica Neue', sans-serif !important;=0D=0A                color:=
+ #172b4d !important;=0D=0A            }=0D=0A        </style>=0D=0A        =
+<![endif]--> =0D=0A  <style type=3D"text/css">=0D=0A            @media only=
+ screen and (max-width: 700px) {=0D=0A                span.summary-text-par=
+t {=0D=0A                    display: block !important;=0D=0A              =
+  }=0D=0A=0D=0A                .message-part-verb {=0D=0A                  =
+  display: none !important;=0D=0A                }=0D=0A=0D=0A             =
+   .desktop-only {=0D=0A                    display: none !important;=0D=0A=
+                }=0D=0A                .mobile-only {=0D=0A                =
+    display: block !important;=0D=0A                }=0D=0A            }=0D=
+=0A=0D=0A            @media only screen and (min-width: 700px) {=0D=0A     =
+           span.ak-lozenge {=0D=0A                    margin-left: 5px;=0D=
+=0A                }=0D=0A=0D=0A                .desktop-only {=0D=0A      =
+              display: block !important;=0D=0A                }=0D=0A      =
+          .mobile-only {=0D=0A                    display: none !important;=
+=0D=0A                }=0D=0A            }=0D=0A=0D=0A            @media pr=
+int {=0D=0A                div.media-print-hidden {=0D=0A                  =
+  display: none;=0D=0A                }=0D=0A            }=0D=0A=0D=0A     =
+       .ak-button__appearance-primary:hover {=0D=0A                backgrou=
+nd: #0065FF !important;=0D=0A            }=0D=0A=0D=0A            .ak-butto=
+n__appearance-subtle-link:hover {=0D=0A                color: #8993a4 !impo=
+rtant;=0D=0A                text-decoration: underline !important;=0D=0A   =
+         }=0D=0A=0D=0A            div.issue-summary a:hover {=0D=0A        =
+        color: #0065FF !important;=0D=0A            }=0D=0A=0D=0A          =
+  .footer a:hover {=0D=0A                color: #0065FF !important;=0D=0A  =
+              text-decoration: underline !important;=0D=0A            }=0D=
+=0A=0D=0A            .layout-simple-header a:hover {=0D=0A                c=
+olor: #0065FF !important;=0D=0A            }=0D=0A=0D=0A            .layout=
+-simple-header-with-breadcrumbs a:hover {=0D=0A                color: #0065=
+FF !important;=0D=0A            }=0D=0A=0D=0A            .confluence-conten=
+t-section a:hover {=0D=0A                color: #0065FF !important;=0D=0A  =
+              text-decoration: underline !important;=0D=0A            }=0D=
+=0A=0D=0A            .confluence-header a:hover {=0D=0A                colo=
+r: #0065FF !important;=0D=0A                text-decoration: underline !imp=
+ortant;=0D=0A            }=0D=0A        </style> =0D=0A </head> =0D=0A <bod=
+y style=3D"background-color: #ffffff; font-family: -apple-system, BlinkMacS=
+ystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Fira Sans', 'Droid Sa=
+ns', 'Helvetica Neue', sans-serif; font-size: 14px; font-style: normal; fon=
+t-weight: 400; color: #172b4d; letter-spacing: -0.15px; color: #333333; fon=
+t-family: Arial, sans-serif; font-size: 14px; line-height: 1.4285715; backg=
+round-color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Sego=
+e UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Fira Sans', 'Droid Sans', 'Helvetica =
+Neue', sans-serif; color: #172b4d; letter-spacing: -0.15px" bgcolor=3D"#fff=
+fff"> =0D=0A  <div class=3D"hidden" style=3D"display: none"> <span class=3D=
+"summary-text-part">Egor Krugletsov <b>made 2 updates</b>.</span> <span>QtS=
+amoware/QTSAM-1747</span> <span>=D0=A6=D0=B2=D0=B5=D1=82 =D0=B8=D0=BD=D0=B4=
+=D0=B8=D0=BA=D0=B0=D1=82=D0=BE=D1=80=D0=B0 =D0=BE=D0=B1=D0=BD=D0=BE=D0=B2=
+=D0=BB=D0=B5=D0=BD=D0=B8=D1=8F =D0=BD=D0=B0 =D0=B4=D0=BE=D0=BC=D0=B5=D0=BD=
+=D0=BD=D0=BE=D0=B9 =D0=BA=D0=BD=D0=B8=D0=B3=D0=B5 =D0=BD=D0=B5 =D0=BC=D0=B5=
+=D0=BD=D1=8F=D0=B5=D1=82 =D1=86=D0=B2=D0=B5=D1=82 =D0=BD=D0=B0 =D0=B2=D1=8B=
+=D0=B4=D0=B5=D0=BB=D0=B5=D0=BD=D0=B8=D0=B8</span> <span>&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbs=
+p;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C</span> =0D=0A  </d=
+iv> =0D=0A  <div class=3D"outer-container" style=3D"width: 100.0%; table-la=
+yout: fixed; max-width: 1040px; margin: 0 auto; -webkit-text-size-adjust: 1=
+00.0%; -ms-text-size-adjust: 100.0%"> <!--[if (gte mso 9)|(IE)]>=0D=0A     =
+       <table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0">=0D=0A                <tr>=0D=0A                    <td width=3D"104=
+0">=0D=0A            <![endif]--> =0D=0A   <table style=3D"border-spacing: =
+0; margin: 0; border-collapse: collapse; width: 100.0%; border-spacing: 0; =
+margin: 0"> =0D=0A    <tbody style=3D"border-bottom: 0">=0D=0A     <tr> =0D=
+=0A      <td style=3D"padding: 0; padding: 0"> =0D=0A       <div class=3D"o=
+verview-headline" style=3D"font-size: 14px; margin-bottom: 7px"> <span clas=
+s=3D"summary-text-part" style=3D"display: inline">Egor Krugletsov <b style=
+=3D"font-weight: 600">made 2 updates</b>.</span> =0D=0A       </div> =0D=0A=
+       <table class=3D"email-container" style=3D"border-spacing: 0; margin:=
+ 0; border-collapse: collapse; width: 100.0%; border-spacing: 0; margin: 0;=
+ max-width: 1040px; margin: 0; border-collapse: separate"> =0D=0A        <t=
+body style=3D"border-bottom: 0">=0D=0A         <tr> =0D=0A          <td cla=
+ss=3D"email-container" style=3D"padding: 0; padding: 0; padding-top: 12px; =
+padding-bottom: 12px; border-top: 2px solid #dfe1e6; border-bottom: 2px sol=
+id #dfe1e6"> =0D=0A           <table class=3D"event-group" style=3D"border-=
+spacing: 0; margin: 0; border-collapse: collapse; width: 100.0%; border-spa=
+cing: 0; margin: 0; margin: 0 0 0 0"> =0D=0A            <thead style=3D"bor=
+der-bottom: 0"> =0D=0A             <tr> =0D=0A              <td colspan=3D"=
+3" style=3D"padding: 0; padding: 0"> =0D=0A               <div> =0D=0A     =
+           <div> =0D=0A                 <div class=3D"np-breadcrumbs" style=
+=3D"color: #6b778c; font-weight: 500; font-size: 14px; line-height: 20px; m=
+argin-bottom: 6px"> =0D=0A                  <table class=3D"breadcrumbs-tab=
+le" style=3D"border-spacing: 0; margin: 0; border-collapse: collapse; width=
+: 100.0%; border-spacing: 0; margin: 0; width: auto; border-spacing: 0; hei=
+ght: 20px" height=3D"20"> =0D=0A                   <tbody style=3D"border-b=
+ottom: 0">=0D=0A                    <tr> =0D=0A                     <td sty=
+le=3D"padding: 0; padding: 0; white-space: nowrap; color: #6b778c"> =0D=0A =
+                     <table style=3D"border-spacing: 0; margin: 0; border-c=
+ollapse: collapse; width: 100.0%; border-spacing: 0; margin: 0"> =0D=0A    =
+                   <tbody style=3D"border-bottom: 0"> =0D=0A               =
+         <tr> =0D=0A                         <td style=3D"padding: 0; paddi=
+ng: 0; white-space: nowrap; color: #6b778c"> <a class=3D"ak-button ak-butto=
+n__appearance-subtle-link subtle-link-height-override zero-padding" href=3D=
+"https://cgs.atlassian.net/browse/QTSAM=3FatlOrigin=3DeyJpIjoiMWNiMzllNTYyM=
+DJiNDAxZjkzNTEzOGI1YjE0N2IwOGYiLCJwIjoiaiJ9" style=3D"color: #0052cc; text-=
+decoration: none; align-items: baseline; box-sizing: border-box; border-rad=
+ius: 3px; border-width: 0; display: inline-flex; font-style: normal; font-s=
+ize: inherit; height: 2.2857144em; line-height: 2.2857144em; margin: 0; out=
+line: none; padding: 0 12px; text-align: center; transition: background 0.1=
+s ease-out, box-shadow 0.15s cubic-bezier(0.47, 0.03, 0.49, 1.38); user-sel=
+ect: none; vertical-align: middle; white-space: nowrap; background: none; c=
+olor: #42526e; text-decoration: none; padding: 0px; color: #6b778c; height:=
+ auto; line-height: normal">QtSamoware</a> </td> =0D=0A                    =
+    </tr> =0D=0A                       </tbody> =0D=0A                     =
+ </table> </td> =0D=0A                     <td style=3D"padding: 0; padding=
+: 0; white-space: nowrap; color: #6b778c"> <span class=3D"np-breadcrumb-sep=
+arator" style=3D"color: #6b778c">&nbsp;&nbsp;/&nbsp;&nbsp;</span> </td> =0D=
+=0A                     <td style=3D"padding: 0; padding: 0; white-space: n=
+owrap; color: #6b778c"> =0D=0A                      <table style=3D"border-=
+spacing: 0; margin: 0; border-collapse: collapse; width: 100.0%; border-spa=
+cing: 0; margin: 0"> =0D=0A                       <tbody style=3D"border-bo=
+ttom: 0"> =0D=0A                        <tr> =0D=0A                        =
+ <td style=3D"padding: 0; padding: 0; white-space: nowrap; color: #6b778c">=
+ <a class=3D"ak-button ak-button__appearance-subtle-link subtle-link-height=
+-override zero-padding" href=3D"https://cgs.atlassian.net/browse/QTSAM-1747=
+=3FatlOrigin=3DeyJpIjoiMWNiMzllNTYyMDJiNDAxZjkzNTEzOGI1YjE0N2IwOGYiLCJwIjoi=
+aiJ9" style=3D"color: #0052cc; text-decoration: none; align-items: baseline=
+; box-sizing: border-box; border-radius: 3px; border-width: 0; display: inl=
+ine-flex; font-style: normal; font-size: inherit; height: 2.2857144em; line=
+-height: 2.2857144em; margin: 0; outline: none; padding: 0 12px; text-align=
+: center; transition: background 0.1s ease-out, box-shadow 0.15s cubic-bezi=
+er(0.47, 0.03, 0.49, 1.38); user-select: none; vertical-align: middle; whit=
+e-space: nowrap; background: none; color: #42526e; text-decoration: none; p=
+adding: 0px; color: #6b778c; height: auto; line-height: normal">QTSAM-1747<=
+/a> </td> =0D=0A                        </tr> =0D=0A                       =
+</tbody> =0D=0A                      </table> </td> =0D=0A                 =
+   </tr> =0D=0A                   </tbody>=0D=0A                  </table> =
+=0D=0A                 </div> =0D=0A                </div> =0D=0A          =
+      <div class=3D"issue-summary" style=3D"font-size: 20px; font-weight: n=
+ormal; line-height: 24px; margin: 6px 0 0 0"> <a href=3D"https://cgs.atlass=
+ian.net/browse/QTSAM-1747=3FatlOrigin=3DeyJpIjoiMWNiMzllNTYyMDJiNDAxZjkzNTE=
+zOGI1YjE0N2IwOGYiLCJwIjoiaiJ9" style=3D"color: #0052cc; text-decoration: no=
+ne; color: #0052cc"> <span>=D0=A6=D0=B2=D0=B5=D1=82 =D0=B8=D0=BD=D0=B4=D0=
+=B8=D0=BA=D0=B0=D1=82=D0=BE=D1=80=D0=B0 =D0=BE=D0=B1=D0=BD=D0=BE=D0=B2=D0=
+=BB=D0=B5=D0=BD=D0=B8=D1=8F =D0=BD=D0=B0 =D0=B4=D0=BE=D0=BC=D0=B5=D0=BD=D0=
+=BD=D0=BE=D0=B9 =D0=BA=D0=BD=D0=B8=D0=B3=D0=B5 =D0=BD=D0=B5 =D0=BC=D0=B5=D0=
+=BD=D1=8F=D0=B5=D1=82 =D1=86=D0=B2=D0=B5=D1=82 =D0=BD=D0=B0 =D0=B2=D1=8B=D0=
+=B4=D0=B5=D0=BB=D0=B5=D0=BD=D0=B8=D0=B8</span> </a> =0D=0A                <=
+/div> =0D=0A               </div> </td> =0D=0A             </tr> =0D=0A    =
+        </thead> =0D=0A            <tbody style=3D"border-bottom: 0"> =0D=
+=0A            </tbody> =0D=0A            <tbody style=3D"border-bottom: 0"=
+>=0D=0A             <tr class=3D"message-part-header"> =0D=0A              =
+<td rowspan=3D"2" class=3D"user-avatar" style=3D"padding: 0; padding: 0; pa=
+dding-top: 14px; vertical-align: top; width: 40px" width=3D"40"> <img class=
+=3D"user-avatar" src=3D"https://avatar-management--avatars.us-west-2.prod.p=
+ublic.atl-paas.net/5f7a2a4cb61f66006f22bd4e/3c130e34-6f72-4786-b457-daa5692=
+9eac7/128" style=3D"border: 0; border: 0; border-radius: 50.0%; width: 32px=
+; height: 32px" width=3D"32" height=3D"32"> </td> =0D=0A              <td c=
+olspan=3D"2" class=3D"header" style=3D"padding: 0; padding: 0; padding-top:=
+ 14px; padding-bottom: 6px; line-height: 20px; vertical-align: middle"> <sp=
+an class=3D"user-avatar-name" style=3D"color: #42526e; font-weight: 500; di=
+splay: inline-block; vertical-align: middle">Egor Krugletsov</span> <span s=
+tyle=3D"color: #42526e; display: inline-block; vertical-align: middle"> 10:=
+00&nbsp;PM&nbsp;MSK</span> </td> =0D=0A             </tr> =0D=0A           =
+  <tr class=3D"message-part-content"> =0D=0A              <td class=3D"labe=
+l" style=3D"padding: 0; padding: 0; white-space: nowrap; width: 1.0%; verti=
+cal-align: top; padding-right: 5px; line-height: 24px">Fix versions:</td> =
+=0D=0A              <td class=3D"user-content-narrow" style=3D"padding: 0; =
+padding: 0; line-height: 24px"> <span class=3D"diff-new" style=3D"max-width=
+: 700px; height: auto; display: inline-block; padding: 0 4px; background-co=
+lor: #e3fcef" bgcolor=3D"#e3fcef">4.0.4</span> </td> =0D=0A             </t=
+r> =0D=0A            </tbody> =0D=0A            <tbody style=3D"border-bott=
+om: 0">=0D=0A             <tr>=0D=0A              <td rowspan=3D"2" style=
+=3D"padding: 0; padding: 0"> &nbsp; </td> =0D=0A             </tr>=0D=0A   =
+          <tr class=3D"message-part-content"> =0D=0A              <td class=
+=3D"label" style=3D"padding: 0; padding: 0; white-space: nowrap; width: 1.0=
+%; vertical-align: top; padding-right: 5px; line-height: 24px">Status:</td>=
+ =0D=0A              <td class=3D"user-content-narrow" style=3D"padding: 0;=
+ padding: 0; line-height: 24px"> <span class=3D"diff-old" style=3D"max-widt=
+h: 700px; height: auto; display: inline-block; padding: 0 4px; background-c=
+olor: #ffebe6; text-decoration: line-through" bgcolor=3D"#ffebe6">Tested On=
+ Dev</span> <img class=3D"ak-icon inline" alt=3D"=E2=86=92" id=3D"logo" src=
+=3D"cid:atl-generated-65f44af9-371a-4926-975c-b7a92daa930a" style=3D"border=
+: 0; fill: #ffffff; height: 24px; width: 24px; border: 0; max-width: 700px;=
+ height: auto; fill: #ffffff; height: 16px; width: 16px; vertical-align: mi=
+ddle" height=3D"16" width=3D"16"> <span class=3D"diff-new" style=3D"max-wid=
+th: 700px; height: auto; display: inline-block; padding: 0 4px; background-=
+color: #e3fcef" bgcolor=3D"#e3fcef">Done</span> </td> =0D=0A             </=
+tr> =0D=0A            </tbody> =0D=0A            <tbody style=3D"border-bot=
+tom: 0"> =0D=0A             <tr> =0D=0A              <td colspan=3D"3" heig=
+ht=3D"12px" style=3D"padding: 0; padding: 0"> &nbsp; </td> =0D=0A          =
+   </tr> =0D=0A             <tr> =0D=0A              <td colspan=3D"3" styl=
+e=3D"padding: 0; padding: 0"> =0D=0A               <div class=3D"layout-act=
+ion-button media-print-hidden" style=3D"margin: 0 0 6px 0"> =0D=0A         =
+       <table style=3D"border-spacing: 0; margin: 0; border-collapse: colla=
+pse; width: 100.0%; border-spacing: 0; margin: 0"> =0D=0A                 <=
+tbody style=3D"border-bottom: 0"> =0D=0A                  <tr> =0D=0A      =
+             <td style=3D"padding: 0; padding: 0"> <!--[if mso]>=0D=0A     =
+                   <v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml"=
+=0D=0A                                     xmlns:w=3D"urn:schemas-microsoft=
+-com:office:word"=0D=0A                                     style=3D"width:=
+130px;mso-wrap-style:none;mso-position-horizontal:center;"=0D=0A           =
+                          arcsize=3D"10%" stroke=3D"f" fillcolor=3D"#0052CC=
+" href=3D"https://cgs.atlassian.net/browse/QTSAM-1747=3FatlOrigin=3DeyJpIjo=
+iMWNiMzllNTYyMDJiNDAxZjkzNTEzOGI1YjE0N2IwOGYiLCJwIjoiaiJ9">=0D=0A          =
+                  <w:anchorlock/>=0D=0A                            <v:textb=
+ox inset=3D"38px,6px,38px,6px" style=3D"mso-fit-shape-to-text:t">=0D=0A    =
+                            <center>=0D=0A                        <![endif]=
+--> <a class=3D"ak-button ak-button__appearance-primary" href=3D"https://cg=
+s.atlassian.net/browse/QTSAM-1747=3FatlOrigin=3DeyJpIjoiMWNiMzllNTYyMDJiNDA=
+xZjkzNTEzOGI1YjE0N2IwOGYiLCJwIjoiaiJ9" style=3D"color: #0052cc; text-decora=
+tion: none; align-items: baseline; box-sizing: border-box; border-radius: 3=
+px; border-width: 0; display: inline-flex; font-style: normal; font-size: i=
+nherit; height: 2.2857144em; line-height: 2.2857144em; margin: 0; outline: =
+none; padding: 0 12px; text-align: center; transition: background 0.1s ease=
+-out, box-shadow 0.15s cubic-bezier(0.47, 0.03, 0.49, 1.38); user-select: n=
+one; vertical-align: middle; white-space: nowrap; background: #0052cc; colo=
+r: #ffffff; text-decoration: none; font-family: -apple-system, BlinkMacSyst=
+emFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Fira Sans', 'Droid Sans'=
+, 'Helvetica Neue', sans-serif; font-size: 14px; padding: 0 38px">View issu=
+e</a> <!--[if mso]>=0D=0A                                </center>=0D=0A   =
+                         </v:textbox>=0D=0A                        </v:roun=
+drect>=0D=0A                        <![endif]--> </td> =0D=0A              =
+    </tr> =0D=0A                 </tbody> =0D=0A                </table> =
+=0D=0A               </div> </td> =0D=0A             </tr> =0D=0A          =
+  </tbody> =0D=0A           </table> </td> =0D=0A         </tr> =0D=0A     =
+    <tr> =0D=0A          <td class=3D"footer-container" style=3D"padding: 0=
+; padding: 0; padding-top: 12px"> =0D=0A           <table class=3D"footer" =
+width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"bo=
+rder-spacing: 0; margin: 0; border-collapse: collapse; width: 100.0%; borde=
+r-spacing: 0; margin: 0"> =0D=0A            <tbody style=3D"border-bottom: =
+0">=0D=0A             <tr> =0D=0A              <td style=3D"padding: 0; pad=
+ding: 0"> =0D=0A               <table style=3D"border-spacing: 0; margin: 0=
+; border-collapse: collapse; width: 100.0%; border-spacing: 0; margin: 0"> =
+=0D=0A                <tbody style=3D"border-bottom: 0">=0D=0A             =
+    <tr> =0D=0A                  <td style=3D"padding: 0; padding: 0"> <sma=
+ll style=3D"color: #707070; font-size: 12px; line-height: 1.3333334; color:=
+ #707070; font-size: 12px; font-weight: normal; line-height: 17px">Get Jira=
+ notifications on your phone! Download the Jira Cloud app for <a href=3D"ht=
+tps://play.google.com/store/apps/details=3Fid=3Dcom.atlassian.android.jira.=
+core&referrer=3Dutm_source%3DNotificationLink%26utm_medium%3DEmail" style=
+=3D"color: #0052cc; text-decoration: none">Android</a> or <a href=3D"https:=
+//itunes.apple.com/app/apple-store/id1006972087=3Fpt=3D696495&ct=3DEmailNot=
+ificationLink&mt=3D8" style=3D"color: #0052cc; text-decoration: none">iOS</=
+a>.</small> </td> =0D=0A                 </tr> =0D=0A                 <tr> =
+=0D=0A                  <td style=3D"padding: 0; padding: 0"> =0D=0A       =
+            <div class=3D"footer-content-actions-spacing" style=3D"mso-line=
+-height-rule: exactly; line-height: 4px; height: 4px; font-size: 1px" heigh=
+t=3D"4">=0D=0A                     &nbsp; =0D=0A                   </div> <=
+/td> =0D=0A                 </tr> =0D=0A                 <tr> =0D=0A       =
+           <td class=3D"footer-actions-line-height" style=3D"padding: 0; pa=
+dding: 0; mso-line-height-rule: exactly; line-height: 15px"> <small style=
+=3D"color: #707070; font-size: 12px; line-height: 1.3333334; color: #707070=
+; font-size: 12px; font-weight: normal; line-height: 17px"> <a href=3D"http=
+s://cgs.atlassian.net/secure/ViewPersonalSettings.jspa#emailpreferences" st=
+yle=3D"color: #0052cc; text-decoration: none">Manage notifications</a> </sm=
+all> <small style=3D"color: #707070; font-size: 12px; line-height: 1.333333=
+4; color: #707070; font-size: 12px; font-weight: normal; line-height: 17px"=
+> &nbsp;=E2=80=A2&nbsp; </small> <small style=3D"color: #707070; font-size:=
+ 12px; line-height: 1.3333334; color: #707070; font-size: 12px; font-weight=
+: normal; line-height: 17px"> <a href=3D"https://surveys.atlassian.com/jfe/=
+form/SV_9X3zi1X4q1gKsqF" style=3D"color: #0052cc; text-decoration: none">Gi=
+ve feedback</a> </small> <small style=3D"color: #707070; font-size: 12px; l=
+ine-height: 1.3333334; color: #707070; font-size: 12px; font-weight: normal=
+; line-height: 17px"> &nbsp;=E2=80=A2&nbsp; </small> <small style=3D"color:=
+ #707070; font-size: 12px; line-height: 1.3333334; color: #707070; font-siz=
+e: 12px; font-weight: normal; line-height: 17px"> <a href=3D"https://www.at=
+lassian.com/legal/privacy-policy" style=3D"color: #0052cc; text-decoration:=
+ none">Privacy policy</a> </small> </td> =0D=0A                 </tr> =0D=
+=0A                </tbody>=0D=0A               </table> </td> =0D=0A      =
+        <td width=3D"20" class=3D"desktop-only" style=3D"padding: 0; paddin=
+g: 0; display: block"> &nbsp; </td> =0D=0A              <td class=3D"right-=
+align" style=3D"padding: 0; padding: 0; text-align: right"> =0D=0A         =
+      <div class=3D"desktop-only" style=3D"display: block"> =0D=0A         =
+       <img class=3D"jira-logo" src=3D"cid:atl-generated-a6f5865f-e89a-40a3=
+-81c8-832f6aa1985e" style=3D"border: 0; border: 0; height: 32px" height=3D"=
+32"> =0D=0A               </div> </td> =0D=0A             </tr> =0D=0A     =
+        <tr> =0D=0A              <td style=3D"padding: 0; padding: 0"> =0D=
+=0A               <div class=3D"mobile-vertical-spacing mobile-only" style=
+=3D"display: none; line-height: 8px; height: 8px" height=3D"8">=0D=0A      =
+           &nbsp; =0D=0A               </div> </td> =0D=0A             </tr=
+> =0D=0A             <tr> =0D=0A              <td style=3D"padding: 0; padd=
+ing: 0"> =0D=0A               <div class=3D"mobile-only" style=3D"display: =
+none"> =0D=0A                <img class=3D"jira-logo" src=3D"cid:atl-genera=
+ted-a6f5865f-e89a-40a3-81c8-832f6aa1985e" style=3D"border: 0; border: 0; he=
+ight: 32px" height=3D"32"> =0D=0A               </div> </td> =0D=0A        =
+     </tr> =0D=0A            </tbody>=0D=0A           </table> </td> =0D=0A=
+         </tr> =0D=0A        </tbody>=0D=0A       </table> </td> =0D=0A    =
+ </tr> =0D=0A    </tbody>=0D=0A   </table> <!--[if (gte mso 9)|(IE)]>=0D=0A=
+                    </td>=0D=0A                </tr>=0D=0A            </tab=
+le>=0D=0A            <![endif]--> =0D=0A  </div>  =0D=0A =0D=0A<img border=
+=3D"0" width=3D"1" height=3D"1" alt=3D"" src=3D"http://atlassian.et.e.spark=
+post.com/q/Wj5wXFv732wcZr70OIym7g~~/AAAAAQA~/RgRkJy6VPlcLYXRsYXNzaWFudXNCCm=
+I-lalEYgdm6GRSFmx1a29pbG9AY29tbXVuaWdhdGUucnVYBAAAAAQ~">=0D=0A</body>=0D=0A=
+</html>=0D=0A
+--enmime-f849c2fa-e842-40c4-87ce-80b51fcc17db--
+
+--enmime-86ab6852-457e-45fe-bd19-9bb297927836
+Content-Disposition: inline;
+ filename=atl-generated-a6f5865f-e89a-40a3-81c8-832f6aa1985e.png
+Content-Id: <atl-generated-a6f5865f-e89a-40a3-81c8-832f6aa1985e>
+Content-Transfer-Encoding: base64
+Content-Type: image/png;
+ name=atl-generated-a6f5865f-e89a-40a3-81c8-832f6aa1985e.png
+
+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
+RU5ErkJggg==
+
+--enmime-86ab6852-457e-45fe-bd19-9bb297927836
+Content-Disposition: inline;
+ filename=atl-generated-65f44af9-371a-4926-975c-b7a92daa930a.png
+Content-Id: <atl-generated-65f44af9-371a-4926-975c-b7a92daa930a>
+Content-Transfer-Encoding: base64
+Content-Type: image/png;
+ name=atl-generated-65f44af9-371a-4926-975c-b7a92daa930a.png
+
+iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABmJLR0QA/wD/AP+gvaeTAAAAG3RF
+WHRqaXJhLXN5c3RlbS1pbWFnZS10eXBlAGljb266KjlFAAAAoUlEQVRo3u2YQQ7CIBBFe7UOK+OG
+DhoXeoQCPXPpLTDRjSuDO0mc+l4ya/4jEGYYBgAAAIDfRPx8EE1l1Li6sHh7ApqKaHq8qjrNF8sC
+9iRcWLxoqrYlNJ4aEncX8g0JJJBA4o8kRo1H0bS9Ldijape2o/Gq9qyCwKfO0uwR+vqGTPncvMRT
+vBKe8IQnPOH3MVKaH+rtf6tY/9gCAACAvfMERv7d99auua0AAAAASUVORK5CYII=
+
+--enmime-86ab6852-457e-45fe-bd19-9bb297927836--
+
+--enmime-01daedb7-92cf-4c45-a21d-7071f889465c--

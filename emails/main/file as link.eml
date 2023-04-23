@@ -1,0 +1,216 @@
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=simple/simple; d=communigate.ru; s=test1;
+	bh=CnUGXZb+Wis4DFUu+kWJlD7/GzFDvOcAu2EyttfoPzA=;
+	h=Content-Type:MIME-Version:Date:To:From:Message-ID:Subject; b=GEdvZSU6LyC8aq
+	FcSKEVPeF6AnZF4k3zDS9gzL5SN6b5m+Co7jseSmwGKTflkway009oU17cjr1wivoA1D8tI2UAq60
+	2Wj03sOB2il77aso0eO+w0IabZvib52/sdy/P+nmLC+vdTUw1nkptyEUbZn44vj5sJWzLLMIfKryX
+	GNo=
+Return-Path: <lukoilo@communigate.ru>
+Received: from [46.38.45.242] (account lukoilo@mail.communigate.ru)
+  by mail.communigate.ru (CommuniGate Pro XIMSS 6.3.6k)
+  with HTTPU id 58914180 for testufa@mail.communigate.ru; Tue, 09 Mar 2021 16:33:16 +0300
+Subject: file as link
+Message-ID: ded75799-3f30-4ce8-9050-7d15182f3daf@mail.communigate.ru
+X-Mailer: SamowareQt 3.7.2
+From:  =?utf-8?B?0JvRg9C60YzRj9C90YfQuNC60L7QsiDQntC70LXQsyDQmNCz0L4=?=
+ =?utf-8?B?0YDQtdCy0LjRhw==?= <lukoilo@communigate.ru>
+To:  "XIMSS tests" <testufa@mail.communigate.ru>
+Date: Tue, 09 Mar 2021 16:33:16 +0300
+MIME-Version: 1.0
+Content-Type: multipart/mixed;boundary="_===58914180====mail.communigate.ru===_"
+
+
+--_===58914180====mail.communigate.ru===_
+Content-Type: multipart/alternative;boundary="_===1==58914180====mail.communigate.ru===_"
+
+
+--_===1==58914180====mail.communigate.ru===_
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<html><head><meta charset="utf-8"><style>.wavyline {  background: url(qrc:/Resources/HTML/wavyline.gif) repeat-x 100% 100%;  padding-bottom: 2px;  text-decoration: none;  white-space: nowrap;}blockquote {    border-left: 1px solid #82939B;    color: #5F6D74;    margin-left: 4px;    padding-left: 12px;}</style> <script src=":/Resources/Javascript/function_getWordAtPoint.js"></script> <script type="text/javascript">document.addEventListener('keypress', (e) => {
+  var key = e.which;
+  if (key == 13) // the enter key code
+  {
+    var input = document.getElementById('demo');
+
+    if (whichTag("blockquote")) {
+
+      document.execCommand('InsertParagraph');
+      document.execCommand('Outdent');
+
+    }
+  }
+});
+
+function whichTag(tagName) {
+
+  var sel, containerNode;
+  var tagFound = false;
+
+  tagName = tagName.toUpperCase();
+
+  if (window.getSelection) {
+
+    sel = window.getSelection();
+
+    if (sel.rangeCount > 0) {
+      containerNode = sel.getRangeAt(0).commonAncestorContainer;
+    }
+
+  } else if ((sel = document.selection) && sel.type != "Control") {
+
+    containerNode = sel.createRange().parentElement();
+
+  }
+
+  while (containerNode) {
+
+    if (containerNode.nodeType == 1 && containerNode.tagName == tagName) {
+
+      tagFound = true;
+      containerNode = null;
+
+    } else {
+
+      containerNode = containerNode.parentNode;
+
+    }
+
+  }
+
+  return tagFound;
+}
+</script><script type="text/javascript">function getComputedStyleProperty(el, propName) {
+    if (window.getComputedStyle) {
+        return window.getComputedStyle(el, null)[propName];
+    } else if (el.currentStyle) {
+        return el.currentStyle[propName];
+    }
+}
+
+function reportComputedStyleProperty(propertyName) {
+    var containerEl, sel;
+    if (window.getSelection) {
+        sel = window.getSelection();
+        if (sel.rangeCount) {
+            containerEl = sel.getRangeAt(0).commonAncestorContainer;
+            // Make sure we have an element rather than a text node
+            if (containerEl.nodeType == 3) {
+                containerEl = containerEl.parentNode;
+            }
+        }
+    } else if ( (sel = document.selection) && sel.type != "Control") {
+        containerEl = sel.createRange().parentElement();
+    }
+
+    if (containerEl) {
+		return getComputedStyleProperty(containerEl, propertyName);
+    }
+	
+	return ""
+}
+
+</script></head><body style="font-family: 'Helvetica', 'Sans'; font-size: 14px;"><div><meta charset="utf-8"><style>.wavyline {  background: url(qrc:/Resources/HTML/wavyline.gif) repeat-x 100% 100%;  padding-bottom: 2px;  text-decoration: none;  white-space: nowrap;}blockquote {    border-left: 1px solid #82939B;    color: #5F6D74;    margin-left: 4px;    padding-left: 12px;}</style> <script src=":/Resources/Javascript/function_getWordAtPoint.js"></script> <script type="text/javascript">document.addEventListener('keypress', (e) => {
+  var key = e.which;
+  if (key == 13) // the enter key code
+  {
+    var input = document.getElementById('demo');
+
+    if (whichTag("blockquote")) {
+
+      document.execCommand('InsertParagraph');
+      document.execCommand('Outdent');
+
+    }
+  }
+});
+
+function whichTag(tagName) {
+
+  var sel, containerNode;
+  var tagFound = false;
+
+  tagName = tagName.toUpperCase();
+
+  if (window.getSelection) {
+
+    sel = window.getSelection();
+
+    if (sel.rangeCount > 0) {
+      containerNode = sel.getRangeAt(0).commonAncestorContainer;
+    }
+
+  } else if ((sel = document.selection) && sel.type != "Control") {
+
+    containerNode = sel.createRange().parentElement();
+
+  }
+
+  while (containerNode) {
+
+    if (containerNode.nodeType == 1 && containerNode.tagName == tagName) {
+
+      tagFound = true;
+      containerNode = null;
+
+    } else {
+
+      containerNode = containerNode.parentNode;
+
+    }
+
+  }
+
+  return tagFound;
+}
+</script><script type="text/javascript">function getComputedStyleProperty(el, propName) {
+    if (window.getComputedStyle) {
+        return window.getComputedStyle(el, null)[propName];
+    } else if (el.currentStyle) {
+        return el.currentStyle[propName];
+    }
+}
+
+function reportComputedStyleProperty(propertyName) {
+    var containerEl, sel;
+    if (window.getSelection) {
+        sel = window.getSelection();
+        if (sel.rangeCount) {
+            containerEl = sel.getRangeAt(0).commonAncestorContainer;
+            // Make sure we have an element rather than a text node
+            if (containerEl.nodeType == 3) {
+                containerEl = containerEl.parentNode;
+            }
+        }
+    } else if ( (sel = document.selection) && sel.type != "Control") {
+        containerEl = sel.createRange().parentElement();
+    }
+
+    if (containerEl) {
+		return getComputedStyleProperty(containerEl, propertyName);
+    }
+	
+	return ""
+}
+
+</script><div><font face="Helvetica, Sans"><span style="font-size: 14px;">file as link</font></div><br><div id="smwr-signature" align="left" style="font-family: Helvetica, Sans; font-size: 14px; padding-top: 8px; padding-bottom: 8px;"><div><b>Руководитель группы разработки</b><b>&nbsp;</b></div><div><u>&lt; CommuniGate Systems &gt;&nbsp;</u></div><div><b><i>к.т.н.</i>&nbsp;Лукьянчиков Олег Игоревич</b></div><!--EndFragment--></div></div></body></html>
+
+--_===1==58914180====mail.communigate.ru===_
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+file as link
+
+Руководитель группы разработки 
+< CommuniGate Systems > 
+к.т.н. Лукьянчиков Олег Игоревич
+
+--_===1==58914180====mail.communigate.ru===_--
+
+--_===58914180====mail.communigate.ru===_
+Content-Type: text/attachmentlink; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+https://mail.communigate.ru:443/~lukoilo@mail.communigate.ru/protected/settings/imFiles/pwd/3UuozkCRDd/2021-01-28_22-17-20.flv
+
+--_===58914180====mail.communigate.ru===_--

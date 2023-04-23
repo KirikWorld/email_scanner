@@ -1,0 +1,68 @@
+X-Junk-Score:   0 []
+X-Cloudmark-Score:   0 []
+X-Cloudmark-Analysis: v=2.3 cv=DPXxHBFb c=1 sm=1 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=jmdcTMp_Gj4A:10 a=0RlMkAsLAAAA:8 a=eB8DHsH_PmY1Ba0J8xoA:9 a=QEXdDO2ut3YA:10 a=BZBtHWVW1eNEmWruuscA:9 a=z0qboKfu7E-OYol_QCwA:9 a=HJzOSZncD8rtY1HqDvDU:22
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=communigate.com; s=test1;
+	bh=dDiqJbnArbu5OKm8azESinb3mBkagFk/ybz0nw3ttSQ=;
+	h=Content-Type:MIME-Version:Message-ID:Date:To:From:Subject; b=CCIoZoEA9i3RAu
+	mviBVmm7DJtR3t3ohLAXtAn/smuRo+FsTOBuKoRuBGohryAVfBPLmDbxgEQxjrNr7ug7k3c0hRK0F
+	lKcdZ+GJGd8TwGt82YT1f1g0ydAzTVCrFDf9F/4Jr04wl7W9/Ibv0qQYEoEVWj07ufz6p2Lpa15mu
+	WQ0=
+Return-Path: <>
+Subject: Undeliverable mail: test
+From: "Mail Delivery Subsystem" <MAILER-DAEMON@mail.moscow.stalker.com>
+To: <testufa@mail.moscow.stalker.com>
+Date: Thu, 16 May 2019 14:47:47 +0300
+Message-ID: <receipt-56268743@mail.moscow.stalker.com>
+X-MAPI-Message-Class: REPORT.IPM.Note.NDR
+MIME-Version: 1.0
+Content-Type: multipart/report;boundary="_===56268743====mail.moscow.stalker.com===_"; report-type="delivery-status"
+
+
+--_===56268743====mail.moscow.stalker.com===_
+Content-Type: text/plain; charset="utf-8"
+
+Failed to deliver to '<testufa3@mail.moscow.stalker.com>'
+unknown user account
+
+
+--_===56268743====mail.moscow.stalker.com===_
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mail.moscow.stalker.com
+
+Original-Recipient: rfc822;<testufa3@mail.moscow.stalker.com>
+Final-Recipient: system;<testufa3@mail.moscow.stalker.com>
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: smtp;unknown user account
+
+--_===56268743====mail.moscow.stalker.com===_
+Content-Type: text/rfc822-headers
+
+Received: from [10.1.9.165] (account testufa@mail.moscow.stalker.com)
+  by mail.moscow.stalker.com (CommuniGate Pro XIMSS 6.2.13j)
+  with HTTPU id 56268893; Thu, 16 May 2019 14:47:45 +0300
+From: "XIMSS tests" <testufa@mail.moscow.stalker.com>
+Subject: test
+To: "testmobile3@mail.moscow.stalker.com"
+ <testmobile3@mail.moscow.stalker.com>,
+ "mobiletest@mail.moscow.stalker.com"
+ <mobiletest@mail.moscow.stalker.com>,
+ "test@mail.moscow.stalker.com" <test@mail.moscow.stalker.com>,
+ "airtest@mail.moscow.stalker.com" <airtest@mail.moscow.stalker.com>,
+ "airtest@mail.moscow.stalker.com" <airtest@mail.moscow.stalker.com>,
+ "testufa2@mail.moscow.stalker.com" <testufa2@mail.moscow.stalker.com>,
+ "adktest1@mail.moscow.stalker.com" <adktest1@mail.moscow.stalker.com>,
+ "testufa3@mail.moscow.stalker.com" <testufa3@mail.moscow.stalker.com>,
+ "adktest2@mail.moscow.stalker.com" <adktest2@mail.moscow.stalker.com>,
+ "testmobile3@mail.moscow.stalker.com"
+ <testmobile3@mail.moscow.stalker.com>
+Date: Thu, 16 May 2019 14:37:58 +0300
+Message-ID: <{d4002268-3519-41f3-83f8-0d98a14edeb2}@moscow.stalker.com>
+content-class: urn:content-classes:calendarmessage
+X-MAPI-Message-Class: IPM.Schedule.Meeting.Request
+MIME-Version: 1.0
+Content-Type: text/calendar;charset=utf-8; method="REQUEST"; name="meeting.ics"
+Content-Transfer-Encoding: 8bit
+
+--_===56268743====mail.moscow.stalker.com===_--

@@ -1,0 +1,415 @@
+Return-Path: <reply@bybuk.ru>
+Received: by mail.moscow.stalker.com (CommuniGate Pro PIPE 6.1.11f)
+  with PIPE id 48432155; Thu, 09 Jun 2016 02:22:38 +0300
+Received: from [72.20.112.40] (HELO stalker.com)
+  by mail.moscow.stalker.com (CommuniGate Pro SMTP 6.1.11f)
+  with ESMTP id 48432190 for support@moscow.stalker.com; Thu, 09 Jun 2016 02:22:17 +0300
+Received: from mail.bybuk.ru ([77.246.145.241] verified)
+  by mail.stalker.com (CommuniGate Pro SMTP 6.1.10)
+  with SMTP id 80794061 for support@communigate.com; Wed, 08 Jun 2016 16:22:15 -0700
+Received-SPF: pass
+ receiver=mail.stalker.com; client-ip=77.246.145.241; envelope-from=reply@bybuk.ru
+Message-ID: <24DE95429E4A7102DEDB922410DDEA99@bybuk.ru>
+Reply-To: =?windows-1251?B?0e3o5uXt6OUg7eDr7uPu4u7pIO3g4/Dz5+ro?= <mironchuk-olga@rambler.ru>
+From: =?windows-1251?B?0e3o5uXt6OUg7eDr7uPu4u7pIO3g4/Dz5+ro?= <reply@bybuk.ru>
+To: <support@communigate.com>
+Subject: =?windows-1251?B?yuDqIOzu5u3uIOgg7eXr/Of/IO7v8ujs6Ofo?=
+	=?windows-1251?B?8O7i4PL8IO3g6+7j6CDiIDIwMTY/?= - Case[RBXX0609-118GJ]
+Date: Thu, 9 Jun 2016 04:21:50 +0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="5f0e0033b1bb748321b20045302b"
+DKIM-Signature: v=1; a=rsa-sha256; d=bybuk.ru; s=mail;
+	c=relaxed/relaxed; t=1465428110;
+	h=message-id:from:to:subject:date:mime-version;
+	bh=gsUPLS4C2EnujJp/hXVWGwqapEA6Nvd5Qik7r97vGFI=;
+	b=RbB8Ro9qv4UBFnkyBr4O7KmJe0NhodW8X4muKm85XtFoY8HPyLPUEum/5BMgbi
+	UAFG1Ji6I8a8b+SgvxJter8wXNs9vdX6EJHadAwRvOuPiD1WWKiJCFZARYerl1KI
+	vZ6Z8zuE32BrIQBTDdB8dRf+xzLOn/WFbNR2h+N91BOrE=
+X-Antivirus: avast! (VPS 160628-1, 28.06.2016), Inbound message
+X-Antivirus-Status: Clean
+
+This is a multi-part message in MIME format.
+
+--5f0e0033b1bb748321b20045302b
+Content-Type: text/plain; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+=C2 =D4=E8=ED=E0=ED=F1=EE=E2=F3=FE =F1=EB=F3=E6=E1=F3, =C3=EB=E0=E2=ED=EE=
+=EC=F3 =E1=F3=F5=E3=E0=EB=F2=E5=F0=F3
+
+=CAa=EA =E7a=EAo=ED=EDo =F1=ED=E8=E7=E8=F2=FC =CD=C4=D1=A0 =E8 =E4p=F3=E3=
+=E8=E5 =EDa=EBo=E3=E8=A0 =E2 =F2=E5=EA=F3=F9=E8=F5 =F3=F1=EBo=E2=E8=FF=F5=
+? =C2=EE=E7=EC=EE=E6=ED=EE =EB=E8 =E2=FB=F1=F2=F0=EE=E8=F2=FC =E7=E0=EA=EE=
+=ED=ED=F3=FE =F1=E8=F1=F2=E5=EC=F3 =F0=E0=E1=EE=F2=FB =F1 =ED=E0=EB=EE=E3=
+=E0=EC=E8, =F7=F2=EE=A0 =EF=EB=E0=F2=E8=F2=FC =ED=E0=EB=EE=E3=E8 =E1=F3=E4=
+=E5=F2=A0 =E2=FB=E3=EE=E4=ED=E5=E5, =F7=E5=EC =EF=EE=EB=FC=E7=EE=E2=E0=F2=
+=FC=F1=FF =F3=F1=EB=F3=E3=E0=EC=E8=A0 =AB=EE=E4=ED=EE=E4=ED=E5=E2=EE=EA=BB=
+, =AB=F1=E5=F0=FB=F5=BB =F1=F5=E5=EC =E8=F2=E4.?=A0=20
+
+=D2=EE=EB=FC=EA=EE =E2 2016 =E3=A0 =E2 =CD=CA=A0 =D0=D4 =E1=FB=EB=EE =E2=ED=
+=E5=F1=E5=ED=EE =EE=EA=EE=EB=EE 100 =EF=EE=EF=F0=E0=E2=EE=EA.=A0=A0=A0 =C8=
+=F1=EF=EE=EB=FC=E7=EE=E2=E0=ED=E8=E5=A0 =F3=F1=F2=E0=F0=E5=E2=F8=E8=F5 =ED=
+=E0=EB=EE=E3=EE=E2=FB=F5 =F0=E5=F8=E5=ED=E8=E9 =F7=F0=E5=E2=E0=F2=EE =F0=E8=
+=F1=EA=E0=EC=E8 =E4=EB=FF =EF=F0=E5=E4=EF=F0=E8=FF=F2=E8=E9 =E8 =E8=F5 =F1=
+=EE=E1=F1=F2=E2=E5=ED=ED=E8=EA=EE=E2.
+
+O=EAo=EBo 50% =E2=EBa=E4e=EB=FC=F6e=E2 =E1=E8=E7=EDeca =EC=EE=E3=F3=F2 =EF=
+o=F2ep=FF=F2=FC e=E3o =E2 2016!
+
+21-22 =E8=FE=ED=FF,=A0=A0 =E3.=D1a=ED=EA=F2-=CF=E5=F2=E5p=E1=F3p=E3=A0 =A0=
+=A0=A0(8 l 2) 92=CE /=CE9 / l5
+
+=CE=E4=E8=ED =E8=E7 =F1=E0=EC=FB=F5 =E0=E2=F2=EE=F0=E8=F2=E5=F2=ED=FB=F5 =
+=E2 =D0=EE=F1=F1=E8=E8 =FD=EA=F1=EF=E5=F0=F2=EE=E2 =EF=EE =ED=E0=EB=EE=E3=
+=E0=EC =EF=F0=EE=E2=EE=E4=E8=F2 =EF=F0=E0=EA=F2=E8=EA=F3=EC =E8 =EA=EE=ED=
+=F1=F3=EB=FC=F2=E0=F6=E8=E8:
+
+"=CA=E0=EA =F1=ED=E8=E7=E8=F2=FC =ED=E0=EB=EE=E3=E8 =E7=E0=EA=EE=ED=ED=EE=
+, =E7=E0=F9=E8=F2=E8=F2=FC =E0=EA=F2=E8=E2=FB=A0 =E8 =E2=FB=E6=E8=F2=FC =E2=
+ =E6=E5=F1=F2=EA=E8=F5 =F3=F1=EB=EE=E2=E8=FF=F5.=A0 =C3=EE=F2=EE=E2=FB=E5=
+ =F0=E5=F8=E5=ED=E8=FF =E4=EB=FF =F0=E0=E7=ED=FB=F5 =EE=F2=F0=E0=F1=EB=E5=
+=E9=BB.=A0 =C4=EB=FF =E2=E0=F1:
+
+=B7=A0=A0=A0=A0=A0=A0 =CB=E5=E3a=EB=E8=E7a=F6=E8=FF=A0 =E1=E8=E7=ED=E5=F1=
+a. =CA=E0=EA =E7=E0=EA=EE=ED=ED=EE =F1=ED=E8=E7=E8=F2=FC =E2=F1=E5 =E2=E8=
+=E4=FB =ED=E0=EB=EE=E3=EE=E2 =EA=EE=EC=EF=E0=ED=E8=E8 =E2 2016 =E3. =CF=EE=
+=EB=ED=FB=E9=A0=EF=EE=F8=E0=E3=EE=E2=FB=E9 =E0=EB=E3=EE=F0=E8=F2=EC =E4=E5=
+=E9=F1=F2=E2=E8=E9 =EF=EE =EB=E5=E3=E0=EB=E8=E7=E0=F6=E8=E8 =A0(=EE=EF=F2=
+=E8=EC=E8=E7=E0=F6=E8=E8 =ED=E0=EB=EE=E3=EE=E2, =F1 =EE=EF=F2=E8=EC=E8=E7=
+=E0=F6=E8=E5=E9 =F2=EE=E2=E0=F0=ED=FB=F5 =E8 =F4=E8=ED=E0=ED=F1=EE=E2=FB=F5=
+ =EF=EE=F2=EE=EA=EE=E2).
+
+=B7=A0=A0=A0=A0=A0=A0 =CE=F1=ED=EE=E2=ED=EE=E9 =E2=EE=EF=F0=EE=F1 - =EA=E0=
+=EA =EE=EF=F2=E8=EC=E8=E7=E8=F0=EE=E2=E0=F2=FC =CD=C4=D1 =E2 2016, =ED=E5=
+ =EF=F0=E8=E2=EB=E5=EA=E0=FF =E2=ED=E8=EC=E0=ED=E8=FF =ED=E0=EB=EE=E3=EE=E2=
+=FB=F5 =EE=F0=E3=E0=ED=EE=E2.
+
+=B7=A0=A0=A0=A0=A0=A0 =C7a=EAo=ED=ED=FB=E5 =F1=F5=E5=EC=FB =F1=ED=E8=E6=E5=
+=ED=E8=FF =CD=CF=CF =E8 =F1=F2pa=F5o=E2=FB=F5 =E2=E7=EDo=F1o=E2=A0 =E2=A0=
+ 2016=E3. =D6=E5=ED=E0 =E2=EE=EF=F0=EE=F1=E0.
+
+=B7=A0=A0=A0=A0=A0=A0 A=EB=FC=F2=E5p=EDa=F2=E8=E2a =AB=F1=E5p=FB=EC=BB =F1=
+=F5=E5=ECa=EC, =E4a=FE=F9a=FF =F2o=F2 =E6=E5 p=E5=E7=F3=EB=FC=F2a=F2, =ED=
+o =E1=E5=E7 o=E4=EDo=E4=ED=E5=E2o=EA. =D3=F5o=E4 o=F2=A0 =ABo=E4=EDo=E4=ED=
+=E5=E2o=EA=BB, o=E1=EDa=EB=E8=F7=E8=E2a=ED=E8=FF =E8=F2=E4.=A0=A0 =C5=F1=EB=
+=E8 =E1=E8=E7=ED=E5=F1 =E1=FB=EB =F1=E2=FF=E7=E0=ED =F1 "=EE=E1=ED=E0=EB=EE=
+=EC",=A0 =F2=EE =EA=E0=EA =E8=E7=E1=E5=E6=E0=F2=FC =EF=EE=F1=EB=E5=E4=F1=F2=
+=E2=E8=E9.
+
+=B7=A0=A0=A0=A0=A0=A0 =CA=E0=EA =E8=E7=E1=E5=E6=E0=F2=FC =E1=EB=EE=EA=E8=F0=
+=EE=E2=EE=EA =F0=E0=F1=F7=E5=F2=ED=FB=F5 =F1=F7=E5=F2=EE=E2 =E2 2016 =E3.
+
+=B7=A0=A0=A0=A0=A0=A0 =D2=E5=F5=EDo=EBo=E3=E8=E8 =E1=E5=E7o=EFa=F1=EDo=F1=
+=F2=E8 p=F3=EAo=E2o=E4=F1=F2=E2a =EAo=EC=EFa=ED=E8=E8 =E8 =F1=EE=E1=F1=F2=
+=E2=E5=ED=ED=E8=EA=EE=E2.
+
+=B7=A0=A0=A0=A0=A0=A0 =D1=EE=E7=E4=E0=ED=E8=E5 =D5=EE=EB=E4=E8=ED=E3=EE=E2=
+ =E8 =C3=F0=F3=EF=EF =CA=EE=EC=EF=E0=ED=E8=E9 =E4=EB=FF =EE=EF=F2=E8=EC=E8=
+=E7=E0=F6=E8=E8 =ED=E0=EB=EE=E3=EE=E2
+
+=B7=A0=A0=A0=A0=A0=A0 =D3=ED=E8=EAa=EB=FC=ED=FB=E9 a=E2=F2op=F1=EA=E8=E9 =
+=ECa=F2=E5p=E8a=EB =EFo =F1=ED=E8=E6=E5=ED=E8=FE =EDa=EBo=E3o=E2 =E8 =E1=E5=
+=E7o=EFa=F1=EDo=F1=F2=E8 =E1=E8=E7=ED=E5=F1a, =E1o=EB=E5=E5 50 op=E8=E3=E8=
+=EDa=EB=FC=ED=FB=F5 =F1=F5=E5=EC - =F0=E5=F8=E5=ED=E8=E9 =F1 =EFo=E4po=E1=
+=ED=FB=EC o=EF=E8=F1a=ED=E8=E5=EC, pa=F1=F7=E5=F2o=EC =FD=F4=F4=E5=EA=F2=E8=
+=E2=EDo=F1=F2=E8.=A0=20
+
+=C7=E2=EE=ED=E8=A0 (8I2) 92=CE /=CE9 / I5 !=A0=A0 =CDa=E7o=E2=E8 =EAo=E4o=
+=E2o=E5 =F1=EBo=E2o =AB=CD=C4=D1 =CF=E8=F2=E5p=BB =E8 =EFo=EB=F3=F7=E8 =F1=
+=EA=E8=E4=EA=F3.
+
+--5f0e0033b1bb748321b20045302b
+Content-Type: text/html; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML xmlns:o =3D "urn:schemas-microsoft-com:office:office" xmlns:st1 =3D=
+=20
+"urn:schemas-microsoft-com:office:smarttags"><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows=
+-1251">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><FONT size=3D2 face=3DArial>
+<P style=3D"TEXT-INDENT: 27pt; MARGIN: 0cm 0cm 0pt -27pt" class=3DMsoNorm=
+al><SPAN=20
+style=3D"COLOR: blue; FONT-SIZE: 14pt; mso-bidi-font-weight: bold"><FONT=20
+face=3D"Times New Roman">=C2 =D4=E8=ED=E0=ED=F1=EE=E2=F3=FE =F1=EB=F3=E6=E1=
+=F3, =C3=EB=E0=E2=ED=EE=EC=F3=20
+=E1=F3=F5=E3=E0=EB=F2=E5=F0=F3<o:p></o:p></FONT></SPAN></P>
+<P style=3D"TEXT-INDENT: 27pt; MARGIN: 0cm 0cm 0pt -27pt" class=3DMsoNorm=
+al><SPAN=20
+style=3D"FONT-SIZE: 8pt; mso-bidi-font-weight: bold"><o:p><FONT=20
+face=3D"Times New Roman"></FONT></o:p></SPAN>&nbsp;</P>
+<P style=3D"MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><FONT=20
+face=3D"Times New Roman"><SPAN=20
+style=3D"FONT-SIZE: 14pt; mso-bidi-font-weight: bold">=CAa=EA =E7a=EAo=ED=
+=EDo =F1=ED=E8=E7=E8=F2=FC =CD=C4=D1<SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; </SPAN>=E8 =E4p=F3=E3=E8=E5 =EDa=EBo=E3=
+=E8<SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; </SPAN>=E2 =F2=E5=EA=F3=F9=E8=F5 =F3=F1=
+=EBo=E2=E8=FF=F5? =C2=EE=E7=EC=EE=E6=ED=EE =EB=E8=20
+=E2=FB=F1=F2=F0=EE=E8=F2=FC =E7=E0=EA=EE=ED=ED=F3=FE =F1=E8=F1=F2=E5=EC=F3=
+ =F0=E0=E1=EE=F2=FB =F1 =ED=E0=EB=EE=E3=E0=EC=E8, =F7=F2=EE<SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; </SPAN>=EF=EB=E0=F2=E8=F2=FC =ED=E0=EB=
+=EE=E3=E8 =E1=F3=E4=E5=F2<SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; </SPAN><B>=E2=FB=E3=EE=E4=ED=E5=E5</B>=
+, =F7=E5=EC =EF=EE=EB=FC=E7=EE=E2=E0=F2=FC=F1=FF=20
+=F3=F1=EB=F3=E3=E0=EC=E8<SPAN style=3D"mso-spacerun: yes">&nbsp; </SPAN>=AB=
+=EE=E4=ED=EE=E4=ED=E5=E2=EE=EA=BB, =AB=F1=E5=F0=FB=F5=BB =F1=F5=E5=EC=20
+=E8=F2=E4.?<SPAN style=3D"mso-spacerun: yes">&nbsp; </SPAN><BR=20
+style=3D"mso-special-character: line-break"><BR=20
+style=3D"mso-special-character: line-break"></SPAN><SPAN=20
+style=3D"FONT-SIZE: 8pt; mso-bidi-font-weight: bold"><o:p></o:p></SPAN></=
+FONT></P>
+<P style=3D"MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 14pt; mso-bidi-font-weight: bold"><FONT=20
+face=3D"Times New Roman">=D2=EE=EB=FC=EA=EE =E2 <st1:metricconverter Prod=
+uctID=3D"2016 =E3"=20
+w:st=3D"on">2016 =E3</st1:metricconverter><SPAN style=3D"mso-spacerun: ye=
+s">&nbsp;=20
+</SPAN>=E2 =CD=CA<SPAN style=3D"mso-spacerun: yes">&nbsp; </SPAN>=D0=D4 =E1=
+=FB=EB=EE =E2=ED=E5=F1=E5=ED=EE <SPAN=20
+style=3D"COLOR: blue">=EE=EA=EE=EB=EE 100 =EF=EE=EF=F0=E0=E2=EE=EA</SPAN>=
+.<SPAN=20
+style=3D"mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </SPAN>=C8=F1=EF=EE=EB=FC=E7=
+=EE=E2=E0=ED=E8=E5<SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; </SPAN>=F3=F1=F2=E0=F0=E5=E2=F8=E8=F5 =
+=ED=E0=EB=EE=E3=EE=E2=FB=F5 =F0=E5=F8=E5=ED=E8=E9 =F7=F0=E5=E2=E0=F2=EE=20
+=F0=E8=F1=EA=E0=EC=E8 =E4=EB=FF =EF=F0=E5=E4=EF=F0=E8=FF=F2=E8=E9 =E8 =E8=
+=F5 =F1=EE=E1=F1=F2=E2=E5=ED=ED=E8=EA=EE=E2.<o:p></o:p></FONT></SPAN></P>
+<P style=3D"MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 8pt; mso-bidi-font-weight: bold"><o:p><FONT=20
+face=3D"Times New Roman">&nbsp;</FONT></o:p></SPAN></P>
+<P style=3D"MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 14pt; mso-bidi-font-weight: bold"><FONT=20
+face=3D"Times New Roman">O=EAo=EBo 50% =E2=EBa=E4e=EB=FC=F6e=E2 =E1=E8=E7=
+=EDeca =EC=EE=E3=F3=F2 =EFo=F2ep=FF=F2=FC e=E3o =E2=20
+2016!<o:p></o:p></FONT></SPAN></P>
+<P style=3D"TEXT-INDENT: 27pt; MARGIN: 0cm 0cm 0pt -27pt" class=3DMsoNorm=
+al><SPAN=20
+style=3D"COLOR: blue; FONT-SIZE: 8pt; mso-bidi-font-weight: bold"><o:p><F=
+ONT=20
+face=3D"Times New Roman">&nbsp;</FONT></o:p></SPAN></P>
+<P style=3D"TEXT-INDENT: 27pt; MARGIN: 0cm 0cm 0pt -27pt" class=3DMsoNorm=
+al><SPAN=20
+style=3D"COLOR: blue; FONT-SIZE: 14pt; mso-bidi-font-weight: bold"><FONT=20
+face=3D"Times New Roman">21-22 <SPAN=20
+style=3D"mso-spacerun: yes">&nbsp;</SPAN>=E8=FE=ED=FF,<SPAN=20
+style=3D"mso-spacerun: yes">&nbsp;&nbsp; </SPAN>=E3.=D1a=ED=EA=F2-=CF=E5=F2=
+=E5p=E1=F3p=E3<SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; </SPAN><SPAN=20
+style=3D"mso-spacerun: yes">&nbsp;&nbsp;&nbsp;</SPAN>(<st1:metricconverte=
+r=20
+ProductID=3D"8 l" w:st=3D"on">8 l</st1:metricconverter> 2) 92=CE /=CE9 /=20
+l5<o:p></o:p></FONT></SPAN></P>
+<P style=3D"MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 8pt; mso-bidi-font-weight: bold"><o:p><FONT=20
+face=3D"Times New Roman">&nbsp;</FONT></o:p></SPAN></P>
+<P style=3D"MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 14pt; mso-bidi-font-weight: bold"><FONT=20
+face=3D"Times New Roman">=CE=E4=E8=ED =E8=E7 =F1=E0=EC=FB=F5 =E0=E2=F2=EE=
+=F0=E8=F2=E5=F2=ED=FB=F5 =E2 =D0=EE=F1=F1=E8=E8 =FD=EA=F1=EF=E5=F0=F2=EE=E2=
+ =EF=EE =ED=E0=EB=EE=E3=E0=EC=20
+=EF=F0=EE=E2=EE=E4=E8=F2 =EF=F0=E0=EA=F2=E8=EA=F3=EC =E8 =EA=EE=ED=F1=F3=EB=
+=FC=F2=E0=F6=E8=E8:<o:p></o:p></FONT></SPAN></P>
+<P style=3D"MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><FONT face=3D"Times Ne=
+w Roman"><I=20
+style=3D"mso-bidi-font-style: normal"><SPAN=20
+style=3D"FONT-SIZE: 14pt; mso-bidi-font-weight: bold">"=CA=E0=EA =F1=ED=E8=
+=E7=E8=F2=FC =ED=E0=EB=EE=E3=E8 =E7=E0=EA=EE=ED=ED=EE,=20
+=E7=E0=F9=E8=F2=E8=F2=FC =E0=EA=F2=E8=E2=FB<SPAN style=3D"mso-spacerun: y=
+es">&nbsp; </SPAN>=E8 =E2=FB=E6=E8=F2=FC =E2 =E6=E5=F1=F2=EA=E8=F5=20
+=F3=F1=EB=EE=E2=E8=FF=F5.<SPAN style=3D"mso-spacerun: yes">&nbsp; </SPAN>=
+=C3=EE=F2=EE=E2=FB=E5 =F0=E5=F8=E5=ED=E8=FF =E4=EB=FF=20
+=F0=E0=E7=ED=FB=F5 =EE=F2=F0=E0=F1=EB=E5=E9=BB</SPAN></I><SPAN=20
+style=3D"FONT-SIZE: 14pt; mso-bidi-font-weight: bold">.<SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; </SPAN>=C4=EB=FF =E2=E0=F1: <o:p></o:p=
+></SPAN></FONT></P>
+<P=20
+style=3D"TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l0 level=
+1 lfo1; tab-stops: list 36.0pt"=20
+class=3DMsoNormal><SPAN=20
+style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 14pt; mso-bidi-font-weight: bold=
+; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><SPAN=20
+style=3D"mso-list: Ignore">=B7<SPAN=20
+style=3D"FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=20
+</SPAN></SPAN></SPAN><SPAN=20
+style=3D"FONT-SIZE: 14pt; mso-bidi-font-weight: bold"><FONT=20
+face=3D"Times New Roman">=CB=E5=E3a=EB=E8=E7a=F6=E8=FF<SPAN style=3D"mso-=
+spacerun: yes">&nbsp;=20
+</SPAN>=E1=E8=E7=ED=E5=F1a. <SPAN style=3D"mso-spacerun: yes">&nbsp;</SPA=
+N>=CA=E0=EA =E7=E0=EA=EE=ED=ED=EE =F1=ED=E8=E7=E8=F2=FC=20
+=E2=F1=E5 =E2=E8=E4=FB =ED=E0=EB=EE=E3=EE=E2 =EA=EE=EC=EF=E0=ED=E8=E8 =E2=
+ <st1:metricconverter ProductID=3D"2016 =E3"=20
+w:st=3D"on">2016 =E3</st1:metricconverter>. =CF=EE=EB=ED=FB=E9&nbsp;=EF=EE=
+=F8=E0=E3=EE=E2=FB=E9 =E0=EB=E3=EE=F0=E8=F2=EC =E4=E5=E9=F1=F2=E2=E8=E9=20
+=EF=EE =EB=E5=E3=E0=EB=E8=E7=E0=F6=E8=E8 &nbsp;(=EE=EF=F2=E8=EC=E8=E7=E0=F6=
+=E8=E8 =ED=E0=EB=EE=E3=EE=E2, =F1 =EE=EF=F2=E8=EC=E8=E7=E0=F6=E8=E5=E9 =F2=
+=EE=E2=E0=F0=ED=FB=F5 =E8 =F4=E8=ED=E0=ED=F1=EE=E2=FB=F5=20
+=EF=EE=F2=EE=EA=EE=E2).<o:p></o:p></FONT></SPAN></P>
+<P=20
+style=3D"TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l0 level=
+1 lfo1; tab-stops: list 36.0pt"=20
+class=3DMsoNormal><SPAN=20
+style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 14pt; mso-bidi-font-weight: bold=
+; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><SPAN=20
+style=3D"mso-list: Ignore">=B7<SPAN=20
+style=3D"FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=20
+</SPAN></SPAN></SPAN><SPAN=20
+style=3D"FONT-SIZE: 14pt; mso-bidi-font-weight: bold"><FONT=20
+face=3D"Times New Roman">=CE=F1=ED=EE=E2=ED=EE=E9 =E2=EE=EF=F0=EE=F1 - <S=
+PAN style=3D"COLOR: blue">=EA=E0=EA=20
+=EE=EF=F2=E8=EC=E8=E7=E8=F0=EE=E2=E0=F2=FC =CD=C4=D1 =E2 2016,</SPAN> =ED=
+=E5 =EF=F0=E8=E2=EB=E5=EA=E0=FF =E2=ED=E8=EC=E0=ED=E8=FF =ED=E0=EB=EE=E3=EE=
+=E2=FB=F5 =EE=F0=E3=E0=ED=EE=E2.=20
+<o:p></o:p></FONT></SPAN></P>
+<P=20
+style=3D"TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l0 level=
+1 lfo1; tab-stops: list 36.0pt"=20
+class=3DMsoBodyText2><SPAN=20
+style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 14pt; FONT-WEIGHT: normal; mso-b=
+idi-font-weight: bold; mso-fareast-font-family: Symbol; mso-bidi-font-fam=
+ily: Symbol"><SPAN=20
+style=3D"mso-list: Ignore">=B7<SPAN=20
+style=3D"FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=20
+</SPAN></SPAN></SPAN><SPAN=20
+style=3D"FONT-SIZE: 14pt; FONT-WEIGHT: normal; mso-bidi-font-weight: bold=
+"><FONT=20
+face=3D"Times New Roman">=C7a=EAo=ED=ED=FB=E5 =F1=F5=E5=EC=FB =F1=ED=E8=E6=
+=E5=ED=E8=FF <SPAN=20
+style=3D"mso-spacerun: yes">&nbsp;</SPAN>=CD=CF=CF =E8 =F1=F2pa=F5o=E2=FB=
+=F5 =E2=E7=EDo=F1o=E2<SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; </SPAN>=E2<SPAN style=3D"mso-spacerun:=
+ yes">&nbsp;=20
+</SPAN>2016=E3. =D6=E5=ED=E0 =E2=EE=EF=F0=EE=F1=E0.<o:p></o:p></FONT></SP=
+AN></P>
+<P=20
+style=3D"TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l0 level=
+1 lfo1; tab-stops: list 36.0pt"=20
+class=3DMsoBodyText2><SPAN=20
+style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 14pt; FONT-WEIGHT: normal; mso-b=
+idi-font-weight: bold; mso-fareast-font-family: Symbol; mso-bidi-font-fam=
+ily: Symbol"><SPAN=20
+style=3D"mso-list: Ignore">=B7<SPAN=20
+style=3D"FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=20
+</SPAN></SPAN></SPAN><SPAN=20
+style=3D"FONT-SIZE: 14pt; FONT-WEIGHT: normal; mso-bidi-font-weight: bold=
+"><FONT=20
+face=3D"Times New Roman">A=EB=FC=F2=E5p=EDa=F2=E8=E2a =AB=F1=E5p=FB=EC=BB=
+ =F1=F5=E5=ECa=EC, =E4a=FE=F9a=FF =F2o=F2 =E6=E5 p=E5=E7=F3=EB=FC=F2a=F2,=
+ =EDo=20
+=E1=E5=E7 o=E4=EDo=E4=ED=E5=E2o=EA. =D3=F5o=E4 o=F2<SPAN style=3D"mso-spa=
+cerun: yes">&nbsp;=20
+</SPAN>=ABo=E4=EDo=E4=ED=E5=E2o=EA=BB, o=E1=EDa=EB=E8=F7=E8=E2a=ED=E8=FF =
+=E8=F2=E4.<SPAN=20
+style=3D"mso-spacerun: yes">&nbsp;&nbsp; </SPAN>=C5=F1=EB=E8 =E1=E8=E7=ED=
+=E5=F1 =E1=FB=EB =F1=E2=FF=E7=E0=ED =F1=20
+"=EE=E1=ED=E0=EB=EE=EC",<SPAN style=3D"mso-spacerun: yes">&nbsp; </SPAN>=F2=
+=EE =EA=E0=EA =E8=E7=E1=E5=E6=E0=F2=FC=20
+=EF=EE=F1=EB=E5=E4=F1=F2=E2=E8=E9.<o:p></o:p></FONT></SPAN></P>
+<P=20
+style=3D"TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l0 level=
+1 lfo1; tab-stops: list 36.0pt"=20
+class=3DMsoNormal><SPAN=20
+style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 14pt; mso-bidi-font-weight: bold=
+; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><SPAN=20
+style=3D"mso-list: Ignore">=B7<SPAN=20
+style=3D"FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=20
+</SPAN></SPAN></SPAN><SPAN=20
+style=3D"FONT-SIZE: 14pt; mso-bidi-font-weight: bold"><FONT=20
+face=3D"Times New Roman">=CA=E0=EA =E8=E7=E1=E5=E6=E0=F2=FC =E1=EB=EE=EA=E8=
+=F0=EE=E2=EE=EA =F0=E0=F1=F7=E5=F2=ED=FB=F5 =F1=F7=E5=F2=EE=E2 =E2=20
+<st1:metricconverter ProductID=3D"2016 =E3" w:st=3D"on">2016 =E3</st1:met=
+ricconverter>.=20
+<o:p></o:p></FONT></SPAN></P>
+<P=20
+style=3D"TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l0 level=
+1 lfo1; tab-stops: list 36.0pt"=20
+class=3DMsoNormal><SPAN=20
+style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 14pt; mso-bidi-font-weight: bold=
+; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><SPAN=20
+style=3D"mso-list: Ignore">=B7<SPAN=20
+style=3D"FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=20
+</SPAN></SPAN></SPAN><SPAN=20
+style=3D"FONT-SIZE: 14pt; mso-bidi-font-weight: bold"><FONT=20
+face=3D"Times New Roman">=D2=E5=F5=EDo=EBo=E3=E8=E8 =E1=E5=E7o=EFa=F1=EDo=
+=F1=F2=E8 p=F3=EAo=E2o=E4=F1=F2=E2a =EAo=EC=EFa=ED=E8=E8 =E8=20
+=F1=EE=E1=F1=F2=E2=E5=ED=ED=E8=EA=EE=E2. <o:p></o:p></FONT></SPAN></P>
+<P=20
+style=3D"TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l0 level=
+1 lfo1; tab-stops: list 36.0pt"=20
+class=3DMsoNormal><SPAN=20
+style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 14pt; mso-bidi-font-weight: bold=
+; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><SPAN=20
+style=3D"mso-list: Ignore">=B7<SPAN=20
+style=3D"FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=20
+</SPAN></SPAN></SPAN><SPAN=20
+style=3D"FONT-SIZE: 14pt; mso-bidi-font-weight: bold"><FONT=20
+face=3D"Times New Roman">=D1=EE=E7=E4=E0=ED=E8=E5 =D5=EE=EB=E4=E8=ED=E3=EE=
+=E2 =E8 =C3=F0=F3=EF=EF =CA=EE=EC=EF=E0=ED=E8=E9 =E4=EB=FF =EE=EF=F2=E8=EC=
+=E8=E7=E0=F6=E8=E8=20
+=ED=E0=EB=EE=E3=EE=E2<o:p></o:p></FONT></SPAN></P>
+<P=20
+style=3D"TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l0 level=
+1 lfo1; tab-stops: list 36.0pt"=20
+class=3DMsoNormal><SPAN=20
+style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 14pt; mso-bidi-font-weight: bold=
+; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><SPAN=20
+style=3D"mso-list: Ignore">=B7<SPAN=20
+style=3D"FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=20
+</SPAN></SPAN></SPAN><SPAN=20
+style=3D"FONT-SIZE: 14pt; mso-bidi-font-weight: bold"><FONT=20
+face=3D"Times New Roman">=D3=ED=E8=EAa=EB=FC=ED=FB=E9 a=E2=F2op=F1=EA=E8=E9=
+ =ECa=F2=E5p=E8a=EB =EFo =F1=ED=E8=E6=E5=ED=E8=FE =EDa=EBo=E3o=E2 =E8=20
+=E1=E5=E7o=EFa=F1=EDo=F1=F2=E8 =E1=E8=E7=ED=E5=F1a, =E1o=EB=E5=E5 50 op=E8=
+=E3=E8=EDa=EB=FC=ED=FB=F5 =F1=F5=E5=EC - =F0=E5=F8=E5=ED=E8=E9 =F1 =EFo=E4=
+po=E1=ED=FB=EC=20
+o=EF=E8=F1a=ED=E8=E5=EC, pa=F1=F7=E5=F2o=EC =FD=F4=F4=E5=EA=F2=E8=E2=EDo=F1=
+=F2=E8.<SPAN style=3D"mso-spacerun: yes">&nbsp;=20
+</SPAN><o:p></o:p></FONT></SPAN></P>
+<P style=3D"MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 8pt; mso-bidi-font-weight: bold"><o:p><FONT=20
+face=3D"Times New Roman">&nbsp;</FONT></o:p></SPAN></P><SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 14pt; mso-bid=
+i-font-weight: bold; mso-fareast-font-family: 'Times New Roman'; mso-fare=
+ast-language: RU; mso-ansi-language: RU; mso-bidi-language: AR-SA">=C7=E2=
+=EE=ED=E8<SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; </SPAN><SPAN=20
+style=3D"COLOR: blue">(8</SPAN></SPAN><SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; COLOR: blue; FONT-SIZE: =
+14pt; mso-bidi-font-weight: bold; mso-fareast-font-family: 'Times New Rom=
+an'; mso-fareast-language: RU; mso-ansi-language: EN-US; mso-bidi-languag=
+e: AR-SA"=20
+lang=3DEN-US>I</SPAN><SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; COLOR: blue; FONT-SIZE: =
+14pt; mso-bidi-font-weight: bold; mso-fareast-font-family: 'Times New Rom=
+an'; mso-fareast-language: RU; mso-ansi-language: RU; mso-bidi-language: =
+AR-SA">2)=20
+92=CE /=CE9 / </SPAN><SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; COLOR: blue; FONT-SIZE: =
+14pt; mso-bidi-font-weight: bold; mso-fareast-font-family: 'Times New Rom=
+an'; mso-fareast-language: RU; mso-ansi-language: EN-US; mso-bidi-languag=
+e: AR-SA"=20
+lang=3DEN-US>I</SPAN><SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; COLOR: blue; FONT-SIZE: =
+14pt; mso-bidi-font-weight: bold; mso-fareast-font-family: 'Times New Rom=
+an'; mso-fareast-language: RU; mso-ansi-language: RU; mso-bidi-language: =
+AR-SA">5=20
+!<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; </SPAN></SPAN><SPAN=20
+style=3D"FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 14pt; mso-bid=
+i-font-weight: bold; mso-fareast-font-family: 'Times New Roman'; mso-fare=
+ast-language: RU; mso-ansi-language: RU; mso-bidi-language: AR-SA">=CDa=E7=
+o=E2=E8=20
+=EAo=E4o=E2o=E5 =F1=EBo=E2o <SPAN style=3D"mso-spacerun: yes">&nbsp;</SPA=
+N>=AB=CD=C4=D1 =CF=E8=F2=E5p=BB =E8 =EFo=EB=F3=F7=E8=20
+=F1=EA=E8=E4=EA=F3.</SPAN></FONT></DIV></BODY></HTML>
+
+--5f0e0033b1bb748321b20045302b--

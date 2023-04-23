@@ -1,0 +1,38 @@
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=communigate.com; s=test1;
+	bh=Yvk75IFnX/pH6ti2c782vDaNWjMUjFi+uYmp2KKC54c=;
+	h=Content-Transfer-Encoding:Content-Type:MIME-Version:Message-ID:Date:To:
+	Subject:From; b=21ohMxUEVbToYlqX+SOgd0tI8weHwVY1mQ7w2vRYDyA9XXfOlhiXdyVWz6PEI
+	OVq8xKOJ5vUWKgAV7Djf9SS0wTNwSEQahGnQG4iQJX/iCsLxKD6WCtMsBJFHgFUj+IMHnVOm/dezj
+	z/d5IZc8403UF3QwbH5gv8Ymh80Ll5E7U=
+Return-Path: <m.trishina@communigate.ru>
+Received: from [10.1.9.97] (account m.trishina@mail.moscow.stalker.com)
+  by mail.moscow.stalker.com (CommuniGate Pro WEBUSER 6.2.14f)
+  with HTTP id 56495855 for lukoilo@communigate.com; Mon, 22 Jul 2019 15:05:18 +0300
+From: "Maria Trishina" <m.trishina@communigate.ru>
+Subject: =?utf-8?B?0LrRg9GB0L7Rh9C10Log0LjQtyDQtNC+0LrRg9C80LXQvdGC?=
+ =?utf-8?B?0LA=?=
+To: lukoilo@communigate.com
+X-Mailer: CommuniGate Pro WebUser v6.2.14f
+Date: Mon, 22 Jul 2019 15:05:18 +0300
+Message-ID: <web-56495857@mail.moscow.stalker.com>
+MIME-Version: 1.0
+Content-Type: text/plain;charset=utf-8; format="flowed"
+Content-Transfer-Encoding: 8bit
+
+Взяла у Никиты актуальное руководство пользователя, пока еще не 
+закончила с тем, что в состоянии скопипастить
+
+если у тебя есть время для документа, копирую названия пока пустых 
+разделов
+
+3.	Техническая реализация функционала (пересылка файлов через 
+хранилище, групповые чаты, локальный архив и т.д.)
+*Олег
+8.	Возможности по администрированию и диагностике (журналы, события)
+Олег
+9.	Шифрование
+Олег
+11.	Миграция пользовательских данных
+
+С уважением,
+Мария Тришина

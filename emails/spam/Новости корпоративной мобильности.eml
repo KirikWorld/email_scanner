@@ -1,0 +1,3086 @@
+X-Junk-Score:  19 [X]
+X-KAS-Score:  19 [X]
+Return-Path: <123118.5336533157.lukoilo=mail.communigate.ru@service.omprussia.ru>
+Received: from sender59.msndr.net ([95.213.176.59] verified)
+  by mail.communigate.ru (CommuniGate Pro SMTP 6.3.15h)
+  with ESMTPS id 61490884 for lukoilo@mail.communigate.ru; Thu, 08 Sep 2022 12:35:21 +0300
+Received-SPF: pass
+ receiver=mail.communigate.ru; client-ip=95.213.176.59; envelope-from=123118.5336533157.lukoilo=mail.communigate.ru@service.omprussia.ru
+Date: Thu, 08 Sep 2022 09:35:10 +0000
+From: =?UTF-8?B?0J7RgtC60YDRi9GC0LDRjyDQvNC+0LHQuNC70YzQvdCw0Y8g0L/Qu9Cw0YLRhNC+0YDQvNCw?= <omp-news@omprussia.ru>
+To: lukoilo@mail.communigate.ru
+Message-ID: <123118.5336533157.lukoilo=mail.communigate.ru@omprussia.ru>
+Subject: =?UTF-8?Q?=D0=9D=D0=BE=D0=B2=D0=BE=D1=81=D1=82=D0=B8?=
+ =?UTF-8?Q?_=D0=BA=D0=BE=D1=80=D0=BF=D0=BE=D1=80=D0=B0=D1=82=D0=B8=D0=B2=D0=BD=D0=BE=D0=B9?=
+ =?UTF-8?Q?_=D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=D0=BE=D1=81=D1=82=D0=B8?=
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="--==_mimepart_6319b74ebdd12_12ace5ac5790433065698";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <http://service.omprussia.ru/unsubscriptions/21ebb933961e12d800769fe12bca2f29c63725785ba6f60059199d2ebd2e454b>,
+ <mailto:unsubscribe@abuse.msndr.net?subject=unsubscribe.21ebb933961e12d800769fe12bca2f29c63725785ba6f60059199d2ebd2e454b>
+X-MSNDR-EXTERNAL-IP: 95.213.176.59
+X-Complaints-To: abuse@msndr.net
+Errors-To: postmaster@msndr.net
+List-ID: 123118@ru.msndr.net
+Precedence: bulk
+Feedback-ID: 636030:123118:sending:notisend
+List-id: <123118:cpn_636030>
+X-Mailru-Msgtype: 123118:cpn_636030
+X-Postmaster-Msgtype: 123118:cpn_636030
+DKIM-Signature:  v=1; a=rsa-sha256; c=relaxed/relaxed; d=omprussia.ru;
+ q=dns/txt; s=mdmail; t=1662629710; x=1662716110;
+ bh=GKD+wJ/nEmI3i5APw04HR2HJigCqYK10XRSn9HjUITs=;
+ h=date:from:to:message-id:subject:mime-version:content-type:content-transfer-encoding:list-unsubscribe:list-id:list-id;
+ b=o68J/ZnLqOV1+Nl05rM8EFl8k7NI+7IO+NiddmStsmL3NMIlMJ7W5Yte17o0LfHOKO/kp15SOLgh8jUXmvO/CLcvKA2SVz3T7kT3/NSYh/pTJR8xgAKMlxXaANZs+scDGXUzw2vT4OXukbFfEp5QwJtvGXXsQFFfj11+WhBENOY=
+
+
+----==_mimepart_6319b74ebdd12_12ace5ac5790433065698
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_6319b74ebdbaa_12ace5ac57904330655b3";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_6319b74ebdbaa_12ace5ac57904330655b3
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+0J/RgNC40YXQvtC00LjRgtC1INC90LAg0LLQtdCx0LjQvdCw0YAg0L/RgNC+
+INC30LDRidC40YnRkdC90L3Ri9C1INC60L7QvNC80YPQvdC40LrQsNGG0LjQ
+uCDQvdCwINCQ0LLRgNC+0YDQtSANCiggaHR0cDovL3NlcnZpY2Uub21wcnVz
+c2lhLnJ1L3RyYWNrL3JlZGlyZWN0LzIxZWJiOTMzOTYxZTEyZDg1OWRmMGM2
+MTllZWQwMTQwZWY0NjhjMTI5M2E1MDQ1ODRhZjUwOTk1ZWUwMzQyZWEgKSkN
+Cg0K0J/RgNC40YXQvtC00LjRgtC1INC90LAg0LLQtdCx0LjQvdCw0YAg0L/R
+gNC+INC30LDRidC40YnRkdC90L3Ri9C1INC60L7QvNC80YPQvdC40LrQsNGG
+0LjQuCDQvdCwINCQ0LLRgNC+0YDQtSANCiggaHR0cDovL3NlcnZpY2Uub21w
+cnVzc2lhLnJ1L3RyYWNrL3JlZGlyZWN0LzIxZWJiOTMzOTYxZTEyZDg1OWRm
+MGM2MTllZWQwMTQwZWY0NjhjMTI5M2E1MDQ1ODRhZjUwOTk1ZWUwMzQyZWEg
+KSkNCg0K0JTQvtCx0YDRi9C5INC00LXQvdGMIQ0KDQotLS0tLS0tLS0tLS0N
+Cg0K0JIg0L3QsNGH0LDQu9C1INC90L7QstC+0LPQviDQtNC10LvQvtCy0L7Q
+s9C+INGB0LXQt9C+0L3QsCDQv9GA0LXQtNC70LDQs9Cw0LXQvCDQstCw0Lwg
+0L3QvtCy0L7RgdGC0LgNCtC60L7RgNC/0L7RgNCw0YLQuNCy0L3QvtC5INC8
+0L7QsdC40LvRjNC90L7RgdGC0Lgg0LrQvtC80L/QsNC90LjQuCDCq9Ce0YLQ
+utGA0YvRgtCw0Y8g0LzQvtCx0LjQu9GM0L3QsNGPDQrQv9C70LDRgtGE0L7R
+gNC80LDCuy4NCg0K0J3QvtCy0YvQuSDRgNC10LfQuNC3INCQ0LLRgNC+0YDQ
+sCDQptC10L3RgtGA0LAg0YPQvNC10LXRgiDRg9C/0YDQsNCy0LvRj9GC0Ywg
+0JzQoyDQvdCwIEFuZHJvaWQgDQooIGh0dHA6Ly9zZXJ2aWNlLm9tcHJ1c3Np
+YS5ydS90cmFjay9yZWRpcmVjdC8yMWViYjkzMzk2MWUxMmQ4NTlkZjBjNjE5
+ZWVkMDE0MDliNDRkODAyMWViMjVjN2M4YmM4MzYyNTk3ZmI4YzBlICkpDQoN
+Cg0K0J3QvtCy0YvQuSDRgNC10LfQuNC3INCQ0LLRgNC+0YDQsCDQptC10L3R
+gtGA0LAg0YPQvNC10LXRgiDRg9C/0YDQsNCy0LvRj9GC0Ywg0JzQoyDQvdCw
+IEFuZHJvaWQgDQooIGh0dHA6Ly9zZXJ2aWNlLm9tcHJ1c3NpYS5ydS90cmFj
+ay9yZWRpcmVjdC8yMWViYjkzMzk2MWUxMmQ4NTlkZjBjNjE5ZWVkMDE0MDli
+NDRkODAyMWViMjVjN2M4YmM4MzYyNTk3ZmI4YzBlICkpDQoNCg0KRU1NLdC/
+0LvQsNGC0YTQvtGA0LzQsCDQkNCy0YDQvtGA0LAg0KbQtdC90YLRgCAzLjE6
+INGD0L/RgNCw0LLQu9C10L3QuNC1INC60L7RgNC/0L7RgNCw0YLQuNCy0L3R
+i9C80LgNCtGD0YHRgtGA0L7QudGB0YLQstCw0LzQuCDRgSDQntChIEFuZHJv
+aWQg0LggwqvQvNC90L7Qs9C+0LDRgNC10L3QtNC90L7RgdGC0YzCuw0K0KfQ
+uNGC0LDQudGC0LUgDQooIGh0dHA6Ly9zZXJ2aWNlLm9tcHJ1c3NpYS5ydS90
+cmFjay9yZWRpcmVjdC8yMWViYjkzMzk2MWUxMmQ4NTlkZjBjNjE5ZWVkMDE0
+MDliNDRkODAyMWViMjVjN2M4YmM4MzYyNTk3ZmI4YzBlICkpDQog0L4g0L3Q
+vtCy0L7QvCDRgNC10LvQuNC30LUg0L/RgNC+0LTRg9C60YLQsC4NCg0K0J3Q
+vtCy0L7QtSDQv9C+0LrQvtC70LXQvdC40LUg0JDQstGA0L7RgNGLINGB0LXR
+gNGC0LjRhNC40YbQuNGA0L7QstCw0L3QviDQpNCh0KLQrdCaIA0KKCBodHRw
+Oi8vc2VydmljZS5vbXBydXNzaWEucnUvdHJhY2svcmVkaXJlY3QvMjFlYmI5
+MzM5NjFlMTJkODU5ZGYwYzYxOWVlZDAxNDA2N2MwYmNhZTk3MDFlMDI4YWM2
+NDQyYTBmNzY3NGMyMSApKQ0KDQoNCtCd0L7QstC+0LUg0L/QvtC60L7Qu9C1
+0L3QuNC1INCQ0LLRgNC+0YDRiyDRgdC10YDRgtC40YTQuNGG0LjRgNC+0LLQ
+sNC90L4g0KTQodCi0K3QmiANCiggaHR0cDovL3NlcnZpY2Uub21wcnVzc2lh
+LnJ1L3RyYWNrL3JlZGlyZWN0LzIxZWJiOTMzOTYxZTEyZDg1OWRmMGM2MTll
+ZWQwMTQwNjdjMGJjYWU5NzAxZTAyOGFjNjQ0MmEwZjc2NzRjMjEgKSkNCg0K
+DQrQndC+0LLQvtC1INC/0L7QutC+0LvQtdC90LjQtSDQntChINCQ0LLRgNC+
+0YDQsCDRgdC10YDRgtC40YTQuNGG0LjRgNC+0LLQsNC90L4g0KTQodCi0K3Q
+miDQoNC+0YHRgdC40LgNCtCf0L4g0LrQsNC60LjQvCDQutC70LDRgdGB0LDQ
+vCDRgdC10YDRgtC40YTQuNGG0LjRgNC+0LLQsNC90LAg0J7QoSDQuCDQs9C0
+0LUg0LzQvtC20LXRgiDQuNGB0L/QvtC70YzQt9C+0LLQsNGC0YzRgdGPDQrR
+h9C40YLQsNC50YLQtSDQvdCwINGB0LDQudGC0LUg0YDQsNC30YDQsNCx0L7R
+gtGH0LjQutCwIA0KKCBodHRwOi8vc2VydmljZS5vbXBydXNzaWEucnUvdHJh
+Y2svcmVkaXJlY3QvMjFlYmI5MzM5NjFlMTJkODU5ZGYwYzYxOWVlZDAxNDA2
+N2MwYmNhZTk3MDFlMDI4YWM2NDQyYTBmNzY3NGMyMSApKQ0KLg0KDQrQkdC1
+0YDQtdC8IEdvb2dsZSDQv9C+0LQg0LrQvtC90YLRgNC+0LvRjC4g0JrQsNC6
+INCyINCg0L7RgdGB0LjQuCDQvdCw0YPRh9C40LvQuNGB0Ywg0YPQv9GA0LDQ
+stC70Y/RgtGMDQpBbmRyb2lkLdGB0LzQsNGA0YLRhNC+0L3QsNC80LgNCtCn
+0LjRgtCw0LnRgtC1ICggaHR0cDovL3NlcnZpY2Uub21wcnVzc2lhLnJ1L3Ry
+YWNrL3JlZGlyZWN0LzIxZWJiOTMzOTYxZTEyZDg1OWRmMGM2MTllZWQwMTQw
+MDkwYjI4YzJkYmJhNjcxNmUxOGU4MjA3NTliZDg0OTcgKSkNCtC+0LEg0Y3R
+gtC+0Lwg0LIg0YDQsNC30LTQtdC70LUgwqvQotC10YXQvdC+0LvQvtCz0LjQ
+uMK7INC90LAg0JPQsNC30LXRgtCwLtCg0YMuDQoNCtCQ0LLRgNC+0YDQsCDQ
+vdCw0YPRh9C40LvQsNGB0Ywg0YPQv9GA0LDQstC70Y/RgtGMINCQ0L3QtNGA
+0L7QuNC00L7QvCANCiggaHR0cDovL3NlcnZpY2Uub21wcnVzc2lhLnJ1L3Ry
+YWNrL3JlZGlyZWN0LzIxZWJiOTMzOTYxZTEyZDg1OWRmMGM2MTllZWQwMTQw
+MDkwYjI4YzJkYmJhNjcxNmUxOGU4MjA3NTliZDg0OTcgKSkNCg0K0JDQstGA
+0L7RgNCwINC90LDRg9GH0LjQu9Cw0YHRjCDRg9C/0YDQsNCy0LvRj9GC0Ywg
+0JDQvdC00YDQvtC40LTQvtC8IA0KKCBodHRwOi8vc2VydmljZS5vbXBydXNz
+aWEucnUvdHJhY2svcmVkaXJlY3QvMjFlYmI5MzM5NjFlMTJkODU5ZGYwYzYx
+OWVlZDAxNDAwOTBiMjhjMmRiYmE2NzE2ZTE4ZTgyMDc1OWJkODQ5NyApKQ0K
+DQrQlNC+0LfQvtGAIMKr0JDQstGA0L7RgNGLwrsuINCi0LXRgdGCLdC00YDQ
+sNC50LIg0L7RgtC10YfQtdGB0YLQstC10L3QvdC+0Lkg0L7Qv9C10YDQsNGG
+0LjQvtC90L3QvtC5INGB0LjRgdGC0LXQvNGLINCnIA0KKCBodHRwOi8vc2Vy
+dmljZS5vbXBydXNzaWEucnUvdHJhY2svcmVkaXJlY3QvMjFlYmI5MzM5NjFl
+MTJkODU5ZGYwYzYxOWVlZDAxNDA5YzI4ZjJjNDM0NDc3ZDAyYjZhOTQzMWFk
+OGE5ZjllNSApKdC40YLQsNC50YLQtSANCiggaHR0cDovL3NlcnZpY2Uub21w
+cnVzc2lhLnJ1L3RyYWNrL3JlZGlyZWN0LzIxZWJiOTMzOTYxZTEyZDg1OWRm
+MGM2MTllZWQwMTQwOWMyOGYyYzQzNDQ3N2QwMmI2YTk0MzFhZDhhOWY5ZTUg
+KSkg0L7QsdC30L7RgCDQsiDRgNGD0LHRgNC40LrQtQ0KwqvQkdC10LfQvtC/
+0LDRgdC90L7RgdGC0YzCuyDQttGD0YDQvdCw0LvQsCDCq9Cm0LjRhNGA0L7Q
+stC+0Lkg0L7QutC10LDQvcK7Lg0KDQrQotC10YHRgi3QtNGA0LDQudCyINGA
+0L7RgdGB0LjQudGB0LrQvtC5INCe0KEg0JDQstGA0L7RgNGLIA0KKCBodHRw
+Oi8vc2VydmljZS5vbXBydXNzaWEucnUvdHJhY2svcmVkaXJlY3QvMjFlYmI5
+MzM5NjFlMTJkODU5ZGYwYzYxOWVlZDAxNDA5YzI4ZjJjNDM0NDc3ZDAyYjZh
+OTQzMWFkOGE5ZjllNSApKQ0KDQrQotC10YHRgi3QtNGA0LDQudCyINGA0L7R
+gdGB0LjQudGB0LrQvtC5INCe0KEg0JDQstGA0L7RgNGLIA0KKCBodHRwOi8v
+c2VydmljZS5vbXBydXNzaWEucnUvdHJhY2svcmVkaXJlY3QvMjFlYmI5MzM5
+NjFlMTJkODU5ZGYwYzYxOWVlZDAxNDA5YzI4ZjJjNDM0NDc3ZDAyYjZhOTQz
+MWFkOGE5ZjllNSApKQ0KDQrQvNC+0LHQuNC70YzQvdCw0Y8g0Y3Qu9C10LrR
+gtGA0L7QvdC90LDRjyDQv9C+0LTQv9C40YHRjCDQsiDQsdGA0LDRg9C30LXR
+gNC1IA0KKCBodHRwOi8vc2VydmljZS5vbXBydXNzaWEucnUvdHJhY2svcmVk
+aXJlY3QvMjFlYmI5MzM5NjFlMTJkODU5ZGYwYzYxOWVlZDAxNDA4ZjY2MzJk
+ZDIxZjk2Yzk3ZGUyNjIzNGFjYzE3Mjc1YyApKQ0KDQoNCtC80L7QsdC40LvR
+jNC90LDRjyDRjdC70LXQutGC0YDQvtC90L3QsNGPINC/0L7QtNC/0LjRgdGM
+INCyINCx0YDQsNGD0LfQtdGA0LUgDQooIGh0dHA6Ly9zZXJ2aWNlLm9tcHJ1
+c3NpYS5ydS90cmFjay9yZWRpcmVjdC8yMWViYjkzMzk2MWUxMmQ4NTlkZjBj
+NjE5ZWVkMDE0MDhmNjYzMmRkMjFmOTZjOTdkZTI2MjM0YWNjMTcyNzVjICkp
+DQoNCg0K0JIg0J7QoSDQkNCy0YDQvtGA0LAg0L/QvtGP0LLQuNC70LDRgdGM
+INC80L7QsdC40LvRjNC90LDRjyDRjdC70LXQutGC0YDQvtC90L3QsNGPINC/
+0L7QtNC/0LjRgdGMINCyINCx0YDQsNGD0LfQtdGA0LUNCtCR0YDQsNGD0LfQ
+tdGA0L3Ri9C5INC/0LvQsNCz0LjQvSDQmtGA0LjQv9GC0L7Qn9GA0L4g0YLQ
+tdC/0LXRgNGMINC/0L7QtNC00LXRgNC20LjQstCw0LXRgtGB0Y8g0LzQvtCx
+0LjQu9GM0L3QvtC5INCe0KENCtCQ0LLRgNC+0YDQsC4g0JTQtdGC0LDQu9C4
+IA0KKCBodHRwOi8vc2VydmljZS5vbXBydXNzaWEucnUvdHJhY2svcmVkaXJl
+Y3QvMjFlYmI5MzM5NjFlMTJkODU5ZGYwYzYxOWVlZDAxNDA4ZjY2MzJkZDIx
+Zjk2Yzk3ZGUyNjIzNGFjYzE3Mjc1YyApKQ0KDQoNCtCg0L7RgdGC0LXQu9C1
+0LrQvtC8INGA0LDQt9GA0LDQsdC+0YLQsNC7INC90L7QstC+0LUg0L/RgNC4
+0LvQvtC20LXQvdC40LUg0LTQu9GPINCe0KEg0JDQstGA0L7RgNCwIA0KKCBo
+dHRwOi8vc2VydmljZS5vbXBydXNzaWEucnUvdHJhY2svcmVkaXJlY3QvMjFl
+YmI5MzM5NjFlMTJkODU5ZGYwYzYxOWVlZDAxNDBlMzFkMjliN2E0OTUzZTBk
+YzNjY2RjZWNmMTc4ZjNmNyApKQ0KDQoNCtCg0L7RgdGC0LXQu9C10LrQvtC8
+INGA0LDQt9GA0LDQsdC+0YLQsNC7INC90L7QstC+0LUg0L/RgNC40LvQvtC2
+0LXQvdC40LUg0LTQu9GPINCe0KEg0JDQstGA0L7RgNCwIA0KKCBodHRwOi8v
+c2VydmljZS5vbXBydXNzaWEucnUvdHJhY2svcmVkaXJlY3QvMjFlYmI5MzM5
+NjFlMTJkODU5ZGYwYzYxOWVlZDAxNDBlMzFkMjliN2E0OTUzZTBkYzNjY2Rj
+ZWNmMTc4ZjNmNyApKQ0KDQoNCsKr0KDQvtGB0YLQtdC70LXQutC+0LzCuyDR
+gNCw0LfRgNCw0LHQvtGC0LDQuyDQvdC+0LLQvtC1INC/0YDQuNC70L7QttC1
+0L3QuNC1INC00LvRjyDQntChINCQ0LLRgNC+0YDQsA0K0J7QvdC+INCw0LLR
+gtC+0LzQsNGC0LjQt9C40YDRg9C10YIg0YPRh9GR0YIg0Lgg0LzQvtC90LjR
+gtC+0YDQuNC90LMg0L7QsdGK0LXQutGC0L7QsiDQvdC10LTQstC40LbQuNC8
+0L7RgdGC0Lgg0LTQu9GPDQrQvNC+0LHQuNC70YzQvdGL0YUg0YPRgdGC0YDQ
+vtC50YHRgtCyINC90LAg0JDQstGA0L7RgNC1LiDQlNC10YLQsNC70LggDQoo
+IGh0dHA6Ly9zZXJ2aWNlLm9tcHJ1c3NpYS5ydS90cmFjay9yZWRpcmVjdC8y
+MWViYjkzMzk2MWUxMmQ4NTlkZjBjNjE5ZWVkMDE0MGUzMWQyOWI3YTQ5NTNl
+MGRjM2NjZGNlY2YxNzhmM2Y3ICkpDQoNCg0K0J3QvtCy0LDRjyDQstC+0LfQ
+vNC+0LbQvdC+0YHRgtGMINC00LvRjyDRgNCw0LfRgNCw0LHQvtGC0YfQuNC6
+0L7QsiDQn9CeINC00LvRjyDQkNCy0YDQvtGA0YsgNC4wIA0KKCBodHRwOi8v
+c2VydmljZS5vbXBydXNzaWEucnUvdHJhY2svcmVkaXJlY3QvMjFlYmI5MzM5
+NjFlMTJkODU5ZGYwYzYxOWVlZDAxNDA4YzhmNzQ4ZmMwMjVkZWM3M2Q5NDY3
+MzMzNjcxODU0YSApKQ0KDQoNCtCd0L7QstCw0Y8g0LLQvtC30LzQvtC20L3Q
+vtGB0YLRjCDQtNC70Y8g0YDQsNC30YDQsNCx0L7RgtGH0LjQutC+0LIg0J/Q
+niDQtNC70Y8g0JDQstGA0L7RgNGLIDQuMCANCiggaHR0cDovL3NlcnZpY2Uu
+b21wcnVzc2lhLnJ1L3RyYWNrL3JlZGlyZWN0LzIxZWJiOTMzOTYxZTEyZDg1
+OWRmMGM2MTllZWQwMTQwOGM4Zjc0OGZjMDI1ZGVjNzNkOTQ2NzMzMzY3MTg1
+NGEgKSkNCg0KDQrQoyDRgNCw0LfRgNCw0LHQvtGC0YfQuNC60L7QsiDQn9Ce
+INC00LvRjyDQkNCy0YDQvtGA0YsgNC4wINC/0L7Rj9Cy0LjQu9Cw0YHRjCDQ
+stC+0LfQvNC+0LbQvdC+0YHRgtGMDQrQsNCy0YLQvtC80LDRgtC40LfQuNGA
+0L7QstCw0YLRjCDQv9GA0L7RhtC10YHRgSDRgNCw0LfRgNCw0LHQvtGC0LrQ
+uCDQuCDRg9C/0YDQvtGB0YLQuNGC0Ywg0L7RgtC70LDQtNC60YMNCtC/0YDQ
+uNC70L7QttC10L3QuNC5LCDQuNGB0L/QvtC70YzQt9GD0Y7RidC40YUg0LTQ
+sNGC0YfQuNC60Lgg0LzQvtCx0LjQu9GM0L3QvtCz0L4g0YPRgdGC0YDQvtC5
+0YHRgtCy0LAuINCU0LXRgtCw0LvQuCANCiggaHR0cDovL3NlcnZpY2Uub21w
+cnVzc2lhLnJ1L3RyYWNrL3JlZGlyZWN0LzIxZWJiOTMzOTYxZTEyZDg1OWRm
+MGM2MTllZWQwMTQwOGM4Zjc0OGZjMDI1ZGVjNzNkOTQ2NzMzMzY3MTg1NGEg
+KSkNCg0KDQrQodCt0JQgItCf0YDQsNC60YLQuNC60LAiINC4INCe0KEg0JDQ
+stGA0L7RgNCwINGB0L7QstC80LXRgdGC0LjQvNGLIA0KKCBodHRwOi8vc2Vy
+dmljZS5vbXBydXNzaWEucnUvdHJhY2svcmVkaXJlY3QvMjFlYmI5MzM5NjFl
+MTJkODU5ZGYwYzYxOWVlZDAxNDA2ZjgwZDQwNjViODRjNTE5NzI4NGQ3YzVk
+ZjU0ZGM0ZiApKQ0KDQoNCtCh0K3QlCAi0J/RgNCw0LrRgtC40LrQsCIg0Lgg
+0J7QoSDQkNCy0YDQvtGA0LAg0YHQvtCy0LzQtdGB0YLQuNC80YsgDQooIGh0
+dHA6Ly9zZXJ2aWNlLm9tcHJ1c3NpYS5ydS90cmFjay9yZWRpcmVjdC8yMWVi
+YjkzMzk2MWUxMmQ4NTlkZjBjNjE5ZWVkMDE0MDZmODBkNDA2NWI4NGM1MTk3
+Mjg0ZDdjNWRmNTRkYzRmICkpDQoNCg0K0JrQvtC80L/QsNC90LjQuCDCq9Ch
+0LjRgdGC0LXQvNGLINC00L7QutGD0LzQtdC90YLQvtC+0LHQvtGA0L7RgtCw
+wrsg0LggwqvQntGC0LrRgNGL0YLQsNGPINC80L7QsdC40LvRjNC90LDRjw0K
+0L/Qu9Cw0YLRhNC+0YDQvNCwwrsg0L/QvtC00YLQstC10YDQtNC40LvQuCDR
+gdC+0LLQvNC10YHRgtC40LzQvtGB0YLRjCDQodCt0JQgwqvQn9GA0LDQutGC
+0LjQutCwwrsg0Lgg0J7QoSDQkNCy0YDQvtGA0LAuDQrQlNC10YLQsNC70Lgg
+DQooIGh0dHA6Ly9zZXJ2aWNlLm9tcHJ1c3NpYS5ydS90cmFjay9yZWRpcmVj
+dC8yMWViYjkzMzk2MWUxMmQ4NTlkZjBjNjE5ZWVkMDE0MDZmODBkNDA2NWI4
+NGM1MTk3Mjg0ZDdjNWRmNTRkYzRmICkpDQoNCg0K0JIg0Y3QutC+0YHQuNGB
+0YLQtdC80LUg0J7QoSDQkNCy0YDQvtGA0LAg0L/QvtGP0LLQuNC70L7RgdGM
+INC/0YDQuNC70L7QttC10L3QuNC1INCa0YDQuNC/0YLQvtCQ0KDQnCDQk9Ce
+0KHQoiDQtNC70Y8NCtC+0YDQs9Cw0L3QuNC30LDRhtC40Lgg0LfQsNGJ0LjR
+idC10L3QvdC+0LPQviDQtNC+0LrRg9C80LXQvdGC0L7QvtCx0L7RgNC+0YLQ
+sCANCiggaHR0cDovL3NlcnZpY2Uub21wcnVzc2lhLnJ1L3RyYWNrL3JlZGly
+ZWN0LzIxZWJiOTMzOTYxZTEyZDg1OWRmMGM2MTllZWQwMTQwY2YyNmMyOTUy
+NWIxNTZlNDYxNmU4MjYwODM4ZGYwOTkgKSkNCg0KDQrQkiDRjdC60L7RgdC4
+0YHRgtC10LzQtSDQntChINCQ0LLRgNC+0YDQsCDQv9C+0Y/QstC40LvQvtGB
+0Ywg0L/RgNC40LvQvtC20LXQvdC40LUg0JrRgNC40L/RgtC+0JDQoNCcINCT
+0J7QodCiINC00LvRjw0K0L7RgNCz0LDQvdC40LfQsNGG0LjQuCDQt9Cw0YnQ
+uNGJ0LXQvdC90L7Qs9C+INC00L7QutGD0LzQtdC90YLQvtC+0LHQvtGA0L7R
+gtCwIA0KKCBodHRwOi8vc2VydmljZS5vbXBydXNzaWEucnUvdHJhY2svcmVk
+aXJlY3QvMjFlYmI5MzM5NjFlMTJkODU5ZGYwYzYxOWVlZDAxNDBjZjI2YzI5
+NTI1YjE1NmU0NjE2ZTgyNjA4MzhkZjA5OSApKQ0KDQoNCtCSINGN0LrQvtGB
+0LjRgdGC0LXQvNC1INCe0KEg0JDQstGA0L7RgNCwINC/0L7Rj9Cy0LjQu9C+
+0YHRjCDQv9GA0LjQu9C+0LbQtdC90LjQtSDQmtGA0LjQv9GC0L7QkNCg0Jwg
+0JPQntCh0KIg0LTQu9GPDQrQvtGA0LPQsNC90LjQt9Cw0YbQuNC4INC30LDR
+idC40YnRkdC90L3QvtCz0L4g0LTQvtC60YPQvNC10L3RgtC+0L7QsdC+0YDQ
+vtGC0LANCtCa0L7QvNC/0LDQvdC40Y8gwqvQptC40YTRgNC+0LLRi9C1INGC
+0LXRhdC90L7Qu9C+0LPQuNC4wrsg0LLRi9C/0YPRgdGC0LjQu9CwINC/0LXR
+gNCy0YPRjiDQstC10YDRgdC40Y4g0L/RgNC40LvQvtC20LXQvdC40Y8NCtCa
+0YDQuNC/0YLQvtCQ0KDQnCDQk9Ce0KHQoiDQtNC70Y8g0J7QoSDQkNCy0YDQ
+vtGA0LAgNC4wLiDQlNC10YLQsNC70LggDQooIGh0dHA6Ly9zZXJ2aWNlLm9t
+cHJ1c3NpYS5ydS90cmFjay9yZWRpcmVjdC8yMWViYjkzMzk2MWUxMmQ4NTlk
+ZjBjNjE5ZWVkMDE0MGNmMjZjMjk1MjViMTU2ZTQ2MTZlODI2MDgzOGRmMDk5
+ICkpDQoNCg0K0K3QutGB0L/QtdGA0YLRiyDQntGC0LrRgNGL0YLQvtC5INC8
+0L7QsdC40LvRjNC90L7QuSDQv9C70LDRgtGE0L7RgNC80Ysg0LLRi9GB0YLR
+g9C/0Y/RgiDQvdCwINC60YDRg9C/0L3QtdC50YjQtdC5DQrQtdC20LXQs9C+
+0LTQvdC+0Lkg0LrQvtC90YTQtdGA0LXQvdGG0LjQuCDQv9C+INGC0YDQtdC9
+0LTQsNC8IElUINC4INC60YDQvtGB0YHQv9C70LDRgtGE0L7RgNC80LXQvdC9
+0L7QuQ0K0YDQsNC30YDQsNCx0L7RgtC60LUuDQo5LTEwINGB0LXQvdGC0Y/Q
+sdGA0Y8g0LIg0JjQvdC90L7Qv9C+0LvQuNGB0LUg0YHQvtGB0YLQvtC40YLR
+gdGPIENyb3NzQ29uZi4g0KLQtdC30LjRgdGLDQrQstGL0YHRgtGD0L/Qu9C1
+0L3QuNC5IA0KKCBodHRwOi8vc2VydmljZS5vbXBydXNzaWEucnUvdHJhY2sv
+cmVkaXJlY3QvMjFlYmI5MzM5NjFlMTJkODU5ZGYwYzYxOWVlZDAxNDBjMThl
+NDhmN2ExOGZjOWMzM2YyNjQ2M2IwZmJjMzA4YiApKQ0KDQoNCtCe0YLQutGA
+0YvRgtCw0Y8g0LzQvtCx0LjQu9GM0L3QsNGPINC/0LvQsNGC0YTQvtGA0LzQ
+sCDQvdCwIENyb3NzQ29uZiANCiggaHR0cDovL3NlcnZpY2Uub21wcnVzc2lh
+LnJ1L3RyYWNrL3JlZGlyZWN0LzIxZWJiOTMzOTYxZTEyZDg1OWRmMGM2MTll
+ZWQwMTQwYzE4ZTQ4ZjdhMThmYzljMzNmMjY0NjNiMGZiYzMwOGIgKSkNCg0K
+DQrQntGC0LrRgNGL0YLQsNGPINC80L7QsdC40LvRjNC90LDRjyDQv9C70LDR
+gtGE0L7RgNC80LAg0L3QsCBDcm9zc0NvbmYgDQooIGh0dHA6Ly9zZXJ2aWNl
+Lm9tcHJ1c3NpYS5ydS90cmFjay9yZWRpcmVjdC8yMWViYjkzMzk2MWUxMmQ4
+NTlkZjBjNjE5ZWVkMDE0MGMxOGU0OGY3YTE4ZmM5YzMzZjI2NDYzYjBmYmMz
+MDhiICkpDQoNCg0K0KPRh9Cw0YHRgtC90LjQutCw0Lwg0J7QmtCY0KIgMjAy
+MiDRgNC10LrQvtC80LXQvdC00L7QstCw0LvQuCDQv9C70LDRgtGE0L7RgNC8
+0YMg0JDQstGA0L7RgNCwDQrQntC/0YvRgiDQstC90LXQtNGA0LXQvdC40Y8g
+0L3QsCDQkNCy0YDQvtGA0LUg0L/RgNC10LTRgdGC0LDQstC70LXQvSDQutGA
+0YPQv9C90LXQudGI0LjQvCDRjdC90LXRgNCz0LXRgtC40YfQtdGB0LrQuNC8
+DQrQutC+0LzQv9Cw0L3QuNGP0Lwg0KDQvtGB0YHQuNC4LiDQp9C40YLQsNGC
+0YwgDQooIGh0dHA6Ly9zZXJ2aWNlLm9tcHJ1c3NpYS5ydS90cmFjay9yZWRp
+cmVjdC8yMWViYjkzMzk2MWUxMmQ4NTlkZjBjNjE5ZWVkMDE0MGIzYzc3Y2Ew
+OGYxNjBmMzMyYTc0MmZiYTRkMDA5ZDA0ICkpDQoNCg0K0KPRh9Cw0YHRgtC9
+0LjQutCw0Lwg0J7QmtCY0KIgMjAyMiDRgNC10LrQvtC80LXQvdC00L7QstCw
+0LvQuCDQv9C70LDRgtGE0L7RgNC80YMg0JDQstGA0L7RgNCwIA0KKCBodHRw
+Oi8vc2VydmljZS5vbXBydXNzaWEucnUvdHJhY2svcmVkaXJlY3QvMjFlYmI5
+MzM5NjFlMTJkODU5ZGYwYzYxOWVlZDAxNDBiM2M3N2NhMDhmMTYwZjMzMmE3
+NDJmYmE0ZDAwOWQwNCApKQ0KDQoNCtCj0YfQsNGB0YLQvdC40LrQsNC8INCe
+0JrQmNCiIDIwMjIg0YDQtdC60L7QvNC10L3QtNC+0LLQsNC70Lgg0L/Qu9Cw
+0YLRhNC+0YDQvNGDINCQ0LLRgNC+0YDQsCANCiggaHR0cDovL3NlcnZpY2Uu
+b21wcnVzc2lhLnJ1L3RyYWNrL3JlZGlyZWN0LzIxZWJiOTMzOTYxZTEyZDg1
+OWRmMGM2MTllZWQwMTQwYjNjNzdjYTA4ZjE2MGYzMzJhNzQyZmJhNGQwMDlk
+MDQgKSkNCg0KDQrQrdC60YHQv9C10YDRgtC40LfQsCDQntGC0LrRgNGL0YLQ
+sNC+0Lkg0LzQvtCx0LjQu9GM0L3QvtC5INC/0LvQsNGC0YTQvtGA0LzRiyDQ
+v9GA0LXQtNGB0YLQsNCy0LvQtdC90LAg0LIg0YDQsNC80LrQsNGFDQrQvdCw
+0YPRh9C90L4t0L/RgNCw0LrRgtC40YfQtdGB0LrQvtC5INC60L7QvdGE0LXR
+gNC10L3RhtC40LggT1MgREFZIDIwMjINCtCt0LrRgdC/0LXRgNGC0Ysg0L7Q
+sdGB0YPQttC00LDQu9C4INCx0LXQt9C+0L/QsNGB0L3QvtGB0YLRjCDQntCh
+LtCn0LjRgtCw0YLRjCANCiggaHR0cDovL3NlcnZpY2Uub21wcnVzc2lhLnJ1
+L3RyYWNrL3JlZGlyZWN0LzIxZWJiOTMzOTYxZTEyZDg1OWRmMGM2MTllZWQw
+MTQwN2QxYmY1OGQ5NmUzNjFhYzA1M2ZkYTlhNjhjMWU3MGMgKSkNCg0KDQrQ
+ntGC0LrRgNGL0YLQsNGPINC80L7QsdC40LvRjNC90LDRjyDQv9C70LDRgtGE
+0L7RgNC80LAg0L3QsCBPUyBEYXkgDQooIGh0dHA6Ly9zZXJ2aWNlLm9tcHJ1
+c3NpYS5ydS90cmFjay9yZWRpcmVjdC8yMWViYjkzMzk2MWUxMmQ4NTlkZjBj
+NjE5ZWVkMDE0MDdkMWJmNThkOTZlMzYxYWMwNTNmZGE5YTY4YzFlNzBjICkp
+DQoNCg0K0J7RgtC60YDRi9GC0LDRjyDQvNC+0LHQuNC70YzQvdCw0Y8g0L/Q
+u9Cw0YLRhNC+0YDQvNCwINC90LAgT1MgRGF5IA0KKCBodHRwOi8vc2Vydmlj
+ZS5vbXBydXNzaWEucnUvdHJhY2svcmVkaXJlY3QvMjFlYmI5MzM5NjFlMTJk
+ODU5ZGYwYzYxOWVlZDAxNDA3ZDFiZjU4ZDk2ZTM2MWFjMDUzZmRhOWE2OGMx
+ZTcwYyApKQ0KDQoNCsKr0JzQvtCx0LjQu9GM0L3Ri9C5INC+0LHRhdC+0LTR
+h9C40LouIMKr0JjQvdGC0LXRgCDQoNCQ0J4g4oCTINCt0LvQtdC60YLRgNC+
+0LPQtdC90LXRgNCw0YbQuNGPwrsuINCh0LzQvtGC0YDQuNGC0LUNCtCy0LjQ
+tNC10L4gKCBodHRwOi8vc2VydmljZS5vbXBydXNzaWEucnUvdHJhY2svcmVk
+aXJlY3QvMjFlYmI5MzM5NjFlMTJkODU5ZGYwYzYxOWVlZDAxNDAxM2Q5OTM2
+ODRkMmViMWFjOTFiN2Y4ZGZmMGU5YTQ2NCApKQ0KDQrCq9Cc0L7QsdC40LvR
+jNC90YvQuSDQvtCx0YXQvtC00YfQuNC6LiDCq9CY0L3RgtC10YAg0KDQkNCe
+IOKAkyDQrdC70LXQutGC0YDQvtCz0LXQvdC10YDQsNGG0LjRj8K7LiDQodC8
+0L7RgtGA0LjRgtC1DQrQstC40LTQtdC+ICggaHR0cDovL3NlcnZpY2Uub21w
+cnVzc2lhLnJ1L3RyYWNrL3JlZGlyZWN0LzIxZWJiOTMzOTYxZTEyZDg1OWRm
+MGM2MTllZWQwMTQwMTNkOTkzNjg0ZDJlYjFhYzkxYjdmOGRmZjBlOWE0NjQg
+KSkNCg0K0KHQvNC+0YLRgNC40YLQtSDQstC40LTQtdC+IMKr0JzQvtCx0LjQ
+u9GM0L3Ri9C5INC+0LHRhdC+0LTRh9C40LouIMKr0JjQvdGC0LXRgCDQoNCQ
+0J4g4oCTDQrQrdC70LXQutGC0YDQvtCz0LXQvdC10YDQsNGG0LjRj8K7Lg0K
+0J4g0YHQuNGB0YLQtdC80LUg0LDQstGC0L7QvNCw0YLQuNC30LDRhtC40Lgg
+0YLQtdGF0L3QvtC70L7Qs9C40YfQtdGB0LrQuNGFINC+0LHRhdC+0LTQvtCy
+INC4INC+0YHQvNC+0YLRgNC+0LINCtC+0LHQvtGA0YPQtNC+0LLQsNC90LjR
+jyDQsiDCq9CY0L3RgtC10YAg0KDQkNCeIOKAkyDQrdC70LXQutGC0YDQvtCz
+0LXQvdC10YDQsNGG0LjRj8K7INC90LAg0JDQstGA0L7RgNC1LiDQodC80L7R
+gtGA0LXRgtGMDQooIGh0dHA6Ly9zZXJ2aWNlLm9tcHJ1c3NpYS5ydS90cmFj
+ay9yZWRpcmVjdC8yMWViYjkzMzk2MWUxMmQ4NTlkZjBjNjE5ZWVkMDE0MDEz
+ZDk5MzY4NGQyZWIxYWM5MWI3ZjhkZmYwZTlhNDY0ICkpDQoNCtCf0YDQuNGF
+0L7QtNC40YLQtSDQvdCwINCy0LXQsdC40L3QsNGAIMKr0JfQsNGJ0LjRidGR
+0L3QvdGL0LUg0LrQvtC80LzRg9C90LjQutCw0YbQuNC4INC90LAg0L/Qu9Cw
+0YLRhNC+0YDQvNC1DQrQkNCy0YDQvtGA0LDCuw0KOSDRgdC10L3RgtGP0LHR
+gNGPINGA0LDRgdGB0LrQsNC20LXQvCDQviDQv9GA0LjQvdGG0LjQv9Cw0YUg
+0LjRhSDQv9C+0YHRgtGA0L7QtdC90LjRjyDQtNC70Y8g0L7QsdGJ0LXQvdC4
+0Y8NCtCz0L7Qu9C+0YHQvtC8LCDQvtCx0LzQtdC90LAg0L/QvtGH0YLQvtCy
+0YvQvNC4INGB0L7QvtCx0YnQtdC90LjRj9C80Lgg0Lgg0LLQtdCxLdGC0YDQ
+sNGE0LjQutC+0LwuDQrQn9C+0LTQutC70Y7Rh9C40YLRjNGB0Y8gKCBodHRw
+Oi8vc2VydmljZS5vbXBydXNzaWEucnUvdHJhY2svcmVkaXJlY3QvMjFlYmI5
+MzM5NjFlMTJkODU5ZGYwYzYxOWVlZDAxNDBlZjQ2OGMxMjkzYTUwNDU4NGFm
+NTA5OTVlZTAzNDJlYSApKQ0KDQrQn9GA0LjRhdC+0LTQuNGC0LUg0L3QsCDQ
+stC10LHQuNC90LDRgCDCq9CX0LDRidC40YnRkdC90L3Ri9C1INC60L7QvNC8
+0YPQvdC40LrQsNGG0LjQuCDQvdCwINC/0LvQsNGC0YTQvtGA0LzQtQ0K0JDQ
+stGA0L7RgNCwwrsgKCBodHRwOi8vc2VydmljZS5vbXBydXNzaWEucnUvdHJh
+Y2svcmVkaXJlY3QvMjFlYmI5MzM5NjFlMTJkODU5ZGYwYzYxOWVlZDAxNDBl
+ZjQ2OGMxMjkzYTUwNDU4NGFmNTA5OTVlZTAzNDJlYSApKQ0KDQrQn9GA0LjR
+hdC+0LTQuNGC0LUg0L3QsCDQstC10LHQuNC90LDRgCDCq9CX0LDRidC40YnR
+kdC90L3Ri9C1INC60L7QvNC80YPQvdC40LrQsNGG0LjQuCDQvdCwINC/0LvQ
+sNGC0YTQvtGA0LzQtQ0K0JDQstGA0L7RgNCwwrsgKCBodHRwOi8vc2Vydmlj
+ZS5vbXBydXNzaWEucnUvdHJhY2svcmVkaXJlY3QvMjFlYmI5MzM5NjFlMTJk
+ODU5ZGYwYzYxOWVlZDAxNDBlZjQ2OGMxMjkzYTUwNDU4NGFmNTA5OTVlZTAz
+NDJlYSApKQ0KDQrQldGB0LvQuCDQstGLINC90LUg0YXQvtGC0LjRgtC1INCx
+0L7Qu9GM0YjQtSDQv9C+0LvRg9GH0LDRgtGMINC90LDRiNC4INC/0LjRgdGM
+0LzQsCwg0L/RgNC+0YHRgtC+INC/0LXRgNC10LnQtNC40YLQtQ0K0L/QviDR
+gdGB0YvQu9C60LUNCtC+0YLQutCw0LfQsNGC0YzRgdGPINC+0YIg0YDQsNGB
+0YHRi9C70LrQuCAoIGh0dHA6Ly9zZXJ2aWNlLm9tcHJ1c3NpYS5ydS91bnN1
+YnNjcmlwdGlvbnMvMjFlYmI5MzM5NjFlMTJkODAwNzY5ZmUxMmJjYTJmMjlj
+NjM3MjU3ODViYTZmNjAwNTkxOTlkMmViZDJlNDU0YiAp
+
+----==_mimepart_6319b74ebdbaa_12ace5ac57904330655b3
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html xmlns=3D"http://www.w3.org/1999/xhtml"><head><meta h=
+ttp-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><meta n=
+ame=3D"format-detection" content=3D"telephone=3Dno">=0D
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Type">=
+=0D
+<meta content=3D"width=3Ddevice-width" name=3D"viewport">=0D
+=0D
+<style>body {=0D
+width: 100% !important; min-width: 100%; -webkit-text-size-adjust: 100%; =
+-ms-text-size-adjust: 100%; margin: 0; padding: 0;=0D
+}=0D
+.ExternalClass {=0D
+width: 100%;=0D
+}=0D
+.ExternalClass {=0D
+line-height: 100%;=0D
+}=0D
+#backgroundTable {=0D
+margin: 0; padding: 0; width: 100% !important; line-height: 100% !importa=
+nt;=0D
+}=0D
+body {=0D
+background-color: #ffffff; background-repeat: repeat; background-position=
+: center top;=0D
+}=0D
+body {=0D
+color: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: n=
+ormal; font-size: 14px; padding: 0; margin: 0; text-align: left; line-hei=
+ght: 1.3;=0D
+}=0D
+a:hover {=0D
+color: #2795b6;=0D
+}=0D
+a:active {=0D
+color: #2795b6;=0D
+}=0D
+a:visited {=0D
+color: #2ba6cb;=0D
+}=0D
+h1 a:active {=0D
+color: #2ba6cb !important;=0D
+}=0D
+h2 a:active {=0D
+color: #2ba6cb !important;=0D
+}=0D
+h3 a:active {=0D
+color: #2ba6cb !important;=0D
+}=0D
+h4 a:active {=0D
+color: #2ba6cb !important;=0D
+}=0D
+h5 a:active {=0D
+color: #2ba6cb !important;=0D
+}=0D
+h6 a:active {=0D
+color: #2ba6cb !important;=0D
+}=0D
+h1 a:visited {=0D
+color: #2ba6cb !important;=0D
+}=0D
+h2 a:visited {=0D
+color: #2ba6cb !important;=0D
+}=0D
+h3 a:visited {=0D
+color: #2ba6cb !important;=0D
+}=0D
+h4 a:visited {=0D
+color: #2ba6cb !important;=0D
+}=0D
+h5 a:visited {=0D
+color: #2ba6cb !important;=0D
+}=0D
+h6 a:visited {=0D
+color: #2ba6cb !important;=0D
+}=0D
+table.secondary:hover td {=0D
+background: #d0d0d0 !important; color: #555555;=0D
+}=0D
+table.secondary:hover td a {=0D
+color: #555555 !important;=0D
+}=0D
+table.secondary td a:visited {=0D
+color: #555555 !important;=0D
+}=0D
+table.secondary:active td a {=0D
+color: #555555 !important;=0D
+}=0D
+table.success:hover td {=0D
+background: #457a1a !important;=0D
+}=0D
+table.alert:hover td {=0D
+background: #970b0e !important;=0D
+}=0D
+body.outlook p {=0D
+display: inline !important;=0D
+}=0D
+@media only screen and (min-width: 768px) {=0D
+  table.container {=0D
+    width: 580px !important;=0D
+  }=0D
+  .mail .hide-for-desktop {=0D
+    display: none !important;=0D
+  }=0D
+  .mail .hide-and-true {=0D
+    display: none;=0D
+  }=0D
+  .mail .hide-and-false {=0D
+    display: block !important;=0D
+  }=0D
+  .mail .hide-or-true {=0D
+    display: none !important;=0D
+  }=0D
+}=0D
+@media only screen and (max-width: 600px) {=0D
+  .mail img {=0D
+    max-width: 100% !important; max-height: 100% !important; padding: 0 !=
+important; width: auto !important; height: auto !important;=0D
+  }=0D
+  .mail .social img {=0D
+    width: inherit !important;=0D
+  }=0D
+  .mail img.normal {=0D
+    width: inherit !important;=0D
+  }=0D
+  .mail center {=0D
+    min-width: 0 !important;=0D
+  }=0D
+  .mail .container {=0D
+    width: 100% !important;=0D
+  }=0D
+  .mail .row {=0D
+    width: 100% !important; display: block !important;=0D
+  }=0D
+  .mail .wrapper {=0D
+    display: block !important; padding-right: 0 !important;=0D
+  }=0D
+  .mail .columns {=0D
+    table-layout: fixed !important; float: none !important; width: 100% !=
+important; padding-right: 0px !important; padding-left: 0px !important; d=
+isplay: block !important;=0D
+  }=0D
+  .mail .column {=0D
+    table-layout: fixed !important; float: none !important; width: 100% !=
+important; padding-right: 0px !important; padding-left: 0px !important; d=
+isplay: block !important;=0D
+  }=0D
+  .mail .wrapper.first .columns {=0D
+    display: table !important;=0D
+  }=0D
+  .mail .wrapper.first .column {=0D
+    display: table !important;=0D
+  }=0D
+  .mail table.columns > tbody > tr > td {=0D
+    width: 100% !important;=0D
+  }=0D
+  .mail table.column > tbody > tr > td {=0D
+    width: 100% !important;=0D
+  }=0D
+  .mail .columns td.one {=0D
+    width: 8.333333% !important;=0D
+  }=0D
+  .mail .column td.one {=0D
+    width: 8.333333% !important;=0D
+  }=0D
+  .mail .columns td.two {=0D
+    width: 16.666666% !important;=0D
+  }=0D
+  .mail .column td.two {=0D
+    width: 16.666666% !important;=0D
+  }=0D
+  .mail .columns td.three {=0D
+    width: 25% !important;=0D
+  }=0D
+  .mail .column td.three {=0D
+    width: 25% !important;=0D
+  }=0D
+  .mail .columns td.four {=0D
+    width: 33.333333% !important;=0D
+  }=0D
+  .mail .column td.four {=0D
+    width: 33.333333% !important;=0D
+  }=0D
+  .mail .columns td.five {=0D
+    width: 41.666666% !important;=0D
+  }=0D
+  .mail .column td.five {=0D
+    width: 41.666666% !important;=0D
+  }=0D
+  .mail .columns td.six {=0D
+    width: 50% !important;=0D
+  }=0D
+  .mail .column td.six {=0D
+    width: 50% !important;=0D
+  }=0D
+  .mail .columns td.seven {=0D
+    width: 58.333333% !important;=0D
+  }=0D
+  .mail .column td.seven {=0D
+    width: 58.333333% !important;=0D
+  }=0D
+  .mail .columns td.eight {=0D
+    width: 66.666666% !important;=0D
+  }=0D
+  .mail .column td.eight {=0D
+    width: 66.666666% !important;=0D
+  }=0D
+  .mail .columns td.nine {=0D
+    width: 75% !important;=0D
+  }=0D
+  .mail .column td.nine {=0D
+    width: 75% !important;=0D
+  }=0D
+  .mail .columns td.ten {=0D
+    width: 83.333333% !important;=0D
+  }=0D
+  .mail .column td.ten {=0D
+    width: 83.333333% !important;=0D
+  }=0D
+  .mail .columns td.eleven {=0D
+    width: 91.666666% !important;=0D
+  }=0D
+  .mail .column td.eleven {=0D
+    width: 91.666666% !important;=0D
+  }=0D
+  .mail .columns td.twelve {=0D
+    width: 100% !important;=0D
+  }=0D
+  .mail .column td.twelve {=0D
+    width: 100% !important;=0D
+  }=0D
+  .mail td.offset-by-eleven {=0D
+    padding-left: 0 !important;=0D
+  }=0D
+  .mail td.offset-by-ten {=0D
+    padding-left: 0 !important;=0D
+  }=0D
+  .mail td.offset-by-nine {=0D
+    padding-left: 0 !important;=0D
+  }=0D
+  .mail td.offset-by-eight {=0D
+    padding-left: 0 !important;=0D
+  }=0D
+  .mail td.offset-by-seven {=0D
+    padding-left: 0 !important;=0D
+  }=0D
+  .mail td.offset-by-six {=0D
+    padding-left: 0 !important;=0D
+  }=0D
+  .mail td.offset-by-five {=0D
+    padding-left: 0 !important;=0D
+  }=0D
+  .mail td.offset-by-four {=0D
+    padding-left: 0 !important;=0D
+  }=0D
+  .mail td.offset-by-three {=0D
+    padding-left: 0 !important;=0D
+  }=0D
+  .mail td.offset-by-two {=0D
+    padding-left: 0 !important;=0D
+  }=0D
+  .mail td.offset-by-one {=0D
+    padding-left: 0 !important;=0D
+  }=0D
+  .mail table.columns td.expander {=0D
+    width: 1px !important;=0D
+  }=0D
+  .mail .right-text-pad {=0D
+    padding-left: 10px !important;=0D
+  }=0D
+  .mail .text-pad-right {=0D
+    padding-left: 10px !important;=0D
+  }=0D
+  .mail .left-text-pad {=0D
+    padding-right: 10px !important;=0D
+  }=0D
+  .mail .text-pad-left {=0D
+    padding-right: 10px !important;=0D
+  }=0D
+  .mail .hide-for-small {=0D
+    display: none !important;=0D
+  }=0D
+  .mail .show-for-desktop {=0D
+    display: none !important;=0D
+  }=0D
+  .mail .show-for-small {=0D
+    display: block !important; width: auto !important; overflow: visible =
+!important;=0D
+  }=0D
+  .mail .hide-for-desktop {=0D
+    display: block !important; width: auto !important; overflow: visible =
+!important;=0D
+  }=0D
+  .mail .hide-and-true {=0D
+    display: none;=0D
+  }=0D
+  .mail .hide-and-false {=0D
+    display: block !important;=0D
+  }=0D
+  .mail .hide-or-true {=0D
+    display: none !important;=0D
+  }=0D
+}=0D
+</style></head>=0D
+<body style=3D"width: 100% !important; min-width: 100%; -webkit-text-size=
+-adjust: 100%; -ms-text-size-adjust: 100%; color: #222222; font-family: H=
+elvetica, Arial, sans-serif; font-weight: normal; font-size: 14px; text-a=
+lign: left; line-height: 1.3; background: #ffffff repeat center top; marg=
+in: 0; padding: 0;" bgcolor=3D"#ffffff"><img src=3D"http://service.omprus=
+sia.ru/track/open/21ebb933961e12d800769fe12bca2f29597e274523343ac3" alt=3D=
+"" height=3D"1" width=3D"1" style=3D"display: block; margin-top: -1px">=0D=
+
+<table class=3D"mail" style=3D"border-spacing: 0; border-collapse: collap=
+se; vertical-align: top; text-align: left; height: 100%; width: 100%; col=
+or: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: norm=
+al; font-size: 14px; line-height: 1.3; background: #ffffff repeat center =
+top; margin: 0; padding: 0;" bgcolor=3D"#ffffff">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td align=3D"center" class=3D"center" valign=3D"top" style=3D"word-break:=
+ break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; bo=
+rder-collapse: collapse !important; vertical-align: top; text-align: cent=
+er; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weigh=
+t: normal; font-size: 14px; margin: 0; padding: 0;">=0D
+<center style=3D"width: 100%; min-width: 580px;">=0D
+<table class=3D"container" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: inherit; max-width: 580px; marg=
+in: 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; color: #222222; font-family: Helvetica, Arial, =
+sans-serif; font-weight: normal; font-size: 14px; margin: 0; padding: 0;"=
+ align=3D"left" valign=3D"top">=0D
+<table class=3D"row" style=3D"border-spacing: 0; border-collapse: collaps=
+e; vertical-align: top; text-align: left; width: 100%; position: relative=
+; display: block; background: transparent repeat center top; padding: 0px=
+;" bgcolor=3D"transparent">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"wrapper first last" style=3D"word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: colla=
+pse !important; vertical-align: top; text-align: left; position: relative=
+; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weight:=
+ normal; font-size: 14px; margin: 0; padding: 0px;" align=3D"left" valign=
+=3D"top">=0D
+<table class=3D"twelve columns" style=3D"border-spacing: 0; border-collap=
+se: collapse; vertical-align: top; text-align: left; width: 580px; margin=
+: 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<!--[if mso]>=0D
+<table align=3D'center' style=3D'border-collapse: collapse; border-spacin=
+g: 0; overflow: hidden; border: 0; width: 100%; '>=0D
+<tr>=0D
+<td align=3D'center' style=3D'padding: 0px 0px 0px 0px;'>=0D
+<a href=3D'http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed0140ef468c1293a504584af50995ee0342ea'>=0D
+<img alt=3D'=D0=9F=D1=80=D0=B8=D1=85=D0=BE=D0=B4=D0=B8=D1=82=D0=B5 =D0=BD=
+=D0=B0 =D0=B2=D0=B5=D0=B1=D0=B8=D0=BD=D0=B0=D1=80 =D0=BF=D1=80=D0=BE =D0=B7=
+=D0=B0=D1=89=D0=B8=D1=89=D1=91=D0=BD=D0=BD=D1=8B=D0=B5 =D0=BA=D0=BE=D0=BC=
+=D0=BC=D1=83=D0=BD=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=D0=B8 =D0=BD=D0=B0 =D0=90=
+=D0=B2=D1=80=D0=BE=D1=80=D0=B5' src=3D'https://img.msndr.net/content/317c=
+2aacd5f3a9f4e71b26ecd7819610.png' width=3D'580'>=0D
+</a>=0D
+</td>=0D
+</tr>=0D
+</table>=0D
+<![endif]-->=0D
+<!--[if !mso]>=0D
+<!---->=0D
+<div align=3D"center" style=3D"padding: 0px;">=0D
+<a href=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed0140ef468c1293a504584af50995ee0342ea" style=3D"color: #2ba6cb; t=
+ext-decoration: none;">=0D
+<img alt=3D"=D0=9F=D1=80=D0=B8=D1=85=D0=BE=D0=B4=D0=B8=D1=82=D0=B5 =D0=BD=
+=D0=B0 =D0=B2=D0=B5=D0=B1=D0=B8=D0=BD=D0=B0=D1=80 =D0=BF=D1=80=D0=BE =D0=B7=
+=D0=B0=D1=89=D0=B8=D1=89=D1=91=D0=BD=D0=BD=D1=8B=D0=B5 =D0=BA=D0=BE=D0=BC=
+=D0=BC=D1=83=D0=BD=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=D0=B8 =D0=BD=D0=B0 =D0=90=
+=D0=B2=D1=80=D0=BE=D1=80=D0=B5" class=3D" hide-and-true center" height=3D=
+"120" src=3D"https://img.msndr.net/content/317c2aacd5f3a9f4e71b26ecd78196=
+10.png" style=3D"width: 580px; height: 120px; outline: none; text-decorat=
+ion: none; -ms-interpolation-mode: bicubic; max-width: 100%; float: none;=
+ clear: both; display: block; margin: 0 auto; border: none;" width=3D"580=
+" align=3D"none">=0D
+</a>=0D
+</div>=0D
+<div class=3D"clearfix" style=3D"clear: both;"></div>=0D
+<!-- <![endif]-->=0D
+<!--[endif]---->=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+<table class=3D"container" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: inherit; max-width: 580px; marg=
+in: 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; color: #222222; font-family: Helvetica, Arial, =
+sans-serif; font-weight: normal; font-size: 14px; margin: 0; padding: 0;"=
+ align=3D"left" valign=3D"top">=0D
+<table class=3D"row" style=3D"border-spacing: 0; border-collapse: collaps=
+e; vertical-align: top; text-align: left; width: 100%; position: relative=
+; display: block; background: transparent repeat center top; padding: 0px=
+;" bgcolor=3D"transparent">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"wrapper first last" style=3D"word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: colla=
+pse !important; vertical-align: top; text-align: left; position: relative=
+; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weight:=
+ normal; font-size: 14px; margin: 0; padding: 0px;" align=3D"left" valign=
+=3D"top">=0D
+<table class=3D"twelve columns" style=3D"border-spacing: 0; border-collap=
+se: collapse; vertical-align: top; text-align: left; width: 580px; margin=
+: 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<table class=3D"table-block" width=3D"100%" style=3D"border-spacing: 0; b=
+order-collapse: collapse; vertical-align: top; text-align: left; padding:=
+ 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"" style=3D"word-break: break-word; -webkit-hyphens: none; -m=
+oz-hyphens: none; hyphens: none; border-collapse: collapse !important; ve=
+rtical-align: top; text-align: left; width: 100%; color: #222222; font-fa=
+mily: Helvetica, Arial, sans-serif; font-weight: normal; font-size: 14px;=
+ background: transparent repeat center center; margin: 0; padding: 0px 10=
+px 0px 0px;" align=3D"left" bgcolor=3D"transparent" valign=3D"top">=0D
+<h3 style=3D"color: #222222; font-family: Helvetica, Arial, sans-serif; f=
+ont-weight: normal; font-size: 32px; text-align: left; line-height: 1.3; =
+word-break: normal; margin: 0; padding: 0;" align=3D"left"><span style=3D=
+"font-size: 18px;"><span style=3D"font-size: 13px;"><strong>=D0=94=D0=BE=D0=
+=B1=D1=80=D1=8B=D0=B9 =D0=B4=D0=B5=D0=BD=D1=8C!</strong></span><br></span=
+></h3>=0D
+<p style=3D"color: #222222; font-family: Helvetica, Arial, sans-serif; fo=
+nt-weight: normal; font-size: 14px; text-align: left; line-height: 1.3; m=
+argin: 0 0 10px; padding: 0;" align=3D"left"><span style=3D"font-size: 13=
+px;">=D0=92 =D0=BD=D0=B0=D1=87=D0=B0=D0=BB=D0=B5 =D0=BD=D0=BE=D0=B2=D0=BE=
+=D0=B3=D0=BE =D0=B4=D0=B5=D0=BB=D0=BE=D0=B2=D0=BE=D0=B3=D0=BE =D1=81=D0=B5=
+=D0=B7=D0=BE=D0=BD=D0=B0 =D0=BF=D1=80=D0=B5=D0=B4=D0=BB=D0=B0=D0=B3=D0=B0=
+=D0=B5=D0=BC =D0=B2=D0=B0=D0=BC =D0=BD=D0=BE=D0=B2=D0=BE=D1=81=D1=82=D0=B8=
+ =D0=BA=D0=BE=D1=80=D0=BF=D0=BE=D1=80=D0=B0=D1=82=D0=B8=D0=B2=D0=BD=D0=BE=
+=D0=B9 =D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=D0=BE=D1=81=D1=82=D0=B8=
+ =D0=BA=D0=BE=D0=BC=D0=BF=D0=B0=D0=BD=D0=B8=D0=B8 =C2=AB=D0=9E=D1=82=D0=BA=
+=D1=80=D1=8B=D1=82=D0=B0=D1=8F =D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=
+=D0=B0=D1=8F =D0=BF=D0=BB=D0=B0=D1=82=D1=84=D0=BE=D1=80=D0=BC=D0=B0=C2=BB=
+.</span></p>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+<table class=3D" hide-and-true  hide-and-true container" style=3D"border-=
+spacing: 0; border-collapse: collapse; vertical-align: top; text-align: i=
+nherit; max-width: 580px; margin: 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; color: #222222; font-family: Helvetica, Arial, =
+sans-serif; font-weight: normal; font-size: 14px; margin: 0; padding: 0;"=
+ align=3D"left" valign=3D"top">=0D
+<table class=3D"row" style=3D"border-spacing: 0; border-collapse: collaps=
+e; vertical-align: top; text-align: left; width: 100%; position: relative=
+; display: block; background: transparent repeat center top; padding: 0px=
+;" bgcolor=3D"transparent">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"wrapper first " style=3D"word-break: break-word; -webkit-hyp=
+hens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse =
+!important; vertical-align: top; text-align: left; position: relative; co=
+lor: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: nor=
+mal; font-size: 14px; margin: 0; padding: 0px 20px 0px 0px;" align=3D"lef=
+t" valign=3D"top">=0D
+<table class=3D"three columns" style=3D"border-spacing: 0; border-collaps=
+e: collapse; vertical-align: top; text-align: left; width: 130px; margin:=
+ 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<!--[if mso]>=0D
+<table align=3D'left' style=3D'border-collapse: collapse; border-spacing:=
+ 0; overflow: hidden; border: 0; width: 100%; '>=0D
+<tr>=0D
+<td align=3D'left' style=3D'padding: 0px 0px 0px 0px;'>=0D
+<a href=3D'http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed01409b44d8021eb25c7c8bc8362597fb8c0e'>=0D
+<img alt=3D'=D0=9D=D0=BE=D0=B2=D1=8B=D0=B9 =D1=80=D0=B5=D0=B7=D0=B8=D0=B7=
+ =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0 =D0=A6=D0=B5=D0=BD=D1=82=D1=80=D0=B0=
+ =D1=83=D0=BC=D0=B5=D0=B5=D1=82 =D1=83=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D1=8F=
+=D1=82=D1=8C =D0=9C=D0=A3 =D0=BD=D0=B0 Android' src=3D'https://img.msndr.=
+net/content/d1c323ac3ed045a65e1f2c34b2d98b14.png' width=3D'130'>=0D
+</a>=0D
+</td>=0D
+</tr>=0D
+</table>=0D
+<![endif]-->=0D
+<!--[if !mso]>=0D
+<!---->=0D
+<div align=3D"left" style=3D"padding: 0px;">=0D
+<a href=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed01409b44d8021eb25c7c8bc8362597fb8c0e" style=3D"color: #2ba6cb; t=
+ext-decoration: none;">=0D
+<img alt=3D"=D0=9D=D0=BE=D0=B2=D1=8B=D0=B9 =D1=80=D0=B5=D0=B7=D0=B8=D0=B7=
+ =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0 =D0=A6=D0=B5=D0=BD=D1=82=D1=80=D0=B0=
+ =D1=83=D0=BC=D0=B5=D0=B5=D1=82 =D1=83=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D1=8F=
+=D1=82=D1=8C =D0=9C=D0=A3 =D0=BD=D0=B0 Android" class=3D"left" height=3D"=
+69" src=3D"https://img.msndr.net/content/d1c323ac3ed045a65e1f2c34b2d98b14=
+.png" style=3D"width: 130px !important; height: 69px; outline: none; text=
+-decoration: none; -ms-interpolation-mode: bicubic; max-width: 100%; floa=
+t: left; clear: both; display: block; border: none;" width=3D"130" align=3D=
+"left">=0D
+</a>=0D
+</div>=0D
+<div class=3D"clearfix" style=3D"clear: both;"></div>=0D
+<!-- <![endif]-->=0D
+<!--[endif]---->=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+<td class=3D"wrapper last" style=3D"word-break: break-word; -webkit-hyphe=
+ns: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !i=
+mportant; vertical-align: top; text-align: left; position: relative; colo=
+r: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: norma=
+l; font-size: 14px; margin: 0; padding: 0px;" align=3D"left" valign=3D"to=
+p">=0D
+<table class=3D"nine columns" style=3D"border-spacing: 0; border-collapse=
+: collapse; vertical-align: top; text-align: left; width: 430px; margin: =
+0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<table class=3D"table-block" width=3D"100%" style=3D"border-spacing: 0; b=
+order-collapse: collapse; vertical-align: top; text-align: left; padding:=
+ 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"" style=3D"word-break: break-word; -webkit-hyphens: none; -m=
+oz-hyphens: none; hyphens: none; border-collapse: collapse !important; ve=
+rtical-align: top; text-align: left; width: 100%; color: #222222; font-fa=
+mily: Helvetica, Arial, sans-serif; font-weight: normal; font-size: 14px;=
+ background: transparent repeat center center; margin: 0; padding: 0px;" =
+align=3D"left" bgcolor=3D"transparent" valign=3D"top">=0D
+<p style=3D"color: #222222; font-family: Helvetica, Arial, sans-serif; fo=
+nt-weight: normal; font-size: 14px; text-align: left; line-height: 1.3; m=
+argin: 0 0 10px; padding: 0;" align=3D"left"><span style=3D"font-size: 12=
+px;"><strong>EMM-=D0=BF=D0=BB=D0=B0=D1=82=D1=84=D0=BE=D1=80=D0=BC=D0=B0 =D0=
+=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0 =D0=A6=D0=B5=D0=BD=D1=82=D1=80 3.1: =D1=
+=83=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BA=D0=BE=D1=
+=80=D0=BF=D0=BE=D1=80=D0=B0=D1=82=D0=B8=D0=B2=D0=BD=D1=8B=D0=BC=D0=B8 =D1=
+=83=D1=81=D1=82=D1=80=D0=BE=D0=B9=D1=81=D1=82=D0=B2=D0=B0=D0=BC=D0=B8 =D1=
+=81 =D0=9E=D0=A1 A<span style=3D"line-height: 8px;">ndroid </span></stron=
+g></span><span style=3D"font-size: 12px; line-height: 8px;"><strong>=D0=B8=
+ =C2=AB=D0=BC=D0=BD=D0=BE=D0=B3=D0=BE=D0=B0=D1=80=D0=B5=D0=BD=D0=B4=D0=BD=
+=D0=BE=D1=81=D1=82=D1=8C=C2=BB <br></strong></span><span style=3D"font-si=
+ze: 12px;"><span style=3D"line-height: 8px;"><span style=3D"font-size: 11=
+px;"><a href=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12=
+d859df0c619eed01409b44d8021eb25c7c8bc8362597fb8c0e" style=3D"color: #2ba6=
+cb; text-decoration: none;">=D0=A7=D0=B8=D1=82=D0=B0=D0=B9=D1=82=D0=B5</a=
+></span> =D0=BE =D0=BD=D0=BE=D0=B2=D0=BE=D0=BC =D1=80=D0=B5=D0=BB=D0=B8=D0=
+=B7=D0=B5 =D0=BF=D1=80=D0=BE</span>=D0=B4=D1=83=D0=BA=D1=82=D0=B0.<br></s=
+pan></p>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+<table class=3D" hide-and-true  hide-and-true container" style=3D"border-=
+spacing: 0; border-collapse: collapse; vertical-align: top; text-align: i=
+nherit; max-width: 580px; margin: 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; color: #222222; font-family: Helvetica, Arial, =
+sans-serif; font-weight: normal; font-size: 14px; margin: 0; padding: 0;"=
+ align=3D"left" valign=3D"top">=0D
+<table class=3D"row" style=3D"border-spacing: 0; border-collapse: collaps=
+e; vertical-align: top; text-align: left; width: 100%; position: relative=
+; display: block; background: transparent repeat center top; padding: 0px=
+;" bgcolor=3D"transparent">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"wrapper first " style=3D"word-break: break-word; -webkit-hyp=
+hens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse =
+!important; vertical-align: top; text-align: left; position: relative; co=
+lor: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: nor=
+mal; font-size: 14px; margin: 0; padding: 0px 20px 0px 0px;" align=3D"lef=
+t" valign=3D"top">=0D
+<table class=3D"three columns" style=3D"border-spacing: 0; border-collaps=
+e: collapse; vertical-align: top; text-align: left; width: 130px; margin:=
+ 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<!--[if mso]>=0D
+<table align=3D'left' style=3D'border-collapse: collapse; border-spacing:=
+ 0; overflow: hidden; border: 0; width: 100%; '>=0D
+<tr>=0D
+<td align=3D'left' style=3D'padding: 0px 0px 0px 0px;'>=0D
+<a href=3D'http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed014067c0bcae9701e028ac6442a0f7674c21'>=0D
+<img alt=3D'=D0=9D=D0=BE=D0=B2=D0=BE=D0=B5 =D0=BF=D0=BE=D0=BA=D0=BE=D0=BB=
+=D0=B5=D0=BD=D0=B8=D0=B5 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D1=8B =D1=81=D0=B5=
+=D1=80=D1=82=D0=B8=D1=84=D0=B8=D1=86=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=
+=BE =D0=A4=D0=A1=D0=A2=D0=AD=D0=9A' src=3D'https://img.msndr.net/content/=
+19601f7b968ea1e3ae87aa83da7d979a.png' width=3D'130'>=0D
+</a>=0D
+</td>=0D
+</tr>=0D
+</table>=0D
+<![endif]-->=0D
+<!--[if !mso]>=0D
+<!---->=0D
+<div align=3D"left" style=3D"padding: 0px;">=0D
+<a href=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed014067c0bcae9701e028ac6442a0f7674c21" style=3D"color: #2ba6cb; t=
+ext-decoration: none;">=0D
+<img alt=3D"=D0=9D=D0=BE=D0=B2=D0=BE=D0=B5 =D0=BF=D0=BE=D0=BA=D0=BE=D0=BB=
+=D0=B5=D0=BD=D0=B8=D0=B5 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D1=8B =D1=81=D0=B5=
+=D1=80=D1=82=D0=B8=D1=84=D0=B8=D1=86=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=
+=BE =D0=A4=D0=A1=D0=A2=D0=AD=D0=9A" class=3D"left" height=3D"84" src=3D"h=
+ttps://img.msndr.net/content/19601f7b968ea1e3ae87aa83da7d979a.png" style=3D=
+"width: 130px !important; height: 84px; outline: none; text-decoration: n=
+one; -ms-interpolation-mode: bicubic; max-width: 100%; float: left; clear=
+: both; display: block; border: none;" width=3D"130" align=3D"left">=0D
+</a>=0D
+</div>=0D
+<div class=3D"clearfix" style=3D"clear: both;"></div>=0D
+<!-- <![endif]-->=0D
+<!--[endif]---->=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+<td class=3D"wrapper last" style=3D"word-break: break-word; -webkit-hyphe=
+ns: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !i=
+mportant; vertical-align: top; text-align: left; position: relative; colo=
+r: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: norma=
+l; font-size: 14px; margin: 0; padding: 0px;" align=3D"left" valign=3D"to=
+p">=0D
+<table class=3D"nine columns" style=3D"border-spacing: 0; border-collapse=
+: collapse; vertical-align: top; text-align: left; width: 430px; margin: =
+0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<table class=3D"table-block" width=3D"100%" style=3D"border-spacing: 0; b=
+order-collapse: collapse; vertical-align: top; text-align: left; padding:=
+ 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"" style=3D"word-break: break-word; -webkit-hyphens: none; -m=
+oz-hyphens: none; hyphens: none; border-collapse: collapse !important; ve=
+rtical-align: top; text-align: left; width: 100%; color: #222222; font-fa=
+mily: Helvetica, Arial, sans-serif; font-weight: normal; font-size: 14px;=
+ background: transparent repeat center center; margin: 0; padding: 5px 10=
+px 0px 0px;" align=3D"left" bgcolor=3D"transparent" valign=3D"top">=0D
+<p style=3D"color: #222222; font-family: Helvetica, Arial, sans-serif; fo=
+nt-weight: normal; font-size: 14px; text-align: left; line-height: 1.3; m=
+argin: 0 0 10px; padding: 0;" align=3D"left"><span style=3D"font-size: 12=
+px;"><strong>=D0=9D=D0=BE=D0=B2=D0=BE=D0=B5 <span style=3D"line-height: 1=
+3px;">=D0=BF=D0=BE=D0=BA=D0=BE=D0=BB=D0=B5=D0=BD=D0=B8=D0=B5</span> =D0=9E=
+=D0=A1 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0 =D1=81=D0=B5=D1=80=D1=82=D0=B8=
+=D1=84=D0=B8=D1=86=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=BE =D0=A4=D0=A1=
+=D0=A2=D0=AD=D0=9A =D0=A0=D0=BE=D1=81=D1=81=D0=B8=D0=B8<br></strong></spa=
+n><span style=3D"font-size: 12px;">=D0=9F=D0=BE =D0=BA=D0=B0=D0=BA=D0=B8=D0=
+=BC =D0=BA=D0=BB=D0=B0=D1=81=D1=81=D0=B0=D0=BC =D1=81=D0=B5=D1=80=D1=82=D0=
+=B8=D1=84=D0=B8=D1=86=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B0 =D0=9E=D0=
+=A1 =D0=B8 =D0=B3=D0=B4=D0=B5 =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B8=D1=81=
+=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C=D1=81=D1=8F =
+=D1=87=D0=B8=D1=82=D0=B0=D0=B9=D1=82=D0=B5 =D0=BD=D0=B0 =D1=81=D0=B0=D0=B9=
+=D1=82=D0=B5 <a href=3D"http://service.omprussia.ru/track/redirect/21ebb9=
+33961e12d859df0c619eed014067c0bcae9701e028ac6442a0f7674c21" style=3D"colo=
+r: #2ba6cb; text-decoration: none;">=D1=80=D0=B0=D0=B7=D1=80=D0=B0=D0=B1=D0=
+=BE=D1=82=D1=87=D0=B8=D0=BA=D0=B0</a>.<br></span></p>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+<table class=3D" hide-and-true  hide-and-true container" style=3D"border-=
+spacing: 0; border-collapse: collapse; vertical-align: top; text-align: i=
+nherit; max-width: 580px; margin: 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; color: #222222; font-family: Helvetica, Arial, =
+sans-serif; font-weight: normal; font-size: 14px; margin: 0; padding: 0;"=
+ align=3D"left" valign=3D"top">=0D
+<table class=3D"row" style=3D"border-spacing: 0; border-collapse: collaps=
+e; vertical-align: top; text-align: left; width: 100%; position: relative=
+; display: block; background: transparent repeat center top; padding: 0px=
+;" bgcolor=3D"transparent">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"wrapper first " style=3D"word-break: break-word; -webkit-hyp=
+hens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse =
+!important; vertical-align: top; text-align: left; position: relative; co=
+lor: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: nor=
+mal; font-size: 14px; margin: 0; padding: 0px 20px 0px 0px;" align=3D"lef=
+t" valign=3D"top">=0D
+<table class=3D"nine columns" style=3D"border-spacing: 0; border-collapse=
+: collapse; vertical-align: top; text-align: left; width: 430px; margin: =
+0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<hr style=3D"color: #d9d9d9; background-color: #d9d9d9; height: 1px; bord=
+er: none;">=0D
+=0D
+<table class=3D"table-block" width=3D"100%" style=3D"border-spacing: 0; b=
+order-collapse: collapse; vertical-align: top; text-align: left; padding:=
+ 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"" style=3D"word-break: break-word; -webkit-hyphens: none; -m=
+oz-hyphens: none; hyphens: none; border-collapse: collapse !important; ve=
+rtical-align: top; text-align: left; width: 100%; color: #222222; font-fa=
+mily: Helvetica, Arial, sans-serif; font-weight: normal; font-size: 14px;=
+ background: transparent repeat center center; margin: 0; padding: 15px 0=
+px 0px;" align=3D"left" bgcolor=3D"transparent" valign=3D"top">=0D
+<p style=3D"color: #222222; font-family: Helvetica, Arial, sans-serif; fo=
+nt-weight: normal; font-size: 14px; text-align: left; line-height: 1.3; m=
+argin: 0 0 10px; padding: 0;" align=3D"left"><span style=3D"font-size: 12=
+px;"><strong>=D0=91=D0=B5=D1=80=D0=B5=D0=BC Google =D0=BF=D0=BE=D0=B4&nbs=
+p;=D0=BA=D0=BE=D0=BD=D1=82=D1=80=D0=BE=D0=BB=D1=8C. =D0=9A=D0=B0=D0=BA =D0=
+=B2&nbsp;=D0=A0=D0=BE=D1=81=D1=81=D0=B8=D0=B8 =D0=BD=D0=B0=D1=83=D1=87=D0=
+=B8=D0=BB=D0=B8=D1=81=D1=8C =D1=83=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D1=8F=D1=
+=82=D1=8C Android-=D1=81=D0=BC=D0=B0=D1=80=D1=82=D1=84=D0=BE=D0=BD=D0=B0=D0=
+=BC=D0=B8</strong></span><span style=3D"font-size: 12px;"><strong><br></s=
+trong></span><span style=3D"font-size: 12px;"><a href=3D"http://service.o=
+mprussia.ru/track/redirect/21ebb933961e12d859df0c619eed0140090b28c2dbba67=
+16e18e820759bd8497" style=3D"color: #2ba6cb; text-decoration: none;">=D0=A7=
+=D0=B8=D1=82=D0=B0=D0=B9=D1=82=D0=B5</a> =D0=BE=D0=B1 =D1=8D=D1=82=D0=BE=D0=
+=BC =D0=B2 =D1=80=D0=B0=D0=B7=D0=B4=D0=B5=D0=BB=D0=B5 =C2=AB=D0=A2=D0=B5=D1=
+=85=D0=BD=D0=BE=D0=BB=D0=BE=D0=B3=D0=B8=D0=B8=C2=BB =D0=BD=D0=B0 =D0=93=D0=
+=B0=D0=B7=D0=B5=D1=82=D0=B0.=D0=A0=D1=83.<br></span></p>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+<td class=3D"wrapper last" style=3D"word-break: break-word; -webkit-hyphe=
+ns: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !i=
+mportant; vertical-align: top; text-align: left; position: relative; colo=
+r: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: norma=
+l; font-size: 14px; margin: 0; padding: 0px;" align=3D"left" valign=3D"to=
+p">=0D
+<table class=3D"three columns" style=3D"border-spacing: 0; border-collaps=
+e: collapse; vertical-align: top; text-align: left; width: 130px; margin:=
+ 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<hr style=3D"color: #d9d9d9; background-color: #d9d9d9; height: 1px; bord=
+er: none;">=0D
+=0D
+<!--[if mso]>=0D
+<table align=3D'left' style=3D'border-collapse: collapse; border-spacing:=
+ 0; overflow: hidden; border: 0; width: 100%; '>=0D
+<tr>=0D
+<td align=3D'left' style=3D'padding: 0px 0px 0px 0px;'>=0D
+<a href=3D'http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed0140090b28c2dbba6716e18e820759bd8497'>=0D
+<img alt=3D'=D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0 =D0=BD=D0=B0=D1=83=D1=87=
+=D0=B8=D0=BB=D0=B0=D1=81=D1=8C =D1=83=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D1=8F=
+=D1=82=D1=8C =D0=90=D0=BD=D0=B4=D1=80=D0=BE=D0=B8=D0=B4=D0=BE=D0=BC' src=3D=
+'https://img.msndr.net/content/da1cc981c0f8fa478ae564c6d934708a.png' widt=
+h=3D'130'>=0D
+</a>=0D
+</td>=0D
+</tr>=0D
+</table>=0D
+<![endif]-->=0D
+<!--[if !mso]>=0D
+<!---->=0D
+<div align=3D"left" style=3D"padding: 0px;">=0D
+<a href=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed0140090b28c2dbba6716e18e820759bd8497" style=3D"color: #2ba6cb; t=
+ext-decoration: none;">=0D
+<img alt=3D"=D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0 =D0=BD=D0=B0=D1=83=D1=87=
+=D0=B8=D0=BB=D0=B0=D1=81=D1=8C =D1=83=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D1=8F=
+=D1=82=D1=8C =D0=90=D0=BD=D0=B4=D1=80=D0=BE=D0=B8=D0=B4=D0=BE=D0=BC" clas=
+s=3D"left" height=3D"88" src=3D"https://img.msndr.net/content/da1cc981c0f=
+8fa478ae564c6d934708a.png" style=3D"width: 130px !important; height: 88px=
+; outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; =
+max-width: 100%; float: left; clear: both; display: block; border: none;"=
+ width=3D"130" align=3D"left">=0D
+</a>=0D
+</div>=0D
+<div class=3D"clearfix" style=3D"clear: both;"></div>=0D
+<!-- <![endif]-->=0D
+<!--[endif]---->=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+<table class=3D" hide-and-true  hide-and-true container" style=3D"border-=
+spacing: 0; border-collapse: collapse; vertical-align: top; text-align: i=
+nherit; max-width: 580px; margin: 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; color: #222222; font-family: Helvetica, Arial, =
+sans-serif; font-weight: normal; font-size: 14px; margin: 0; padding: 0;"=
+ align=3D"left" valign=3D"top">=0D
+<table class=3D"row" style=3D"border-spacing: 0; border-collapse: collaps=
+e; vertical-align: top; text-align: left; width: 100%; position: relative=
+; display: block; background: transparent repeat center top; padding: 0px=
+;" bgcolor=3D"transparent">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"wrapper first " style=3D"word-break: break-word; -webkit-hyp=
+hens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse =
+!important; vertical-align: top; text-align: left; position: relative; co=
+lor: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: nor=
+mal; font-size: 14px; margin: 0; padding: 0px 20px 0px 0px;" align=3D"lef=
+t" valign=3D"top">=0D
+<table class=3D"nine columns" style=3D"border-spacing: 0; border-collapse=
+: collapse; vertical-align: top; text-align: left; width: 430px; margin: =
+0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<table class=3D"table-block" width=3D"100%" style=3D"border-spacing: 0; b=
+order-collapse: collapse; vertical-align: top; text-align: left; padding:=
+ 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"" style=3D"word-break: break-word; -webkit-hyphens: none; -m=
+oz-hyphens: none; hyphens: none; border-collapse: collapse !important; ve=
+rtical-align: top; text-align: left; width: 100%; color: #222222; font-fa=
+mily: Helvetica, Arial, sans-serif; font-weight: normal; font-size: 14px;=
+ background: transparent repeat center center; margin: 0; padding: 0px;" =
+align=3D"left" bgcolor=3D"transparent" valign=3D"top">=0D
+<p style=3D"color: #222222; font-family: Helvetica, Arial, sans-serif; fo=
+nt-weight: normal; font-size: 14px; text-align: left; line-height: 1.3; m=
+argin: 0 0 10px; padding: 0;" align=3D"left"><span style=3D"font-size: 12=
+px;"><strong>=D0=94=D0=BE=D0=B7=D0=BE=D1=80 =C2=AB=D0=90=D0=B2=D1=80=D0=BE=
+=D1=80=D1=8B=C2=BB. =D0=A2=D0=B5=D1=81=D1=82-=D0=B4=D1=80=D0=B0=D0=B9=D0=B2=
+ =D0=BE=D1=82=D0=B5=D1=87=D0=B5=D1=81=D1=82=D0=B2=D0=B5=D0=BD=D0=BD=D0=BE=
+=D0=B9 <span style=3D"line-height: 10px;">=D0=BE=D0=BF=D0=B5=D1=80=D0=B0=D1=
+=86=D0=B8=D0=BE=D0=BD=D0=BD<span style=3D"line-height: 9px;">=D0=BE=D0=B9=
+</span></span><span style=3D"line-height: 9px;"> =D1=81=D0=B8=D1=81=D1=82=
+=D0=B5=D0=BC=D1=8B </span></strong><span style=3D"line-height: 9px;"><a h=
+ref=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12d859df0c6=
+19eed01409c28f2c434477d02b6a9431ad8a9f9e5" style=3D"color: #2ba6cb; text-=
+decoration: none;">=D0=A7</a></span><span style=3D"line-height: 9px;"><a =
+href=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12d859df0c=
+619eed01409c28f2c434477d02b6a9431ad8a9f9e5" style=3D"color: #2ba6cb; text=
+-decoration: none;">=D0=B8=D1=82=D0=B0=D0=B9=D1=82=D0=B5</a></span><span =
+style=3D"line-height: 9px;"> =D0=BE=D0=B1=D0=B7=D0=BE=D1=80 =D0=B2 =D1=80=
+=D1=83=D0=B1=D1=80=D0=B8=D0=BA=D0=B5 =C2=AB=D0=91=D0=B5=D0=B7=D0=BE=D0=BF=
+=D0=B0=D1=81=D0=BD=D0=BE=D1=81=D1=82=D1=8C=C2=BB =D0=B6=D1=83=D1=80=D0=BD=
+=D0=B0=D0=BB=D0=B0 =C2=AB=D0=A6=D0=B8=D1=84=D1=80=D0=BE=D0=B2=D0=BE=D0=B9=
+</span> =D0=BE=D0=BA=D0=B5=D0=B0=D0=BD=C2=BB.<br></span></p>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+<td class=3D"wrapper last" style=3D"word-break: break-word; -webkit-hyphe=
+ns: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !i=
+mportant; vertical-align: top; text-align: left; position: relative; colo=
+r: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: norma=
+l; font-size: 14px; margin: 0; padding: 0px;" align=3D"left" valign=3D"to=
+p">=0D
+<table class=3D"three columns" style=3D"border-spacing: 0; border-collaps=
+e: collapse; vertical-align: top; text-align: left; width: 130px; margin:=
+ 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<!--[if mso]>=0D
+<table align=3D'left' style=3D'border-collapse: collapse; border-spacing:=
+ 0; overflow: hidden; border: 0; width: 100%; '>=0D
+<tr>=0D
+<td align=3D'left' style=3D'padding: 0px 0px 0px 0px;'>=0D
+<a href=3D'http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed01409c28f2c434477d02b6a9431ad8a9f9e5'>=0D
+<img alt=3D'=D0=A2=D0=B5=D1=81=D1=82-=D0=B4=D1=80=D0=B0=D0=B9=D0=B2 =D1=80=
+=D0=BE=D1=81=D1=81=D0=B8=D0=B9=D1=81=D0=BA=D0=BE=D0=B9 =D0=9E=D0=A1 =D0=90=
+=D0=B2=D1=80=D0=BE=D1=80=D1=8B' src=3D'https://img.msndr.net/content/b31d=
+4c3e78c524a2fe2d2be1cc98d5af.png' width=3D'130'>=0D
+</a>=0D
+</td>=0D
+</tr>=0D
+</table>=0D
+<![endif]-->=0D
+<!--[if !mso]>=0D
+<!---->=0D
+<div align=3D"left" style=3D"padding: 0px;">=0D
+<a href=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed01409c28f2c434477d02b6a9431ad8a9f9e5" style=3D"color: #2ba6cb; t=
+ext-decoration: none;">=0D
+<img alt=3D"=D0=A2=D0=B5=D1=81=D1=82-=D0=B4=D1=80=D0=B0=D0=B9=D0=B2 =D1=80=
+=D0=BE=D1=81=D1=81=D0=B8=D0=B9=D1=81=D0=BA=D0=BE=D0=B9 =D0=9E=D0=A1 =D0=90=
+=D0=B2=D1=80=D0=BE=D1=80=D1=8B" class=3D"left" height=3D"40" src=3D"https=
+://img.msndr.net/content/b31d4c3e78c524a2fe2d2be1cc98d5af.png" style=3D"w=
+idth: 130px !important; height: 40px; outline: none; text-decoration: non=
+e; -ms-interpolation-mode: bicubic; max-width: 100%; float: left; clear: =
+both; display: block; border: none;" width=3D"130" align=3D"left">=0D
+</a>=0D
+</div>=0D
+<div class=3D"clearfix" style=3D"clear: both;"></div>=0D
+<!-- <![endif]-->=0D
+<!--[endif]---->=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+<table class=3D" hide-and-true  hide-and-true container" style=3D"border-=
+spacing: 0; border-collapse: collapse; vertical-align: top; text-align: i=
+nherit; max-width: 580px; margin: 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; color: #222222; font-family: Helvetica, Arial, =
+sans-serif; font-weight: normal; font-size: 14px; margin: 0; padding: 0;"=
+ align=3D"left" valign=3D"top">=0D
+<table class=3D"row" style=3D"border-spacing: 0; border-collapse: collaps=
+e; vertical-align: top; text-align: left; width: 100%; position: relative=
+; display: block; background: transparent repeat center top; padding: 0px=
+;" bgcolor=3D"transparent">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"wrapper first " style=3D"word-break: break-word; -webkit-hyp=
+hens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse =
+!important; vertical-align: top; text-align: left; position: relative; co=
+lor: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: nor=
+mal; font-size: 14px; margin: 0; padding: 0px 20px 0px 0px;" align=3D"lef=
+t" valign=3D"top">=0D
+<table class=3D"three columns" style=3D"border-spacing: 0; border-collaps=
+e: collapse; vertical-align: top; text-align: left; width: 130px; margin:=
+ 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<hr style=3D"color: #d9d9d9; background-color: #d9d9d9; height: 1px; bord=
+er: none;">=0D
+=0D
+<!--[if mso]>=0D
+<table align=3D'left' style=3D'border-collapse: collapse; border-spacing:=
+ 0; overflow: hidden; border: 0; width: 100%; '>=0D
+<tr>=0D
+<td align=3D'left' style=3D'padding: 0px 0px 0px 0px;'>=0D
+<a href=3D'http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed01408f6632dd21f96c97de26234acc17275c'>=0D
+<img alt=3D'=D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D1=8D=
+=D0=BB=D0=B5=D0=BA=D1=82=D1=80=D0=BE=D0=BD=D0=BD=D0=B0=D1=8F =D0=BF=D0=BE=
+=D0=B4=D0=BF=D0=B8=D1=81=D1=8C =D0=B2 =D0=B1=D1=80=D0=B0=D1=83=D0=B7=D0=B5=
+=D1=80=D0=B5' src=3D'https://img.msndr.net/content/d88c3bf7e7b317aab2ef74=
+175e204603.jpg' width=3D'130'>=0D
+</a>=0D
+</td>=0D
+</tr>=0D
+</table>=0D
+<![endif]-->=0D
+<!--[if !mso]>=0D
+<!---->=0D
+<div align=3D"left" style=3D"padding: 0px;">=0D
+<a href=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed01408f6632dd21f96c97de26234acc17275c" style=3D"color: #2ba6cb; t=
+ext-decoration: none;">=0D
+<img alt=3D"=D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D1=8D=
+=D0=BB=D0=B5=D0=BA=D1=82=D1=80=D0=BE=D0=BD=D0=BD=D0=B0=D1=8F =D0=BF=D0=BE=
+=D0=B4=D0=BF=D0=B8=D1=81=D1=8C =D0=B2 =D0=B1=D1=80=D0=B0=D1=83=D0=B7=D0=B5=
+=D1=80=D0=B5" class=3D"left" height=3D"74" src=3D"https://img.msndr.net/c=
+ontent/d88c3bf7e7b317aab2ef74175e204603.jpg" style=3D"width: 130px !impor=
+tant; height: 74px; outline: none; text-decoration: none; -ms-interpolati=
+on-mode: bicubic; max-width: 100%; float: left; clear: both; display: blo=
+ck; border: none;" width=3D"130" align=3D"left">=0D
+</a>=0D
+</div>=0D
+<div class=3D"clearfix" style=3D"clear: both;"></div>=0D
+<!-- <![endif]-->=0D
+<!--[endif]---->=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+<td class=3D"wrapper last" style=3D"word-break: break-word; -webkit-hyphe=
+ns: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !i=
+mportant; vertical-align: top; text-align: left; position: relative; colo=
+r: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: norma=
+l; font-size: 14px; margin: 0; padding: 0px;" align=3D"left" valign=3D"to=
+p">=0D
+<table class=3D"nine columns" style=3D"border-spacing: 0; border-collapse=
+: collapse; vertical-align: top; text-align: left; width: 430px; margin: =
+0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<hr style=3D"color: #d9d9d9; background-color: #d9d9d9; height: 1px; bord=
+er: none;">=0D
+=0D
+<table class=3D"table-block" width=3D"100%" style=3D"border-spacing: 0; b=
+order-collapse: collapse; vertical-align: top; text-align: left; padding:=
+ 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"" style=3D"word-break: break-word; -webkit-hyphens: none; -m=
+oz-hyphens: none; hyphens: none; border-collapse: collapse !important; ve=
+rtical-align: top; text-align: left; width: 100%; color: #222222; font-fa=
+mily: Helvetica, Arial, sans-serif; font-weight: normal; font-size: 14px;=
+ background: transparent repeat center center; margin: 0; padding: 7px 10=
+px 0px 0px;" align=3D"left" bgcolor=3D"transparent" valign=3D"top">=0D
+<p style=3D"color: #222222; font-family: Helvetica, Arial, sans-serif; fo=
+nt-weight: normal; font-size: 14px; text-align: left; line-height: 1.3; m=
+argin: 0 0 10px; padding: 0;" align=3D"left"><span style=3D"font-size: 12=
+px;"><strong>=D0=92 =D0=9E=D0=A1 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0 =D0=
+=BF=D0=BE=D1=8F=D0=B2=D0=B8=D0=BB=D0=B0=D1=81=D1=8C =D0=BC=D0=BE=D0=B1=D0=
+=B8=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D1=8D=D0=BB=D0=B5=D0=BA=D1=82=D1=80=D0=
+=BE=D0=BD=D0=BD=D0=B0=D1=8F =D0=BF=D0=BE=D0=B4=D0=BF=D0=B8=D1=81=D1=8C =D0=
+=B2 =D0=B1=D1=80=D0=B0=D1=83=D0=B7=D0=B5=D1=80=D0=B5<br></strong></span><=
+span style=3D"font-size: 12px;">=D0=91=D1=80=D0=B0=D1=83=D0=B7=D0=B5=D1=80=
+=D0=BD=D1=8B=D0=B9 =D0=BF=D0=BB=D0=B0=D0=B3=D0=B8=D0=BD =D0=9A=D1=80=D0=B8=
+=D0=BF=D1=82=D0=BE=D0=9F=D1=80=D0=BE =D1=82=D0=B5=D0=BF=D0=B5=D1=80=D1=8C=
+ =D0=BF=D0=BE=D0=B4=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D0=B2=D0=B0=D0=B5=D1=82=
+=D1=81=D1=8F =D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=D0=BE=D0=B9 =D0=9E=
+=D0=A1 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0. <a href=3D"http://service.om=
+prussia.ru/track/redirect/21ebb933961e12d859df0c619eed01408f6632dd21f96c9=
+7de26234acc17275c" style=3D"color: #2ba6cb; text-decoration: none;">=D0=94=
+=D0=B5=D1=82=D0=B0=D0=BB=D0=B8</a><br></span></p>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+<table class=3D" hide-and-true  hide-and-true container" style=3D"border-=
+spacing: 0; border-collapse: collapse; vertical-align: top; text-align: i=
+nherit; max-width: 580px; margin: 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; color: #222222; font-family: Helvetica, Arial, =
+sans-serif; font-weight: normal; font-size: 14px; margin: 0; padding: 0;"=
+ align=3D"left" valign=3D"top">=0D
+<table class=3D"row" style=3D"border-spacing: 0; border-collapse: collaps=
+e; vertical-align: top; text-align: left; width: 100%; position: relative=
+; display: block; background: transparent repeat center top; padding: 0px=
+;" bgcolor=3D"transparent">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"wrapper first " style=3D"word-break: break-word; -webkit-hyp=
+hens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse =
+!important; vertical-align: top; text-align: left; position: relative; co=
+lor: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: nor=
+mal; font-size: 14px; margin: 0; padding: 0px 20px 0px 0px;" align=3D"lef=
+t" valign=3D"top">=0D
+<table class=3D"three columns" style=3D"border-spacing: 0; border-collaps=
+e: collapse; vertical-align: top; text-align: left; width: 130px; margin:=
+ 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<!--[if mso]>=0D
+<table align=3D'left' style=3D'border-collapse: collapse; border-spacing:=
+ 0; overflow: hidden; border: 0; width: 100%; '>=0D
+<tr>=0D
+<td align=3D'left' style=3D'padding: 0px 0px 0px 0px;'>=0D
+<a href=3D'http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed0140e31d29b7a4953e0dc3ccdcecf178f3f7'>=0D
+<img alt=3D'=D0=A0=D0=BE=D1=81=D1=82=D0=B5=D0=BB=D0=B5=D0=BA=D0=BE=D0=BC =
+=D1=80=D0=B0=D0=B7=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=B0=D0=BB =D0=BD=D0=BE=
+=D0=B2=D0=BE=D0=B5 =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=
+=D0=B5 =D0=B4=D0=BB=D1=8F =D0=9E=D0=A1 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0=
+' src=3D'https://img.msndr.net/content/1fdb98dec4df04c309b2b991160679f4.p=
+ng' width=3D'130'>=0D
+</a>=0D
+</td>=0D
+</tr>=0D
+</table>=0D
+<![endif]-->=0D
+<!--[if !mso]>=0D
+<!---->=0D
+<div align=3D"left" style=3D"padding: 0px;">=0D
+<a href=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed0140e31d29b7a4953e0dc3ccdcecf178f3f7" style=3D"color: #2ba6cb; t=
+ext-decoration: none;">=0D
+<img alt=3D"=D0=A0=D0=BE=D1=81=D1=82=D0=B5=D0=BB=D0=B5=D0=BA=D0=BE=D0=BC =
+=D1=80=D0=B0=D0=B7=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=B0=D0=BB =D0=BD=D0=BE=
+=D0=B2=D0=BE=D0=B5 =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=
+=D0=B5 =D0=B4=D0=BB=D1=8F =D0=9E=D0=A1 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0=
+" class=3D"left" height=3D"77" src=3D"https://img.msndr.net/content/1fdb9=
+8dec4df04c309b2b991160679f4.png" style=3D"width: 130px !important; height=
+: 77px; outline: none; text-decoration: none; -ms-interpolation-mode: bic=
+ubic; max-width: 100%; float: left; clear: both; display: block; border: =
+none;" width=3D"130" align=3D"left">=0D
+</a>=0D
+</div>=0D
+<div class=3D"clearfix" style=3D"clear: both;"></div>=0D
+<!-- <![endif]-->=0D
+<!--[endif]---->=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+<td class=3D"wrapper last" style=3D"word-break: break-word; -webkit-hyphe=
+ns: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !i=
+mportant; vertical-align: top; text-align: left; position: relative; colo=
+r: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: norma=
+l; font-size: 14px; margin: 0; padding: 0px;" align=3D"left" valign=3D"to=
+p">=0D
+<table class=3D"nine columns" style=3D"border-spacing: 0; border-collapse=
+: collapse; vertical-align: top; text-align: left; width: 430px; margin: =
+0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<table class=3D"table-block" width=3D"100%" style=3D"border-spacing: 0; b=
+order-collapse: collapse; vertical-align: top; text-align: left; padding:=
+ 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"" style=3D"word-break: break-word; -webkit-hyphens: none; -m=
+oz-hyphens: none; hyphens: none; border-collapse: collapse !important; ve=
+rtical-align: top; text-align: left; width: 100%; color: #222222; font-fa=
+mily: Helvetica, Arial, sans-serif; font-weight: normal; font-size: 14px;=
+ background: transparent repeat center center; margin: 0; padding: 7px 10=
+px 0px 0px;" align=3D"left" bgcolor=3D"transparent" valign=3D"top">=0D
+<p style=3D"color: #222222; font-family: Helvetica, Arial, sans-serif; fo=
+nt-weight: normal; font-size: 14px; text-align: left; line-height: 1.3; m=
+argin: 0 0 10px; padding: 0;" align=3D"left"><span style=3D"font-size: 12=
+px;"><strong>=C2=AB=D0=A0=D0=BE=D1=81=D1=82=D0=B5=D0=BB=D0=B5=D0=BA=D0=BE=
+=D0=BC=C2=BB =D1=80=D0=B0=D0=B7=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=B0=D0=BB=
+ =D0=BD=D0=BE=D0=B2=D0=BE=D0=B5 =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=
+=D0=BD=D0=B8=D0=B5 =D0=B4=D0=BB=D1=8F =D0=9E=D0=A1 =D0=90=D0=B2=D1=80=D0=BE=
+=D1=80=D0=B0<br></strong></span><span style=3D"font-size: 12px;">=D0=9E=D0=
+=BD=D0=BE =D0=B0=D0=B2=D1=82=D0=BE=D0=BC=D0=B0=D1=82=D0=B8=D0=B7=D0=B8=D1=
+=80=D1=83=D0=B5=D1=82 =D1=83=D1=87=D1=91=D1=82 =D0=B8 =D0=BC=D0=BE=D0=BD=D0=
+=B8=D1=82=D0=BE=D1=80=D0=B8=D0=BD=D0=B3 =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=D1=
+=82=D0=BE=D0=B2 =D0=BD=D0=B5=D0=B4=D0=B2=D0=B8=D0=B6=D0=B8=D0=BC=D0=BE=D1=
+=81=D1=82=D0=B8 =D0=B4=D0=BB=D1=8F =D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=D0=
+=BD=D1=8B=D1=85 =D1=83=D1=81=D1=82=D1=80=D0=BE=D0=B9=D1=81=D1=82=D0=B2 =D0=
+=BD=D0=B0 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B5. <a href=3D"http://service=
+.omprussia.ru/track/redirect/21ebb933961e12d859df0c619eed0140e31d29b7a495=
+3e0dc3ccdcecf178f3f7" style=3D"color: #2ba6cb; text-decoration: none;">=D0=
+=94=D0=B5=D1=82=D0=B0=D0=BB=D0=B8</a><br></span></p>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+<table class=3D" hide-and-true  hide-and-true container" style=3D"border-=
+spacing: 0; border-collapse: collapse; vertical-align: top; text-align: i=
+nherit; max-width: 580px; margin: 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; color: #222222; font-family: Helvetica, Arial, =
+sans-serif; font-weight: normal; font-size: 14px; margin: 0; padding: 0;"=
+ align=3D"left" valign=3D"top">=0D
+<table class=3D"row" style=3D"border-spacing: 0; border-collapse: collaps=
+e; vertical-align: top; text-align: left; width: 100%; position: relative=
+; display: block; background: transparent repeat center top; padding: 0px=
+;" bgcolor=3D"transparent">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"wrapper first " style=3D"word-break: break-word; -webkit-hyp=
+hens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse =
+!important; vertical-align: top; text-align: left; position: relative; co=
+lor: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: nor=
+mal; font-size: 14px; margin: 0; padding: 0px 20px 0px 0px;" align=3D"lef=
+t" valign=3D"top">=0D
+<table class=3D"three columns" style=3D"border-spacing: 0; border-collaps=
+e: collapse; vertical-align: top; text-align: left; width: 130px; margin:=
+ 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<!--[if mso]>=0D
+<table align=3D'left' style=3D'border-collapse: collapse; border-spacing:=
+ 0; overflow: hidden; border: 0; width: 100%; '>=0D
+<tr>=0D
+<td align=3D'left' style=3D'padding: 0px 0px 0px 0px;'>=0D
+<a href=3D'http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed01408c8f748fc025dec73d9467333671854a'>=0D
+<img alt=3D'=D0=9D=D0=BE=D0=B2=D0=B0=D1=8F =D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=
+=D0=B6=D0=BD=D0=BE=D1=81=D1=82=D1=8C =D0=B4=D0=BB=D1=8F =D1=80=D0=B0=D0=B7=
+=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D1=87=D0=B8=D0=BA=D0=BE=D0=B2 =D0=9F=D0=9E=
+ =D0=B4=D0=BB=D1=8F =D0=90=D0=B2=D1=80=D0=BE=D1=80=D1=8B 4.0' src=3D'http=
+s://img.msndr.net/content/10c8646842893517a5154ccf2efb36cc.png' width=3D'=
+130'>=0D
+</a>=0D
+</td>=0D
+</tr>=0D
+</table>=0D
+<![endif]-->=0D
+<!--[if !mso]>=0D
+<!---->=0D
+<div align=3D"left" style=3D"padding: 0px;">=0D
+<a href=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed01408c8f748fc025dec73d9467333671854a" style=3D"color: #2ba6cb; t=
+ext-decoration: none;">=0D
+<img alt=3D"=D0=9D=D0=BE=D0=B2=D0=B0=D1=8F =D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=
+=D0=B6=D0=BD=D0=BE=D1=81=D1=82=D1=8C =D0=B4=D0=BB=D1=8F =D1=80=D0=B0=D0=B7=
+=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D1=87=D0=B8=D0=BA=D0=BE=D0=B2 =D0=9F=D0=9E=
+ =D0=B4=D0=BB=D1=8F =D0=90=D0=B2=D1=80=D0=BE=D1=80=D1=8B 4.0" class=3D"le=
+ft" height=3D"77" src=3D"https://img.msndr.net/content/10c8646842893517a5=
+154ccf2efb36cc.png" style=3D"width: 130px !important; height: 77px; outli=
+ne: none; text-decoration: none; -ms-interpolation-mode: bicubic; max-wid=
+th: 100%; float: left; clear: both; display: block; border: none;" width=3D=
+"130" align=3D"left">=0D
+</a>=0D
+</div>=0D
+<div class=3D"clearfix" style=3D"clear: both;"></div>=0D
+<!-- <![endif]-->=0D
+<!--[endif]---->=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+<td class=3D"wrapper last" style=3D"word-break: break-word; -webkit-hyphe=
+ns: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !i=
+mportant; vertical-align: top; text-align: left; position: relative; colo=
+r: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: norma=
+l; font-size: 14px; margin: 0; padding: 0px;" align=3D"left" valign=3D"to=
+p">=0D
+<table class=3D"nine columns" style=3D"border-spacing: 0; border-collapse=
+: collapse; vertical-align: top; text-align: left; width: 430px; margin: =
+0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<table class=3D"table-block" width=3D"100%" style=3D"border-spacing: 0; b=
+order-collapse: collapse; vertical-align: top; text-align: left; padding:=
+ 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"" style=3D"word-break: break-word; -webkit-hyphens: none; -m=
+oz-hyphens: none; hyphens: none; border-collapse: collapse !important; ve=
+rtical-align: top; text-align: left; width: 100%; color: #222222; font-fa=
+mily: Helvetica, Arial, sans-serif; font-weight: normal; font-size: 14px;=
+ background: transparent repeat center center; margin: 0; padding: 7px 10=
+px 0px 0px;" align=3D"left" bgcolor=3D"transparent" valign=3D"top">=0D
+<p style=3D"color: #222222; font-family: Helvetica, Arial, sans-serif; fo=
+nt-weight: normal; font-size: 14px; text-align: left; line-height: 1.3; m=
+argin: 0 0 10px; padding: 0;" align=3D"left"><span style=3D"font-size: 12=
+px;"><strong>=D0=A3 =D1=80=D0=B0=D0=B7=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D1=87=
+=D0=B8=D0=BA=D0=BE=D0=B2 =D0=9F=D0=9E =D0=B4=D0=BB=D1=8F =D0=90=D0=B2=D1=80=
+=D0=BE=D1=80=D1=8B 4.0 =D0=BF=D0=BE=D1=8F=D0=B2=D0=B8=D0=BB=D0=B0=D1=81=D1=
+=8C =D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=D0=B6=D0=BD=D0=BE=D1=81=D1=82=D1=8C =D0=
+=B0=D0=B2=D1=82=D0=BE=D0=BC=D0=B0=D1=82=D0=B8=D0=B7=D0=B8=D1=80=D0=BE=D0=B2=
+=D0=B0=D1=82=D1=8C =D0=BF=D1=80=D0=BE=D1=86=D0=B5=D1=81=D1=81 =D1=80=D0=B0=
+=D0=B7=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B8 =D0=B8 =D1=83=D0=BF=D1=80=
+=D0=BE=D1=81=D1=82=D0=B8=D1=82=D1=8C =D0=BE=D1=82=D0=BB=D0=B0=D0=B4=D0=BA=
+=D1=83 =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D0=B9, =D0=B8=
+=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D1=8E=D1=89=D0=B8=D1=85 =D0=B4=
+=D0=B0=D1=82=D1=87=D0=B8=D0=BA=D0=B8 =D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=
+=D0=BD=D0=BE=D0=B3=D0=BE =D1=83=D1=81=D1=82=D1=80=D0=BE=D0=B9=D1=81=D1=82=
+=D0=B2=D0=B0</strong></span><span style=3D"font-size: 12px;">. <a href=3D=
+"http://service.omprussia.ru/track/redirect/21ebb933961e12d859df0c619eed0=
+1408c8f748fc025dec73d9467333671854a" style=3D"color: #2ba6cb; text-decora=
+tion: none;">=D0=94=D0=B5=D1=82=D0=B0=D0=BB=D0=B8</a><br></span></p>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+<table class=3D" hide-and-true  hide-and-true container" style=3D"border-=
+spacing: 0; border-collapse: collapse; vertical-align: top; text-align: i=
+nherit; max-width: 580px; margin: 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; color: #222222; font-family: Helvetica, Arial, =
+sans-serif; font-weight: normal; font-size: 14px; margin: 0; padding: 0;"=
+ align=3D"left" valign=3D"top">=0D
+<table class=3D"row" style=3D"border-spacing: 0; border-collapse: collaps=
+e; vertical-align: top; text-align: left; width: 100%; position: relative=
+; display: block; background: transparent repeat center top; padding: 0px=
+;" bgcolor=3D"transparent">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"wrapper first " style=3D"word-break: break-word; -webkit-hyp=
+hens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse =
+!important; vertical-align: top; text-align: left; position: relative; co=
+lor: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: nor=
+mal; font-size: 14px; margin: 0; padding: 0px 20px 0px 0px;" align=3D"lef=
+t" valign=3D"top">=0D
+<table class=3D"three columns" style=3D"border-spacing: 0; border-collaps=
+e: collapse; vertical-align: top; text-align: left; width: 130px; margin:=
+ 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<!--[if mso]>=0D
+<table align=3D'left' style=3D'border-collapse: collapse; border-spacing:=
+ 0; overflow: hidden; border: 0; width: 100%; '>=0D
+<tr>=0D
+<td align=3D'left' style=3D'padding: 0px 0px 0px 0px;'>=0D
+<a href=3D'http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed01406f80d4065b84c5197284d7c5df54dc4f'>=0D
+<img alt=3D'=D0=A1=D0=AD=D0=94 &quot;=D0=9F=D1=80=D0=B0=D0=BA=D1=82=D0=B8=
+=D0=BA=D0=B0&quot; =D0=B8 =D0=9E=D0=A1 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0=
+ =D1=81=D0=BE=D0=B2=D0=BC=D0=B5=D1=81=D1=82=D0=B8=D0=BC=D1=8B' src=3D'htt=
+ps://img.msndr.net/content/a83eb45ce9ce57d9a4d36ec857593a3c.png' width=3D=
+'130'>=0D
+</a>=0D
+</td>=0D
+</tr>=0D
+</table>=0D
+<![endif]-->=0D
+<!--[if !mso]>=0D
+<!---->=0D
+<div align=3D"left" style=3D"padding: 0px;">=0D
+<a href=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed01406f80d4065b84c5197284d7c5df54dc4f" style=3D"color: #2ba6cb; t=
+ext-decoration: none;">=0D
+<img alt=3D"=D0=A1=D0=AD=D0=94 &quot;=D0=9F=D1=80=D0=B0=D0=BA=D1=82=D0=B8=
+=D0=BA=D0=B0&quot; =D0=B8 =D0=9E=D0=A1 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0=
+ =D1=81=D0=BE=D0=B2=D0=BC=D0=B5=D1=81=D1=82=D0=B8=D0=BC=D1=8B" class=3D"l=
+eft" height=3D"78" src=3D"https://img.msndr.net/content/a83eb45ce9ce57d9a=
+4d36ec857593a3c.png" style=3D"width: 130px !important; height: 78px; outl=
+ine: none; text-decoration: none; -ms-interpolation-mode: bicubic; max-wi=
+dth: 100%; float: left; clear: both; display: block; border: none;" width=
+=3D"130" align=3D"left">=0D
+</a>=0D
+</div>=0D
+<div class=3D"clearfix" style=3D"clear: both;"></div>=0D
+<!-- <![endif]-->=0D
+<!--[endif]---->=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+<td class=3D"wrapper last" style=3D"word-break: break-word; -webkit-hyphe=
+ns: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !i=
+mportant; vertical-align: top; text-align: left; position: relative; colo=
+r: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: norma=
+l; font-size: 14px; margin: 0; padding: 0px;" align=3D"left" valign=3D"to=
+p">=0D
+<table class=3D"nine columns" style=3D"border-spacing: 0; border-collapse=
+: collapse; vertical-align: top; text-align: left; width: 430px; margin: =
+0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<table class=3D"table-block" width=3D"100%" style=3D"border-spacing: 0; b=
+order-collapse: collapse; vertical-align: top; text-align: left; padding:=
+ 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"" style=3D"word-break: break-word; -webkit-hyphens: none; -m=
+oz-hyphens: none; hyphens: none; border-collapse: collapse !important; ve=
+rtical-align: top; text-align: left; width: 100%; color: #222222; font-fa=
+mily: Helvetica, Arial, sans-serif; font-weight: normal; font-size: 14px;=
+ background: transparent repeat center center; margin: 0; padding: 7px 10=
+px 0px 0px;" align=3D"left" bgcolor=3D"transparent" valign=3D"top">=0D
+<p style=3D"color: #222222; font-family: Helvetica, Arial, sans-serif; fo=
+nt-weight: normal; font-size: 14px; text-align: left; line-height: 1.3; m=
+argin: 0 0 10px; padding: 0;" align=3D"left"><span style=3D"font-size: 12=
+px;"><strong>=D0=9A=D0=BE=D0=BC=D0=BF=D0=B0=D0=BD=D0=B8=D0=B8 =C2=AB=D0=A1=
+=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D1=8B =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=
+=D0=BD=D1=82=D0=BE=D0=BE=D0=B1=D0=BE=D1=80=D0=BE=D1=82=D0=B0=C2=BB =D0=B8=
+ =C2=AB=D0=9E=D1=82=D0=BA=D1=80=D1=8B=D1=82=D0=B0=D1=8F =D0=BC=D0=BE=D0=B1=
+=D0=B8=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=BF=D0=BB=D0=B0=D1=82=D1=84=D0=BE=
+=D1=80=D0=BC=D0=B0=C2=BB =D0=BF=D0=BE=D0=B4=D1=82=D0=B2=D0=B5=D1=80=D0=B4=
+=D0=B8=D0=BB=D0=B8 =D1=81=D0=BE=D0=B2=D0=BC=D0=B5=D1=81=D1=82=D0=B8=D0=BC=
+=D0=BE=D1=81=D1=82=D1=8C =D0=A1=D0=AD=D0=94 =C2=AB=D0=9F=D1=80=D0=B0=D0=BA=
+=D1=82=D0=B8=D0=BA=D0=B0=C2=BB =D0=B8 =D0=9E=D0=A1 =D0=90=D0=B2=D1=80=D0=BE=
+=D1=80=D0=B0.</strong> <a href=3D"http://service.omprussia.ru/track/redir=
+ect/21ebb933961e12d859df0c619eed01406f80d4065b84c5197284d7c5df54dc4f" sty=
+le=3D"color: #2ba6cb; text-decoration: none;">=D0=94=D0=B5=D1=82=D0=B0=D0=
+=BB=D0=B8</a><br></span></p>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+<table class=3D" hide-and-true  hide-and-true container" style=3D"border-=
+spacing: 0; border-collapse: collapse; vertical-align: top; text-align: i=
+nherit; max-width: 580px; margin: 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; color: #222222; font-family: Helvetica, Arial, =
+sans-serif; font-weight: normal; font-size: 14px; margin: 0; padding: 0;"=
+ align=3D"left" valign=3D"top">=0D
+<table class=3D"row" style=3D"border-spacing: 0; border-collapse: collaps=
+e; vertical-align: top; text-align: left; width: 100%; position: relative=
+; display: block; background: transparent repeat center top; padding: 0px=
+;" bgcolor=3D"transparent">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"wrapper first " style=3D"word-break: break-word; -webkit-hyp=
+hens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse =
+!important; vertical-align: top; text-align: left; position: relative; co=
+lor: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: nor=
+mal; font-size: 14px; margin: 0; padding: 0px 20px 0px 0px;" align=3D"lef=
+t" valign=3D"top">=0D
+<table class=3D"three columns" style=3D"border-spacing: 0; border-collaps=
+e: collapse; vertical-align: top; text-align: left; width: 130px; margin:=
+ 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<!--[if mso]>=0D
+<table align=3D'left' style=3D'border-collapse: collapse; border-spacing:=
+ 0; overflow: hidden; border: 0; width: 100%; '>=0D
+<tr>=0D
+<td align=3D'left' style=3D'padding: 0px 0px 0px 0px;'>=0D
+<a href=3D'http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed0140cf26c29525b156e4616e8260838df099'>=0D
+<img alt=3D'=D0=92 =D1=8D=D0=BA=D0=BE=D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=
+=D0=B5 =D0=9E=D0=A1 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0 =D0=BF=D0=BE=D1=8F=
+=D0=B2=D0=B8=D0=BB=D0=BE=D1=81=D1=8C =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=
+=D0=B5=D0=BD=D0=B8=D0=B5 =D0=9A=D1=80=D0=B8=D0=BF=D1=82=D0=BE=D0=90=D0=A0=
+=D0=9C =D0=93=D0=9E=D0=A1=D0=A2 =D0=B4=D0=BB=D1=8F =D0=BE=D1=80=D0=B3=D0=B0=
+=D0=BD=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8 =D0=B7=D0=B0=D1=89=D0=B8=D1=89=
+=D0=B5=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=
+=D0=BD=D1=82=D0=BE=D0=BE=D0=B1=D0=BE=D1=80=D0=BE=D1=82=D0=B0' src=3D'http=
+s://img.msndr.net/content/4f78ca08927c02691c060759009561b8.png' width=3D'=
+130'>=0D
+</a>=0D
+</td>=0D
+</tr>=0D
+</table>=0D
+<![endif]-->=0D
+<!--[if !mso]>=0D
+<!---->=0D
+<div align=3D"left" style=3D"padding: 0px;">=0D
+<a href=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed0140cf26c29525b156e4616e8260838df099" style=3D"color: #2ba6cb; t=
+ext-decoration: none;">=0D
+<img alt=3D"=D0=92 =D1=8D=D0=BA=D0=BE=D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=
+=D0=B5 =D0=9E=D0=A1 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0 =D0=BF=D0=BE=D1=8F=
+=D0=B2=D0=B8=D0=BB=D0=BE=D1=81=D1=8C =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=
+=D0=B5=D0=BD=D0=B8=D0=B5 =D0=9A=D1=80=D0=B8=D0=BF=D1=82=D0=BE=D0=90=D0=A0=
+=D0=9C =D0=93=D0=9E=D0=A1=D0=A2 =D0=B4=D0=BB=D1=8F =D0=BE=D1=80=D0=B3=D0=B0=
+=D0=BD=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8 =D0=B7=D0=B0=D1=89=D0=B8=D1=89=
+=D0=B5=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=
+=D0=BD=D1=82=D0=BE=D0=BE=D0=B1=D0=BE=D1=80=D0=BE=D1=82=D0=B0" class=3D"le=
+ft" height=3D"77" src=3D"https://img.msndr.net/content/4f78ca08927c02691c=
+060759009561b8.png" style=3D"width: 130px !important; height: 77px; outli=
+ne: none; text-decoration: none; -ms-interpolation-mode: bicubic; max-wid=
+th: 100%; float: left; clear: both; display: block; border: none;" width=3D=
+"130" align=3D"left">=0D
+</a>=0D
+</div>=0D
+<div class=3D"clearfix" style=3D"clear: both;"></div>=0D
+<!-- <![endif]-->=0D
+<!--[endif]---->=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+<td class=3D"wrapper last" style=3D"word-break: break-word; -webkit-hyphe=
+ns: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !i=
+mportant; vertical-align: top; text-align: left; position: relative; colo=
+r: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: norma=
+l; font-size: 14px; margin: 0; padding: 0px;" align=3D"left" valign=3D"to=
+p">=0D
+<table class=3D"nine columns" style=3D"border-spacing: 0; border-collapse=
+: collapse; vertical-align: top; text-align: left; width: 430px; margin: =
+0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<table class=3D"table-block" width=3D"100%" style=3D"border-spacing: 0; b=
+order-collapse: collapse; vertical-align: top; text-align: left; padding:=
+ 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"" style=3D"word-break: break-word; -webkit-hyphens: none; -m=
+oz-hyphens: none; hyphens: none; border-collapse: collapse !important; ve=
+rtical-align: top; text-align: left; width: 100%; color: #222222; font-fa=
+mily: Helvetica, Arial, sans-serif; font-weight: normal; font-size: 14px;=
+ background: transparent repeat center center; margin: 0; padding: 0px 10=
+px 0px 0px;" align=3D"left" bgcolor=3D"transparent" valign=3D"top">=0D
+<p style=3D"color: #222222; font-family: Helvetica, Arial, sans-serif; fo=
+nt-weight: normal; font-size: 14px; text-align: left; line-height: 1.3; m=
+argin: 0 0 10px; padding: 0;" align=3D"left"><span style=3D"font-size: 12=
+px;"><strong>=D0=92 =D1=8D=D0=BA=D0=BE=D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=
+=D0=B5 =D0=9E=D0=A1 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0 =D0=BF=D0=BE=D1=8F=
+=D0=B2=D0=B8=D0=BB=D0=BE=D1=81=D1=8C =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=
+=D0=B5=D0=BD=D0=B8=D0=B5 =D0=9A=D1=80=D0=B8=D0=BF=D1=82=D0=BE=D0=90=D0=A0=
+=D0=9C =D0=93=D0=9E=D0=A1=D0=A2 =D0=B4=D0=BB=D1=8F =D0=BE=D1=80=D0=B3=D0=B0=
+=D0=BD=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8 =D0=B7=D0=B0=D1=89=D0=B8=D1=89=
+=D1=91=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=
+=D0=BD=D1=82=D0=BE=D0=BE=D0=B1=D0=BE=D1=80=D0=BE=D1=82=D0=B0</strong><br>=
+=D0=9A=D0=BE=D0=BC=D0=BF=D0=B0=D0=BD=D0=B8=D1=8F =C2=AB=D0=A6=D0=B8=D1=84=
+=D1=80=D0=BE=D0=B2=D1=8B=D0=B5 =D1=82=D0=B5=D1=85=D0=BD=D0=BE=D0=BB=D0=BE=
+=D0=B3=D0=B8=D0=B8=C2=BB =D0=B2=D1=8B=D0=BF=D1=83=D1=81=D1=82=D0=B8=D0=BB=
+=D0=B0 =D0=BF=D0=B5=D1=80=D0=B2=D1=83=D1=8E =D0=B2=D0=B5=D1=80=D1=81=D0=B8=
+=D1=8E =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F =D0=9A=
+=D1=80=D0=B8=D0=BF=D1=82=D0=BE=D0=90=D0=A0=D0=9C =D0=93=D0=9E=D0=A1=D0=A2=
+ =D0=B4=D0=BB=D1=8F =D0=9E=D0=A1 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0 4.0=
+. </span><span style=3D"font-size: 12px;"><a href=3D"http://service.ompru=
+ssia.ru/track/redirect/21ebb933961e12d859df0c619eed0140cf26c29525b156e461=
+6e8260838df099" style=3D"color: #2ba6cb; text-decoration: none;">=D0=94=D0=
+=B5=D1=82=D0=B0=D0=BB=D0=B8</a><br></span></p>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+<table class=3D"container" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: inherit; max-width: 580px; marg=
+in: 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; color: #222222; font-family: Helvetica, Arial, =
+sans-serif; font-weight: normal; font-size: 14px; margin: 0; padding: 0;"=
+ align=3D"left" valign=3D"top">=0D
+<table class=3D"row" style=3D"border-spacing: 0; border-collapse: collaps=
+e; vertical-align: top; text-align: left; width: 100%; position: relative=
+; display: block; padding: 0px;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"wrapper first " style=3D"word-break: break-word; -webkit-hyp=
+hens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse =
+!important; vertical-align: top; text-align: left; position: relative; co=
+lor: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: nor=
+mal; font-size: 14px; margin: 0; padding: 0px 20px 0px 0px;" align=3D"lef=
+t" valign=3D"top">=0D
+<table class=3D"nine columns" style=3D"border-spacing: 0; border-collapse=
+: collapse; vertical-align: top; text-align: left; width: 430px; margin: =
+0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<hr style=3D"color: #d9d9d9; background-color: #d9d9d9; height: 1px; bord=
+er: none;">=0D
+=0D
+<table class=3D"table-block" width=3D"100%" style=3D"border-spacing: 0; b=
+order-collapse: collapse; vertical-align: top; text-align: left; padding:=
+ 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"" style=3D"word-break: break-word; -webkit-hyphens: none; -m=
+oz-hyphens: none; hyphens: none; border-collapse: collapse !important; ve=
+rtical-align: top; text-align: left; width: 100%; color: #222222; font-fa=
+mily: Helvetica, Arial, sans-serif; font-weight: normal; font-size: 14px;=
+ background: transparent repeat center center; margin: 0; padding: 5px 0p=
+x 0px;" align=3D"left" bgcolor=3D"transparent" valign=3D"top">=0D
+<p style=3D"color: #222222; font-family: Helvetica, Arial, sans-serif; fo=
+nt-weight: normal; font-size: 14px; text-align: left; line-height: 1.3; m=
+argin: 0 0 10px; padding: 0;" align=3D"left"><span style=3D"font-size: 12=
+px;"><strong>=D0=AD=D0=BA=D1=81=D0=BF=D0=B5=D1=80=D1=82=D1=8B =D0=9E=D1=82=
+=D0=BA=D1=80=D1=8B=D1=82=D0=BE=D0=B9 =D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=
+=D0=BD=D0=BE=D0=B9 =D0=BF=D0=BB=D0=B0=D1=82=D1=84=D0=BE=D1=80=D0=BC=D1=8B=
+ =D0=B2=D1=8B=D1=81=D1=82=D1=83=D0=BF=D1=8F=D1=82 =D0=BD=D0=B0 =D0=BA=D1=80=
+=D1=83=D0=BF=D0=BD=D0=B5=D0=B9=D1=88=D0=B5=D0=B9 =D0=B5=D0=B6=D0=B5=D0=B3=
+=D0=BE=D0=B4=D0=BD=D0=BE=D0=B9 =D0=BA=D0=BE=D0=BD=D1=84=D0=B5=D1=80=D0=B5=
+=D0=BD=D1=86=D0=B8=D0=B8 =D0=BF=D0=BE =D1=82=D1=80=D0=B5=D0=BD=D0=B4=D0=B0=
+=D0=BC IT =D0=B8 =D0=BA=D1=80=D0=BE=D1=81=D1=81=D0=BF=D0=BB=D0=B0=D1=82=D1=
+=84=D0=BE=D1=80=D0=BC=D0=B5=D0=BD=D0=BD=D0=BE=D0=B9 =D1=80=D0=B0=D0=B7=D1=
+=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B5.</strong> <br></span><span style=3D=
+"font-size: 12px;"><a href=3D"http://service.omprussia.ru/track/redirect/=
+21ebb933961e12d859df0c619eed0140c18e48f7a18fc9c33f26463b0fbc308b" style=3D=
+"color: #2ba6cb; text-decoration: none;"><span style=3D"color: #000000;">=
+9-10 =D1=81=D0=B5=D0=BD=D1=82=D1=8F=D0=B1=D1=80=D1=8F =D0=B2 =D0=98=D0=BD=
+=D0=BD=D0=BE=D0=BF=D0=BE=D0=BB=D0=B8=D1=81=D0=B5 =D1=81=D0=BE=D1=81=D1=82=
+=D0=BE=D0=B8=D1=82=D1=81=D1=8F</span> <span style=3D"color: #000000;">Cro=
+ssConf</span>. =D0=A2=D0=B5=D0=B7=D0=B8=D1=81=D1=8B =D0=B2=D1=8B=D1=81=D1=
+=82=D1=83=D0=BF=D0=BB=D0=B5=D0=BD=D0=B8=D0=B9</a><br></span></p>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+<td class=3D"wrapper last" style=3D"word-break: break-word; -webkit-hyphe=
+ns: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !i=
+mportant; vertical-align: top; text-align: left; position: relative; colo=
+r: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: norma=
+l; font-size: 14px; margin: 0; padding: 0px;" align=3D"left" valign=3D"to=
+p">=0D
+<table class=3D"three columns" style=3D"border-spacing: 0; border-collaps=
+e: collapse; vertical-align: top; text-align: left; width: 130px; margin:=
+ 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<hr style=3D"color: #d9d9d9; background-color: #d9d9d9; height: 1px; bord=
+er: none;">=0D
+=0D
+<!--[if mso]>=0D
+<table align=3D'left' style=3D'border-collapse: collapse; border-spacing:=
+ 0; overflow: hidden; border: 0; width: 100%; '>=0D
+<tr>=0D
+<td align=3D'left' style=3D'padding: 0px 0px 0px 0px;'>=0D
+<a href=3D'http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed0140c18e48f7a18fc9c33f26463b0fbc308b'>=0D
+<img alt=3D'=D0=9E=D1=82=D0=BA=D1=80=D1=8B=D1=82=D0=B0=D1=8F =D0=BC=D0=BE=
+=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=BF=D0=BB=D0=B0=D1=82=D1=84=
+=D0=BE=D1=80=D0=BC=D0=B0 =D0=BD=D0=B0 CrossConf' src=3D'https://img.msndr=
+.net/content/399a4dd66b57fc7fa73284cc79322e66.png' width=3D'130'>=0D
+</a>=0D
+</td>=0D
+</tr>=0D
+</table>=0D
+<![endif]-->=0D
+<!--[if !mso]>=0D
+<!---->=0D
+<div align=3D"left" style=3D"padding: 0px;">=0D
+<a href=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed0140c18e48f7a18fc9c33f26463b0fbc308b" style=3D"color: #2ba6cb; t=
+ext-decoration: none;">=0D
+<img alt=3D"=D0=9E=D1=82=D0=BA=D1=80=D1=8B=D1=82=D0=B0=D1=8F =D0=BC=D0=BE=
+=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=BF=D0=BB=D0=B0=D1=82=D1=84=
+=D0=BE=D1=80=D0=BC=D0=B0 =D0=BD=D0=B0 CrossConf" class=3D"left" height=3D=
+"68" src=3D"https://img.msndr.net/content/399a4dd66b57fc7fa73284cc79322e6=
+6.png" style=3D"width: 130px !important; height: 68px; outline: none; tex=
+t-decoration: none; -ms-interpolation-mode: bicubic; max-width: 100%; flo=
+at: left; clear: both; display: block; border: none;" width=3D"130" align=
+=3D"left">=0D
+</a>=0D
+</div>=0D
+<div class=3D"clearfix" style=3D"clear: both;"></div>=0D
+<!-- <![endif]-->=0D
+<!--[endif]---->=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+<table class=3D"container" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: inherit; max-width: 580px; marg=
+in: 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; color: #222222; font-family: Helvetica, Arial, =
+sans-serif; font-weight: normal; font-size: 14px; margin: 0; padding: 0;"=
+ align=3D"left" valign=3D"top">=0D
+<table class=3D"row" style=3D"border-spacing: 0; border-collapse: collaps=
+e; vertical-align: top; text-align: left; width: 100%; position: relative=
+; display: block; padding: 0px;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"wrapper first " style=3D"word-break: break-word; -webkit-hyp=
+hens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse =
+!important; vertical-align: top; text-align: left; position: relative; co=
+lor: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: nor=
+mal; font-size: 14px; margin: 0; padding: 0px 20px 0px 0px;" align=3D"lef=
+t" valign=3D"top">=0D
+<table class=3D"nine columns" style=3D"border-spacing: 0; border-collapse=
+: collapse; vertical-align: top; text-align: left; width: 430px; margin: =
+0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<table class=3D"table-block" width=3D"100%" style=3D"border-spacing: 0; b=
+order-collapse: collapse; vertical-align: top; text-align: left; padding:=
+ 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"" style=3D"word-break: break-word; -webkit-hyphens: none; -m=
+oz-hyphens: none; hyphens: none; border-collapse: collapse !important; ve=
+rtical-align: top; text-align: left; width: 100%; color: #222222; font-fa=
+mily: Helvetica, Arial, sans-serif; font-weight: normal; font-size: 14px;=
+ background: transparent repeat center center; margin: 0; padding: 8px 0p=
+x 0px;" align=3D"left" bgcolor=3D"transparent" valign=3D"top">=0D
+<p style=3D"color: #222222; font-family: Helvetica, Arial, sans-serif; fo=
+nt-weight: normal; font-size: 14px; text-align: left; line-height: 1.3; m=
+argin: 0 0 10px; padding: 0;" align=3D"left"><span style=3D"font-size: 12=
+px;"><strong>=D0=A3=D1=87=D0=B0=D1=81=D1=82=D0=BD=D0=B8=D0=BA=D0=B0=D0=BC=
+ =D0=9E=D0=9A=D0=98=D0=A2 2022 =D1=80=D0=B5=D0=BA=D0=BE=D0=BC=D0=B5=D0=BD=
+=D0=B4=D0=BE=D0=B2=D0=B0=D0=BB=D0=B8 =D0=BF=D0=BB=D0=B0=D1=82=D1=84=D0=BE=
+=D1=80=D0=BC=D1=83 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0</strong><br></spa=
+n><span style=3D"font-size: 12px;"><span style=3D"color: #000000;">=D0=9E=
+=D0=BF=D1=8B=D1=82 =D0=B2=D0=BD=D0=B5=D0=B4=D1=80=D0=B5=D0=BD=D0=B8=D1=8F=
+ =D0=BD=D0=B0 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B5 =D0=BF=D1=80=D0=B5=D0=B4=
+=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD =D0=BA=D1=80=D1=83=D0=BF=D0=BD=
+=D0=B5=D0=B9=D1=88=D0=B8=D0=BC =D1=8D=D0=BD=D0=B5=D1=80=D0=B3=D0=B5=D1=82=
+=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8=D0=BC =D0=BA=D0=BE=D0=BC=D0=BF=D0=B0=
+=D0=BD=D0=B8=D1=8F=D0=BC =D0=A0=D0=BE=D1=81=D1=81=D0=B8=D0=B8</span>. <a =
+href=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12d859df0c=
+619eed0140b3c77ca08f160f332a742fba4d009d04" style=3D"color: #2ba6cb; text=
+-decoration: none;">=D0=A7=D0=B8=D1=82=D0=B0=D1=82=D1=8C</a><br></span></=
+p>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+<td class=3D"wrapper last" style=3D"word-break: break-word; -webkit-hyphe=
+ns: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !i=
+mportant; vertical-align: top; text-align: left; position: relative; colo=
+r: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: norma=
+l; font-size: 14px; margin: 0; padding: 0px;" align=3D"left" valign=3D"to=
+p">=0D
+<table class=3D"three columns" style=3D"border-spacing: 0; border-collaps=
+e: collapse; vertical-align: top; text-align: left; width: 130px; margin:=
+ 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<!--[if mso]>=0D
+<table align=3D'left' style=3D'border-collapse: collapse; border-spacing:=
+ 0; overflow: hidden; border: 0; width: 100%; '>=0D
+<tr>=0D
+<td align=3D'left' style=3D'padding: 0px 0px 0px 0px;'>=0D
+<a href=3D'http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed0140b3c77ca08f160f332a742fba4d009d04'>=0D
+<img alt=3D'=D0=A3=D1=87=D0=B0=D1=81=D1=82=D0=BD=D0=B8=D0=BA=D0=B0=D0=BC =
+=D0=9E=D0=9A=D0=98=D0=A2 2022 =D1=80=D0=B5=D0=BA=D0=BE=D0=BC=D0=B5=D0=BD=D0=
+=B4=D0=BE=D0=B2=D0=B0=D0=BB=D0=B8 =D0=BF=D0=BB=D0=B0=D1=82=D1=84=D0=BE=D1=
+=80=D0=BC=D1=83 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0' src=3D'https://img.=
+msndr.net/content/123e688cb41f44bad334ea5301050e72.png' width=3D'130'>=0D=
+
+</a>=0D
+</td>=0D
+</tr>=0D
+</table>=0D
+<![endif]-->=0D
+<!--[if !mso]>=0D
+<!---->=0D
+<div align=3D"left" style=3D"padding: 0px;">=0D
+<a href=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed0140b3c77ca08f160f332a742fba4d009d04" style=3D"color: #2ba6cb; t=
+ext-decoration: none;">=0D
+<img alt=3D"=D0=A3=D1=87=D0=B0=D1=81=D1=82=D0=BD=D0=B8=D0=BA=D0=B0=D0=BC =
+=D0=9E=D0=9A=D0=98=D0=A2 2022 =D1=80=D0=B5=D0=BA=D0=BE=D0=BC=D0=B5=D0=BD=D0=
+=B4=D0=BE=D0=B2=D0=B0=D0=BB=D0=B8 =D0=BF=D0=BB=D0=B0=D1=82=D1=84=D0=BE=D1=
+=80=D0=BC=D1=83 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0" class=3D"left" heig=
+ht=3D"76" src=3D"https://img.msndr.net/content/123e688cb41f44bad334ea5301=
+050e72.png" style=3D"width: 130px !important; height: 76px; outline: none=
+; text-decoration: none; -ms-interpolation-mode: bicubic; max-width: 100%=
+; float: left; clear: both; display: block; border: none;" width=3D"130" =
+align=3D"left">=0D
+</a>=0D
+</div>=0D
+<div class=3D"clearfix" style=3D"clear: both;"></div>=0D
+<!-- <![endif]-->=0D
+<!--[endif]---->=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+<table class=3D"container" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: inherit; max-width: 580px; marg=
+in: 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; color: #222222; font-family: Helvetica, Arial, =
+sans-serif; font-weight: normal; font-size: 14px; margin: 0; padding: 0;"=
+ align=3D"left" valign=3D"top">=0D
+<table class=3D"row" style=3D"border-spacing: 0; border-collapse: collaps=
+e; vertical-align: top; text-align: left; width: 100%; position: relative=
+; display: block; padding: 0px;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"wrapper first " style=3D"word-break: break-word; -webkit-hyp=
+hens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse =
+!important; vertical-align: top; text-align: left; position: relative; co=
+lor: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: nor=
+mal; font-size: 14px; margin: 0; padding: 0px 20px 0px 0px;" align=3D"lef=
+t" valign=3D"top">=0D
+<table class=3D"nine columns" style=3D"border-spacing: 0; border-collapse=
+: collapse; vertical-align: top; text-align: left; width: 430px; margin: =
+0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<table class=3D"table-block" width=3D"100%" style=3D"border-spacing: 0; b=
+order-collapse: collapse; vertical-align: top; text-align: left; padding:=
+ 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"" style=3D"word-break: break-word; -webkit-hyphens: none; -m=
+oz-hyphens: none; hyphens: none; border-collapse: collapse !important; ve=
+rtical-align: top; text-align: left; width: 100%; color: #222222; font-fa=
+mily: Helvetica, Arial, sans-serif; font-weight: normal; font-size: 14px;=
+ background: transparent repeat center center; margin: 0; padding: 8px 0p=
+x 0px;" align=3D"left" bgcolor=3D"transparent" valign=3D"top">=0D
+<p style=3D"color: #222222; font-family: Helvetica, Arial, sans-serif; fo=
+nt-weight: normal; font-size: 14px; text-align: left; line-height: 1.3; m=
+argin: 0 0 10px; padding: 0;" align=3D"left"><span style=3D"font-size: 12=
+px;"><strong>=D0=AD=D0=BA=D1=81=D0=BF=D0=B5=D1=80=D1=82=D0=B8=D0=B7=D0=B0=
+ =D0=9E=D1=82=D0=BA=D1=80=D1=8B=D1=82=D0=B0=D0=BE=D0=B9 =D0=BC=D0=BE=D0=B1=
+=D0=B8=D0=BB=D1=8C=D0=BD=D0=BE=D0=B9 =D0=BF=D0=BB=D0=B0=D1=82=D1=84=D0=BE=
+=D1=80=D0=BC=D1=8B =D0=BF=D1=80=D0=B5=D0=B4=D1=81=D1=82=D0=B0=D0=B2=D0=BB=
+=D0=B5=D0=BD=D0=B0 =D0=B2 =D1=80=D0=B0=D0=BC=D0=BA=D0=B0=D1=85 =D0=BD=D0=B0=
+=D1=83=D1=87=D0=BD=D0=BE-=D0=BF=D1=80=D0=B0=D0=BA=D1=82=D0=B8=D1=87=D0=B5=
+=D1=81=D0=BA=D0=BE=D0=B9 =D0=BA=D0=BE=D0=BD=D1=84=D0=B5=D1=80=D0=B5=D0=BD=
+=D1=86=D0=B8=D0=B8 OS DAY 2022</strong><br></span><span style=3D"font-siz=
+e: 12px;">=D0=AD=D0=BA=D1=81=D0=BF=D0=B5=D1=80=D1=82=D1=8B =D0=BE=D0=B1=D1=
+=81=D1=83=D0=B6=D0=B4=D0=B0=D0=BB=D0=B8 =D0=B1=D0=B5=D0=B7=D0=BE=D0=BF=D0=
+=B0=D1=81=D0=BD=D0=BE=D1=81=D1=82=D1=8C =D0=9E=D0=A1.<a href=3D"http://se=
+rvice.omprussia.ru/track/redirect/21ebb933961e12d859df0c619eed01407d1bf58=
+d96e361ac053fda9a68c1e70c" style=3D"color: #2ba6cb; text-decoration: none=
+;"> =D0=A7=D0=B8=D1=82=D0=B0=D1=82=D1=8C</a><br></span></p>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+<td class=3D"wrapper last" style=3D"word-break: break-word; -webkit-hyphe=
+ns: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !i=
+mportant; vertical-align: top; text-align: left; position: relative; colo=
+r: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: norma=
+l; font-size: 14px; margin: 0; padding: 0px;" align=3D"left" valign=3D"to=
+p">=0D
+<table class=3D"three columns" style=3D"border-spacing: 0; border-collaps=
+e: collapse; vertical-align: top; text-align: left; width: 130px; margin:=
+ 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<!--[if mso]>=0D
+<table align=3D'left' style=3D'border-collapse: collapse; border-spacing:=
+ 0; overflow: hidden; border: 0; width: 100%; '>=0D
+<tr>=0D
+<td align=3D'left' style=3D'padding: 0px 0px 0px 0px;'>=0D
+<a href=3D'http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed01407d1bf58d96e361ac053fda9a68c1e70c'>=0D
+<img alt=3D'=D0=9E=D1=82=D0=BA=D1=80=D1=8B=D1=82=D0=B0=D1=8F =D0=BC=D0=BE=
+=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=BF=D0=BB=D0=B0=D1=82=D1=84=
+=D0=BE=D1=80=D0=BC=D0=B0 =D0=BD=D0=B0 OS Day' src=3D'https://img.msndr.ne=
+t/content/60f9af992c5d2f40adeaf7bd586c02ec.png' width=3D'130'>=0D
+</a>=0D
+</td>=0D
+</tr>=0D
+</table>=0D
+<![endif]-->=0D
+<!--[if !mso]>=0D
+<!---->=0D
+<div align=3D"left" style=3D"padding: 0px;">=0D
+<a href=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed01407d1bf58d96e361ac053fda9a68c1e70c" style=3D"color: #2ba6cb; t=
+ext-decoration: none;">=0D
+<img alt=3D"=D0=9E=D1=82=D0=BA=D1=80=D1=8B=D1=82=D0=B0=D1=8F =D0=BC=D0=BE=
+=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=BF=D0=BB=D0=B0=D1=82=D1=84=
+=D0=BE=D1=80=D0=BC=D0=B0 =D0=BD=D0=B0 OS Day" class=3D"left" height=3D"73=
+" src=3D"https://img.msndr.net/content/60f9af992c5d2f40adeaf7bd586c02ec.p=
+ng" style=3D"width: 130px !important; height: 73px; outline: none; text-d=
+ecoration: none; -ms-interpolation-mode: bicubic; max-width: 100%; float:=
+ left; clear: both; display: block; border: none;" width=3D"130" align=3D=
+"left">=0D
+</a>=0D
+</div>=0D
+<div class=3D"clearfix" style=3D"clear: both;"></div>=0D
+<!-- <![endif]-->=0D
+<!--[endif]---->=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+<table class=3D" hide-and-true  hide-and-true container" style=3D"border-=
+spacing: 0; border-collapse: collapse; vertical-align: top; text-align: i=
+nherit; max-width: 580px; margin: 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; color: #222222; font-family: Helvetica, Arial, =
+sans-serif; font-weight: normal; font-size: 14px; margin: 0; padding: 0;"=
+ align=3D"left" valign=3D"top">=0D
+<table class=3D"row" style=3D"border-spacing: 0; border-collapse: collaps=
+e; vertical-align: top; text-align: left; width: 100%; position: relative=
+; display: block; background: transparent repeat center top; padding: 0px=
+;" bgcolor=3D"transparent">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"wrapper first " style=3D"word-break: break-word; -webkit-hyp=
+hens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse =
+!important; vertical-align: top; text-align: left; position: relative; co=
+lor: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: nor=
+mal; font-size: 14px; margin: 0; padding: 0px 20px 0px 0px;" align=3D"lef=
+t" valign=3D"top">=0D
+<table class=3D"three columns" style=3D"border-spacing: 0; border-collaps=
+e: collapse; vertical-align: top; text-align: left; width: 130px; margin:=
+ 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<hr style=3D"color: #d9d9d9; background-color: #d9d9d9; height: 1px; bord=
+er: none;">=0D
+=0D
+<!--[if mso]>=0D
+<table align=3D'left' style=3D'border-collapse: collapse; border-spacing:=
+ 0; overflow: hidden; border: 0; width: 100%; '>=0D
+<tr>=0D
+<td align=3D'left' style=3D'padding: 5px 0px 0px 0px;'>=0D
+<a href=3D'http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed014013d993684d2eb1ac91b7f8dff0e9a464'>=0D
+<img alt=3D'=C2=AB=D0=9C=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9 =
+=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=D1=87=D0=B8=D0=BA. =C2=AB=D0=98=D0=BD=D1=82=
+=D0=B5=D1=80 =D0=A0=D0=90=D0=9E =E2=80=93 =D0=AD=D0=BB=D0=B5=D0=BA=D1=82=D1=
+=80=D0=BE=D0=B3=D0=B5=D0=BD=D0=B5=D1=80=D0=B0=D1=86=D0=B8=D1=8F=C2=BB. =D0=
+=A1=D0=BC=D0=BE=D1=82=D1=80=D0=B8=D1=82=D0=B5 =D0=B2=D0=B8=D0=B4=D0=B5=D0=
+=BE' src=3D'https://img.msndr.net/content/26bddbf4a221fb6be2ecf282725cfd2=
+6.png' width=3D'130'>=0D
+</a>=0D
+</td>=0D
+</tr>=0D
+</table>=0D
+<![endif]-->=0D
+<!--[if !mso]>=0D
+<!---->=0D
+<div align=3D"left" style=3D"padding: 5px 0px 0px;">=0D
+<a href=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed014013d993684d2eb1ac91b7f8dff0e9a464" style=3D"color: #2ba6cb; t=
+ext-decoration: none;">=0D
+<img alt=3D"=C2=AB=D0=9C=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9 =
+=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=D1=87=D0=B8=D0=BA. =C2=AB=D0=98=D0=BD=D1=82=
+=D0=B5=D1=80 =D0=A0=D0=90=D0=9E =E2=80=93 =D0=AD=D0=BB=D0=B5=D0=BA=D1=82=D1=
+=80=D0=BE=D0=B3=D0=B5=D0=BD=D0=B5=D1=80=D0=B0=D1=86=D0=B8=D1=8F=C2=BB. =D0=
+=A1=D0=BC=D0=BE=D1=82=D1=80=D0=B8=D1=82=D0=B5 =D0=B2=D0=B8=D0=B4=D0=B5=D0=
+=BE" class=3D"left" height=3D"68" src=3D"https://img.msndr.net/content/26=
+bddbf4a221fb6be2ecf282725cfd26.png" style=3D"width: 130px !important; hei=
+ght: 68px; outline: none; text-decoration: none; -ms-interpolation-mode: =
+bicubic; max-width: 100%; float: left; clear: both; display: block; borde=
+r: none;" width=3D"130" align=3D"left">=0D
+</a>=0D
+</div>=0D
+<div class=3D"clearfix" style=3D"clear: both;"></div>=0D
+<!-- <![endif]-->=0D
+<!--[endif]---->=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+<td class=3D"wrapper last" style=3D"word-break: break-word; -webkit-hyphe=
+ns: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !i=
+mportant; vertical-align: top; text-align: left; position: relative; colo=
+r: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: norma=
+l; font-size: 14px; margin: 0; padding: 0px;" align=3D"left" valign=3D"to=
+p">=0D
+<table class=3D"nine columns" style=3D"border-spacing: 0; border-collapse=
+: collapse; vertical-align: top; text-align: left; width: 430px; margin: =
+0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<hr style=3D"color: #d9d9d9; background-color: #d9d9d9; height: 1px; bord=
+er: none;">=0D
+=0D
+<table class=3D"table-block" width=3D"100%" style=3D"border-spacing: 0; b=
+order-collapse: collapse; vertical-align: top; text-align: left; padding:=
+ 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"" style=3D"word-break: break-word; -webkit-hyphens: none; -m=
+oz-hyphens: none; hyphens: none; border-collapse: collapse !important; ve=
+rtical-align: top; text-align: left; width: 100%; color: #222222; font-fa=
+mily: Helvetica, Arial, sans-serif; font-weight: normal; font-size: 14px;=
+ background: transparent repeat center center; margin: 0; padding: 5px 10=
+px 0px 0px;" align=3D"left" bgcolor=3D"transparent" valign=3D"top">=0D
+<p style=3D"color: #222222; font-family: Helvetica, Arial, sans-serif; fo=
+nt-weight: normal; font-size: 14px; text-align: left; line-height: 1.3; m=
+argin: 0 0 10px; padding: 0;" align=3D"left"><span style=3D"font-size: 12=
+px;"><strong>=D0=A1=D0=BC=D0=BE=D1=82=D1=80=D0=B8=D1=82=D0=B5 =D0=B2=D0=B8=
+=D0=B4=D0=B5=D0=BE =C2=AB=D0=9C=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=D1=8B=
+=D0=B9 =D0=BE=D0=B1=D1=85=D0=BE=D0=B4=D1=87=D0=B8=D0=BA. =C2=AB=D0=98=D0=BD=
+=D1=82=D0=B5=D1=80 =D0=A0=D0=90=D0=9E =E2=80=93 =D0=AD=D0=BB=D0=B5=D0=BA=D1=
+=82=D1=80=D0=BE=D0=B3=D0=B5=D0=BD=D0=B5=D1=80=D0=B0=D1=86=D0=B8=D1=8F=C2=BB=
+.<br> </strong>=D0=9E =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D0=B5 =D0=B0=D0=
+=B2=D1=82=D0=BE=D0=BC=D0=B0=D1=82=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8 =D1=
+=82=D0=B5=D1=85=D0=BD=D0=BE=D0=BB=D0=BE=D0=B3=D0=B8=D1=87=D0=B5=D1=81=D0=BA=
+=D0=B8=D1=85 =D0=BE=D0=B1=D1=85=D0=BE=D0=B4=D0=BE=D0=B2 =D0=B8 =D0=BE=D1=81=
+=D0=BC=D0=BE=D1=82=D1=80=D0=BE=D0=B2 =D0=BE=D0=B1=D0=BE=D1=80=D1=83=D0=B4=
+=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D0=B2 =C2=AB=D0=98=D0=BD=D1=82=D0=B5=
+=D1=80 =D0=A0=D0=90=D0=9E =E2=80=93 =D0=AD=D0=BB=D0=B5=D0=BA=D1=82=D1=80=D0=
+=BE=D0=B3=D0=B5=D0=BD=D0=B5=D1=80=D0=B0=D1=86=D0=B8=D1=8F=C2=BB =D0=BD=D0=
+=B0 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B5. <a href=3D"http://service.ompru=
+ssia.ru/track/redirect/21ebb933961e12d859df0c619eed014013d993684d2eb1ac91=
+b7f8dff0e9a464" style=3D"color: #2ba6cb; text-decoration: none;">=D0=A1=D0=
+=BC=D0=BE=D1=82=D1=80=D0=B5=D1=82=D1=8C</a></span><span style=3D"font-siz=
+e: 12px;"><br></span></p>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+<table class=3D"container" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: inherit; max-width: 580px; marg=
+in: 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; color: #222222; font-family: Helvetica, Arial, =
+sans-serif; font-weight: normal; font-size: 14px; margin: 0; padding: 0;"=
+ align=3D"left" valign=3D"top">=0D
+<table class=3D"row" style=3D"border-spacing: 0; border-collapse: collaps=
+e; vertical-align: top; text-align: left; width: 100%; position: relative=
+; display: block; padding: 0px;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"wrapper first " style=3D"word-break: break-word; -webkit-hyp=
+hens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse =
+!important; vertical-align: top; text-align: left; position: relative; co=
+lor: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: nor=
+mal; font-size: 14px; margin: 0; padding: 0px 20px 0px 0px;" align=3D"lef=
+t" valign=3D"top">=0D
+<table class=3D"nine columns" style=3D"border-spacing: 0; border-collapse=
+: collapse; vertical-align: top; text-align: left; width: 430px; margin: =
+0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<hr style=3D"color: #d9d9d9; background-color: #d9d9d9; height: 1px; bord=
+er: none;">=0D
+=0D
+<table class=3D"table-block" width=3D"100%" style=3D"border-spacing: 0; b=
+order-collapse: collapse; vertical-align: top; text-align: left; padding:=
+ 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"" style=3D"word-break: break-word; -webkit-hyphens: none; -m=
+oz-hyphens: none; hyphens: none; border-collapse: collapse !important; ve=
+rtical-align: top; text-align: left; width: 100%; color: #222222; font-fa=
+mily: Helvetica, Arial, sans-serif; font-weight: normal; font-size: 14px;=
+ background: transparent repeat center center; margin: 0; padding: 5px 0p=
+x 0px;" align=3D"left" bgcolor=3D"transparent" valign=3D"top">=0D
+<p style=3D"color: #222222; font-family: Helvetica, Arial, sans-serif; fo=
+nt-weight: normal; font-size: 14px; text-align: left; line-height: 1.3; m=
+argin: 0 0 10px; padding: 0;" align=3D"left"><span style=3D"font-size: 12=
+px;"><strong>=D0=9F=D1=80=D0=B8=D1=85=D0=BE=D0=B4=D0=B8=D1=82=D0=B5 =D0=BD=
+=D0=B0 =D0=B2=D0=B5=D0=B1=D0=B8=D0=BD=D0=B0=D1=80 =C2=AB=D0=97=D0=B0=D1=89=
+=D0=B8=D1=89=D1=91=D0=BD=D0=BD=D1=8B=D0=B5 =D0=BA=D0=BE=D0=BC=D0=BC=D1=83=
+=D0=BD=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=D0=B8 =D0=BD=D0=B0 =D0=BF=D0=BB=D0=B0=
+=D1=82=D1=84=D0=BE=D1=80=D0=BC=D0=B5 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0=
+</strong>=C2=BB<br></span><span style=3D"font-size: 12px;"><span style=3D=
+"color: #000000;">9 =D1=81=D0=B5=D0=BD=D1=82=D1=8F=D0=B1=D1=80=D1=8F =D1=80=
+=D0=B0=D1=81=D1=81=D0=BA=D0=B0=D0=B6=D0=B5=D0=BC =D0=BE =D0=BF=D1=80=D0=B8=
+=D0=BD=D1=86=D0=B8=D0=BF=D0=B0=D1=85 =D0=B8=D1=85 =D0=BF=D0=BE=D1=81=D1=82=
+=D1=80=D0=BE=D0=B5=D0=BD=D0=B8=D1=8F =D0=B4=D0=BB=D1=8F =D0=BE=D0=B1=D1=89=
+=D0=B5=D0=BD=D0=B8=D1=8F =D0=B3=D0=BE=D0=BB=D0=BE=D1=81=D0=BE=D0=BC, =D0=BE=
+=D0=B1=D0=BC=D0=B5=D0=BD=D0=B0 =D0=BF=D0=BE=D1=87=D1=82=D0=BE=D0=B2=D1=8B=
+=D0=BC=D0=B8 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F=D0=BC=
+=D0=B8 =D0=B8 =D0=B2=D0=B5=D0=B1-=D1=82=D1=80=D0=B0=D1=84=D0=B8=D0=BA=D0=BE=
+=D0=BC</span>. <a href=3D"http://service.omprussia.ru/track/redirect/21eb=
+b933961e12d859df0c619eed0140ef468c1293a504584af50995ee0342ea" style=3D"co=
+lor: #2ba6cb; text-decoration: none;">=D0=9F=D0=BE=D0=B4=D0=BA=D0=BB=D1=8E=
+=D1=87=D0=B8=D1=82=D1=8C=D1=81=D1=8F</a><br></span></p>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+<td class=3D"wrapper last" style=3D"word-break: break-word; -webkit-hyphe=
+ns: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !i=
+mportant; vertical-align: top; text-align: left; position: relative; colo=
+r: #222222; font-family: Helvetica, Arial, sans-serif; font-weight: norma=
+l; font-size: 14px; margin: 0; padding: 0px;" align=3D"left" valign=3D"to=
+p">=0D
+<table class=3D"three columns" style=3D"border-spacing: 0; border-collaps=
+e: collapse; vertical-align: top; text-align: left; width: 130px; margin:=
+ 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<hr style=3D"color: #d9d9d9; background-color: #d9d9d9; height: 1px; bord=
+er: none;">=0D
+=0D
+<!--[if mso]>=0D
+<table align=3D'left' style=3D'border-collapse: collapse; border-spacing:=
+ 0; overflow: hidden; border: 0; width: 100%; '>=0D
+<tr>=0D
+<td align=3D'left' style=3D'padding: 0px 0px 0px 0px;'>=0D
+<a href=3D'http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed0140ef468c1293a504584af50995ee0342ea'>=0D
+<img alt=3D'=D0=9F=D1=80=D0=B8=D1=85=D0=BE=D0=B4=D0=B8=D1=82=D0=B5 =D0=BD=
+=D0=B0 =D0=B2=D0=B5=D0=B1=D0=B8=D0=BD=D0=B0=D1=80 =C2=AB=D0=97=D0=B0=D1=89=
+=D0=B8=D1=89=D1=91=D0=BD=D0=BD=D1=8B=D0=B5 =D0=BA=D0=BE=D0=BC=D0=BC=D1=83=
+=D0=BD=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=D0=B8 =D0=BD=D0=B0 =D0=BF=D0=BB=D0=B0=
+=D1=82=D1=84=D0=BE=D1=80=D0=BC=D0=B5 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0=
+=C2=BB' src=3D'https://img.msndr.net/content/545a9602981e7cf532e4d6525e80=
+08d2.png' width=3D'130'>=0D
+</a>=0D
+</td>=0D
+</tr>=0D
+</table>=0D
+<![endif]-->=0D
+<!--[if !mso]>=0D
+<!---->=0D
+<div align=3D"left" style=3D"padding: 0px;">=0D
+<a href=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed0140ef468c1293a504584af50995ee0342ea" style=3D"color: #2ba6cb; t=
+ext-decoration: none;">=0D
+<img alt=3D"=D0=9F=D1=80=D0=B8=D1=85=D0=BE=D0=B4=D0=B8=D1=82=D0=B5 =D0=BD=
+=D0=B0 =D0=B2=D0=B5=D0=B1=D0=B8=D0=BD=D0=B0=D1=80 =C2=AB=D0=97=D0=B0=D1=89=
+=D0=B8=D1=89=D1=91=D0=BD=D0=BD=D1=8B=D0=B5 =D0=BA=D0=BE=D0=BC=D0=BC=D1=83=
+=D0=BD=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=D0=B8 =D0=BD=D0=B0 =D0=BF=D0=BB=D0=B0=
+=D1=82=D1=84=D0=BE=D1=80=D0=BC=D0=B5 =D0=90=D0=B2=D1=80=D0=BE=D1=80=D0=B0=
+=C2=BB" class=3D"left" height=3D"73" src=3D"https://img.msndr.net/content=
+/545a9602981e7cf532e4d6525e8008d2.png" style=3D"width: 130px !important; =
+height: 73px; outline: none; text-decoration: none; -ms-interpolation-mod=
+e: bicubic; max-width: 100%; float: left; clear: both; display: block; bo=
+rder: none;" width=3D"130" align=3D"left">=0D
+</a>=0D
+</div>=0D
+<div class=3D"clearfix" style=3D"clear: both;"></div>=0D
+<!-- <![endif]-->=0D
+<!--[endif]---->=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+<table class=3D"container" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: inherit; max-width: 580px; marg=
+in: 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; color: #222222; font-family: Helvetica, Arial, =
+sans-serif; font-weight: normal; font-size: 14px; margin: 0; padding: 0;"=
+ align=3D"left" valign=3D"top">=0D
+<table class=3D"row" style=3D"border-spacing: 0; border-collapse: collaps=
+e; vertical-align: top; text-align: left; width: 100%; position: relative=
+; display: block; background: transparent repeat center top; padding: 0px=
+;" bgcolor=3D"transparent">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"wrapper first last" style=3D"word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: colla=
+pse !important; vertical-align: top; text-align: left; position: relative=
+; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weight:=
+ normal; font-size: 14px; margin: 0; padding: 0px;" align=3D"left" valign=
+=3D"top">=0D
+<table class=3D"twelve columns" style=3D"border-spacing: 0; border-collap=
+se: collapse; vertical-align: top; text-align: left; width: 580px; margin=
+: 0 auto; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px 0px 8px;" align=3D"left" valign=3D"top">=0D
+<hr style=3D"color: #d9d9d9; background-color: #d9d9d9; height: 1px; bord=
+er: none;">=0D
+=0D
+<table width=3D"100%" style=3D"border-spacing: 0; border-collapse: collap=
+se; vertical-align: top; text-align: left; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse !important; vertical-alig=
+n: top; text-align: left; width: 100%; color: #222222; font-family: Helve=
+tica, Arial, sans-serif; font-weight: normal; font-size: 14px; margin: 0;=
+ padding: 0px;" align=3D"left" valign=3D"top">=0D
+<div class=3D"center social" style=3D"text-align: center;" align=3D"cente=
+r">=0D
+<a href=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed0140f6aae69975a82d57be8f0288c8b8565f" style=3D"padding-right: 5p=
+x; text-decoration: none; color: #2ba6cb;">=0D
+<img alt=3D"" src=3D"https://img.msndr.net/content/8c8deeaf223ca3cf15e359=
+75fd49ae1a.png" style=3D"outline: none; text-decoration: none; -ms-interp=
+olation-mode: bicubic; width: auto; max-width: 100%; float: inherit; clea=
+r: both; display: inline; border: none;" align=3D"inherit">=0D
+</a>=0D
+<!--[if mso]>=0D
+&nbsp;=0D
+<![endif]-->=0D
+<a href=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed0140a83a3e5fbdc2c9ab282f52151f31e515" style=3D"padding-right: 5p=
+x; text-decoration: none; color: #2ba6cb;">=0D
+<img alt=3D"" src=3D"https://img.msndr.net/content/7721838704efce3366b192=
+45c15d13bc.png" style=3D"outline: none; text-decoration: none; -ms-interp=
+olation-mode: bicubic; width: auto; max-width: 100%; float: inherit; clea=
+r: both; display: inline; border: none;" align=3D"inherit">=0D
+</a>=0D
+<!--[if mso]>=0D
+&nbsp;=0D
+<![endif]-->=0D
+<a href=3D"http://service.omprussia.ru/track/redirect/21ebb933961e12d859d=
+f0c619eed0140da7935b3d2ba2c5b0680a9fbebd5bacb" style=3D"padding-right: 5p=
+x; text-decoration: none; color: #2ba6cb;">=0D
+<img alt=3D"" src=3D"https://img.msndr.net/content/dcc7a1abbc13e3d53a2a05=
+a1bf7da0d3.png" style=3D"outline: none; text-decoration: none; -ms-interp=
+olation-mode: bicubic; width: auto; max-width: 100%; float: inherit; clea=
+r: both; display: inline; border: none;" align=3D"inherit">=0D
+</a>=0D
+<!--[if mso]>=0D
+&nbsp;=0D
+<![endif]-->=0D
+</div>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+=0D
+<hr style=3D"color: #d9d9d9; background-color: #d9d9d9; height: 1px; bord=
+er: none;">=0D
+=0D
+<table width=3D"100%" style=3D"border-spacing: 0; border-collapse: collap=
+se; vertical-align: top; text-align: left; padding: 0;">=0D
+<tbody><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left">=0D
+<td class=3D"center" style=3D"text-align: center; word-break: break-word;=
+ -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collaps=
+e: collapse !important; vertical-align: top; width: 100%; color: #222222;=
+ font-family: Helvetica, Arial, sans-serif; font-weight: normal; font-siz=
+e: 14px; background: transparent repeat center center; margin: 0; padding=
+: 0px;" align=3D"center" bgcolor=3D"transparent" valign=3D"top">=0D
+=D0=95=D1=81=D0=BB=D0=B8 =D0=B2=D1=8B =D0=BD=D0=B5 =D1=85=D0=BE=D1=82=D0=B8=
+=D1=82=D0=B5 =D0=B1=D0=BE=D0=BB=D1=8C=D1=88=D0=B5 =D0=BF=D0=BE=D0=BB=D1=83=
+=D1=87=D0=B0=D1=82=D1=8C =D0=BD=D0=B0=D1=88=D0=B8 =D0=BF=D0=B8=D1=81=D1=8C=
+=D0=BC=D0=B0, =D0=BF=D1=80=D0=BE=D1=81=D1=82=D0=BE =D0=BF=D0=B5=D1=80=D0=B5=
+=D0=B9=D0=B4=D0=B8=D1=82=D0=B5 =D0=BF=D0=BE =D1=81=D1=81=D1=8B=D0=BB=D0=BA=
+=D0=B5=0D
+<a href=3D"http://service.omprussia.ru/unsubscriptions/21ebb933961e12d800=
+769fe12bca2f29c63725785ba6f60059199d2ebd2e454b" style=3D"color: #2ba6cb; =
+text-decoration: none;">=D0=BE=D1=82=D0=BA=D0=B0=D0=B7=D0=B0=D1=82=D1=8C=D1=
+=81=D1=8F =D0=BE=D1=82 =D1=80=D0=B0=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D0=B8</=
+a>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+=0D
+=0D
+</td>=0D
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !impor=
+tant; vertical-align: top; text-align: left; width: 100%; visibility: hid=
+den; color: #222222; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: normal; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top"></td>=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+=0D
+</tr>=0D
+</tbody></table>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+=0D
+</center>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+=0D
+=0D
+=0D
+=0D
+</body></html>=
+
+----==_mimepart_6319b74ebdbaa_12ace5ac57904330655b3--
+
+----==_mimepart_6319b74ebdd12_12ace5ac5790433065698--

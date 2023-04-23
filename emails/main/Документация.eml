@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru" dir="ltr">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	
+	<title> mail.communigate.ru</title>
+	<link rel="stylesheet" href="/SkinFiles/mail.communigate.ru/Samoware-Messenger/style.css" type="text/css" />
+  <meta http-equiv="x-dns-prefetch-control" content="off" />
+  <meta name="referrer" content="no-referrer" />
+</head>
+<body>
+<form  method="post" enctype="multipart/form-data">
+<input type="hidden" name="FormCharset" value="utf-8" />
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+
+<tr><td height="25">&nbsp;</td></tr>
+
+<tr valign="center">
+<td align="center" bgcolor="#ffcccc" class="externalError">
+Запрошенные данные недоступны
+<br/>&nbsp;<br/>
+file is not found
+</td>
+</tr>
+
+</table>
+</form>
+</body>
+</html>
+
